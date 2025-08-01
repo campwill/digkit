@@ -1,0 +1,17 @@
+[Unit]
+Description=Registry Hive Collector
+Before=multi-user.target
+After=local-fs.target
+Conflicts=getty@tty1.service
+
+[Service]
+type=oneshot
+ExecStart=/home/user/Scripts/registry_collector.sh
+RemainAfterExit=true
+StandardOutput=tty
+StandardError=tty
+TTYPath=/dev/tty1
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
