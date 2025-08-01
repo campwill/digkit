@@ -65,4 +65,7 @@ With the live USB built, configurations to the environment must be made:
 2. Plug the live USB into an available USB port on the target Windows computer.
 3. Power on the target Windows computer, access the boot menu (if available), and boot into the live USB environment.
 4. Once the live USB environment boots, the Registry hives will be collected from the target Windows computer (if available).
+5. The computer will power off once the Registry hives are collected (the live environment may hang if the script is unable to collect the Registry hives).
+
+The Registry hives are saved to the REGSAVE partition, which can be accessed by plugging the USB drive into a Windows or Linux computer.
 
