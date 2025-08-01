@@ -45,7 +45,7 @@ With the live USB built, configurations to the environment must be made:
 2. Boot into the live USB environment and move the files in this repository to the following directories:
     - `registry_collector.sh` -> `/home/user/Scripts/registry_collector.sh`
     - `registry_collector.service` -> `/etc/systemd/system/registry_collector.service`
-    - `Packages/*' -> `/home/user/Packages/*`
+    - `Packages/*` -> `/home/user/Packages/*`
 
 3. Run the following commands in the live USB environment:
     - `sudo chmod +x /usr/local/bin/myscript.sh`
