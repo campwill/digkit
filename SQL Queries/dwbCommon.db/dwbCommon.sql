@@ -1,5 +1,5 @@
 SELECT 
-	usageEvents.pkgId,
+  usageEvents.pkgId,
   datetime(usageEvents.timeStamp / 1000, 'unixepoch') AS timestamps, --UTC
   --datetime(usageEvents.timeStamp / 1000, 'unixepoch', '-5 hours') AS timestamps, --CDT (UTC-5:00)
   foundPackages.name, 
@@ -26,4 +26,4 @@ SELECT
   END AS eventTypeReadable
 FROM usageEvents
 INNER JOIN foundPackages ON usageEvents.pkgId = foundPackages.pkgId
-ORDER BY eventType;
+ORDER BY timestamps;
