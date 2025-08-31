@@ -1,1 +1,0 @@
-for /f "tokens=*" %%a in (links.txt) do curl -O %%a
