@@ -8,7 +8,7 @@ setup(
     install_requires=[
         "pandas",
         "requests",
-        "beautifulsoup",
+        "beautifulsoup4",
         "python-gnupg"
     ],
     entry_points={
