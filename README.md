@@ -1,4 +1,4 @@
-# DigKit (Digital Forensics Kit)
+# digkit (Digital Forensics Toolkit)
 
 A collection of digital forensics tools and scripts.
 
