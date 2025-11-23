@@ -1,8 +1,8 @@
 import argparse
-from scripts import bundleid_lookup, apple_warrant, sqlite_queries, hash_algorithms
+from scripts import bundleid_lookup, apple_warrant, sqlite_queries, hash_algorithms, domain_lookup
 
 def main():
-    #parser
+    # parser
     parser = argparse.ArgumentParser(prog="digkit", description="digkit (Digital Forensics Toolkit): A collection of digital forensics tools and scripts.")
     subparsers = parser.add_subparsers(dest="tool", required=True)
 
@@ -13,21 +13,31 @@ def main():
 
     # bundleid
     bundleid = lookup_sub.add_parser("bundleid", help="ios/android bundle id lookup", description="Identifies application names from bundle IDs across app stores.")
-    bundleid.add_argument("-s", "--store", dest="store", choices=["apple", "google", "galaxy"], required=True, help="specify which app store to search")
+    bundleid.add_argument("-s", "--store", dest="bundleid_store", choices=["apple", "google", "galaxy"], required=True, help="specify which app store to search")
     bundleid.add_argument("bundle_id", help="bundle/package identifier (eg. com.toyopagroup.picaboo)")
 
+    # domain
+    domain = lookup_sub.add_parser("domain", help="domain name lookup", description="Look up information associated with a domain name.")
+    domain_sub = domain.add_subparsers(dest="domain_action", required=True)
+
+    whois = domain_sub.add_parser("whois", help="lookup and print a domain whois data", description="Search for WHOIS information associated with a domain name.")
+    whois.add_argument("domain_name", help="domain name (eg. google.com)")
+
+    # dns records
+    # add tool that looks up DNS record information
+
     # iccid
-    # add tool that verifies ICCID information 
+    # add tool that looks up ICCID information 
 
     # imei
-    # add tool that verifies IMEI information
+    # add tool that looks up IMEI information
 
 
-    #parse subparser
+    # parse subparser
     parse = subparsers.add_parser("parse", help="artifact parsing utilities", description="Collect, process, and parse information from various data sources.")
     parse_sub = parse.add_subparsers(dest="action", required=True)
 
-    #warrant
+    # warrant
     warrant = parse_sub.add_parser("warrant", help="apple warrant preparation tools", description="Tools used for preparing Apple warrant return data.")
     warrant_sub = warrant.add_subparsers(dest="warrant_action", required=True)
     
@@ -40,7 +50,7 @@ def main():
     decrypt.add_argument("-o", "--output", dest="output_dir", metavar="OUTPUT_DIR", required=True, help="output directory for decrypted files")
     decrypt.add_argument("-p", "--passphrase", dest="passphrase", metavar="'PASSPHRASE'", required=True, help="apple-supplied passphrase for encrypted files (encapsulate with single quotes)")
 
-    #database
+    # database
     database = parse_sub.add_parser("database", help="artifact parsers for databases", description="Parses notable artifacts from a selection of supported databases.", formatter_class=argparse.RawTextHelpFormatter)
     database.add_argument("-d", "--database", dest="database", choices=["dwbcommon", "notestore"], required=True,
         help=(
@@ -52,8 +62,11 @@ def main():
     database.add_argument("-o", "--output", dest="output_dir", metavar="OUTPUT_DIR", required=False, help="optional output directory for parsed data file")
     database.add_argument("-f", "--format", dest="output_format", choices=["console", "csv", "html", "txt"], required=False, help="output format of parsed data")
 
+    # exif data
+    # add tool that parses exif data from images
 
-    #hash subparser
+
+    # hash subparser
     hash = subparsers.add_parser("hash", help="file hashing utilities", description="Apply common hashing algorithms to files.")
 
     hash.add_argument("-a", "--algorithm", dest="algorithm", choices=["md5", "sha1", "sha256"], required=True, help="specify which hash algorithm to use")
@@ -61,17 +74,20 @@ def main():
     hash.add_argument("-o", "--output", dest="output_dir", metavar="OUTPUT_DIR", required=False, help="path to save hash result")
 
 
-    #dispatch
+    # dispatch
     args = parser.parse_args()
 
     if args.tool == "lookup":
         if args.action == "bundleid":
-            if args.store == "apple":
+            if args.bundleid_store == "apple":
                 print(bundleid_lookup.get_apple_store_name(args.bundle_id))
-            elif args.store == "google":
+            elif args.bundleid_store == "google":
                 print(bundleid_lookup.get_google_play_name(args.bundle_id))
-            elif args.store == "galaxy":
+            elif args.bundleid_store == "galaxy":
                 print(bundleid_lookup.get_galaxy_store_name(args.bundle_id))
+        elif args.action == "domain":
+            if args.domain_action == "whois":
+                print(domain_lookup.get_whois(args.domain_name))
     elif args.tool == "parse":
         if args.action == "warrant":
             if args.warrant_action == "download":
