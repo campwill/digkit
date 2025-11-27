@@ -20,11 +20,11 @@ def main():
     domain = lookup_sub.add_parser("domain", help="domain name lookup", description="Look up information associated with a domain name.")
     domain_sub = domain.add_subparsers(dest="domain_action", required=True)
 
-    whois = domain_sub.add_parser("whois", help="lookup and print a domain whois data", description="Search for WHOIS information associated with a domain name.")
+    whois = domain_sub.add_parser("whois", help="lookup and print a domain's whois data", description="Search for WHOIS information associated with a domain name.")
     whois.add_argument("domain_name", help="domain name (eg. google.com)")
 
-    # dns records
-    # add tool that looks up DNS record information
+    dns = domain_sub.add_parser("dns", help="lookup and print a domain's dns record", description="Search for DNS record associated with a domain name.")
+    dns.add_argument("domain_name", help="domain name (eg. google.com)")
 
     # iccid
     # add tool that looks up ICCID information 
@@ -88,6 +88,8 @@ def main():
         elif args.action == "domain":
             if args.domain_action == "whois":
                 print(domain_lookup.get_whois(args.domain_name))
+            elif args.domain_action =="dns":
+                print(domain_lookup.get_dns_records(args.domain_name))
     elif args.tool == "parse":
         if args.action == "warrant":
             if args.warrant_action == "download":
