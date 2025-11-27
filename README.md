@@ -24,7 +24,11 @@ digkit [-h] <command> ...
 
 Look up information associated with application and device identifiers.
 
-* **bundleid**: Identifies application names from bundle IDs across app stores (Apple, Google, and Galaxy).
+* **bundleid**: Look up information associated with a domain name.
+
+* **domain**: Identifies application names from bundle IDs across app stores (Apple, Google, and Galaxy).
+  * **whois**: Search for WHOIS information associated with a domain name.
+  * **dns**: Search for DNS record associated with a domain name.
 
 #### `parse`
 
