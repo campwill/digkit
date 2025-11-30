@@ -30,6 +30,8 @@ Look up information associated with application and device identifiers.
   * **whois**: Search for WHOIS information associated with a domain name.
   * **dns**: Search for DNS record associated with a domain name.
 
+* **iccid**: Decodes information from an Integrated Circuit Card Identifier (ICCID) number.
+
 #### `parse`
 
 Collect, process, and parse information from various data sources.
@@ -57,6 +59,21 @@ digkit lookup bundleid -s apple com.toyopagroup.picaboo
 
 # output
 Snapchat
+```
+
+**ICCID Lookup**
+```bash
+# command
+digkit lookup iccid 8981100022152967705
+
+# output
+Your SIM Card number, 8981100022152967705, uses ICCID format:
+
+Major Industry Identifier (MII): 89 - Telecom - Private agency
+International Calling Region: 81 - Japan
+Issuer: 10 - NTT DOCOMO, INC.
+Account Number: 002215296770
+Checksum: 5
 ```
 
 **Parsing NoteStore.sqlite**

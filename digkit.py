@@ -1,5 +1,5 @@
 import argparse
-from scripts import bundleid_lookup, apple_warrant, sqlite_queries, hash_algorithms, domain_lookup
+from scripts import bundleid_lookup, apple_warrant, sqlite_queries, hash_algorithms, domain_lookup, iccid_lookup
 
 def main():
     # parser
@@ -23,11 +23,12 @@ def main():
     whois = domain_sub.add_parser("whois", help="lookup and print a domain's whois data", description="Search for WHOIS information associated with a domain name.")
     whois.add_argument("domain_name", help="domain name (eg. google.com)")
 
-    dns = domain_sub.add_parser("dns", help="lookup and print a domain's dns record", description="Search for DNS record associated with a domain name.")
+    dns = domain_sub.add_parser("dns", help="lookup and print a domain's dns records", description="Search for DNS record associated with a domain name.")
     dns.add_argument("domain_name", help="domain name (eg. google.com)")
 
     # iccid
-    # add tool that looks up ICCID information 
+    iccid = lookup_sub.add_parser("iccid", help="integrated circuit card identifier (ICCID) lookup", description="Decodes information from an Integrated Circuit Card Identifier (ICCID) number.")
+    iccid.add_argument("iccid_number", help="integrated circuit card identifier (ICCID) number (eg. 8981100022152967705)")
 
     # imei
     # add tool that looks up IMEI information
@@ -90,6 +91,8 @@ def main():
                 print(domain_lookup.get_whois(args.domain_name))
             elif args.domain_action =="dns":
                 print(domain_lookup.get_dns_records(args.domain_name))
+        elif args.action == "iccid":
+            iccid_lookup.lookup_iccid(args.iccid_number)
     elif args.tool == "parse":
         if args.action == "warrant":
             if args.warrant_action == "download":

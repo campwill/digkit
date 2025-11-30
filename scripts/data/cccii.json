@@ -1,0 +1,7262 @@
+{
+    "1000": {
+        "ccc": "1",
+        "ii": "000",
+        "country": "United States",
+        "issuer": "Whibey Telephone Company"
+    },
+    "1001": {
+        "ccc": "1",
+        "ii": "001",
+        "country": "United States",
+        "issuer": "Hat Island Telephone Company"
+    },
+    "1002": {
+        "ccc": "1",
+        "ii": "002",
+        "country": "United States",
+        "issuer": "Tenzing Communications, Inc."
+    },
+    "1003": {
+        "ccc": "1",
+        "ii": "003",
+        "country": "United States",
+        "issuer": "Highland Cellular Inc."
+    },
+    "1004": {
+        "ccc": "1",
+        "ii": "004",
+        "country": "United States",
+        "issuer": "Endless Mountains Wireless LLC"
+    },
+    "1005": {
+        "ccc": "1",
+        "ii": "005",
+        "country": "United States",
+        "issuer": "San Marcos Telephone Company Inc."
+    },
+    "1006": {
+        "ccc": "1",
+        "ii": "006",
+        "country": "United States",
+        "issuer": "Duocash Inc."
+    },
+    "1007": {
+        "ccc": "1",
+        "ii": "007",
+        "country": "Canada",
+        "issuer": "Telebec Lt\u00e9e"
+    },
+    "1008": {
+        "ccc": "1",
+        "ii": "008",
+        "country": "Guam",
+        "issuer": "Wave Runner LLC"
+    },
+    "1009": {
+        "ccc": "1",
+        "ii": "009",
+        "country": "United States",
+        "issuer": "NEP Cellcorp Inc."
+    },
+    "1010": {
+        "ccc": "1",
+        "ii": "010",
+        "country": "Anguilla",
+        "issuer": "Cable and Wireless (Anguilla) Ltd."
+    },
+    "1011": {
+        "ccc": "1",
+        "ii": "011",
+        "country": "Antigua and Barbuda",
+        "issuer": "Cable and Wireless (W.I.) Ltd."
+    },
+    "1012": {
+        "ccc": "1",
+        "ii": "012",
+        "country": "Barbados",
+        "issuer": "Barbados Telephone Company Ltd. (BARTEL)"
+    },
+    "1013": {
+        "ccc": "1",
+        "ii": "013",
+        "country": "Bermuda",
+        "issuer": "Cable and Wireless plc"
+    },
+    "1014": {
+        "ccc": "1",
+        "ii": "014",
+        "country": "British Virgin Islands",
+        "issuer": "Cable and Wireless (W.I.) Ltd."
+    },
+    "1015": {
+        "ccc": "1",
+        "ii": "015",
+        "country": "Cayman Islands",
+        "issuer": "Cable and Wireless (C.I.) Ltd."
+    },
+    "1016": {
+        "ccc": "1",
+        "ii": "016",
+        "country": "Dominica",
+        "issuer": "Telecommunications of Dominica Ltd."
+    },
+    "1017": {
+        "ccc": "1",
+        "ii": "017",
+        "country": "Grenada",
+        "issuer": "Grenada Telecommunications Ltd. (GRENTEL)"
+    },
+    "1018": {
+        "ccc": "1",
+        "ii": "018",
+        "country": "Jamaica",
+        "issuer": "Cable and Wireless Jamaica Ltd"
+    },
+    "1019": {
+        "ccc": "1",
+        "ii": "019",
+        "country": "Montserrat",
+        "issuer": "Cable and Wireless (W.I.) Ltd."
+    },
+    "1020": {
+        "ccc": "1",
+        "ii": "020",
+        "country": "Saint Kitts and Nevis",
+        "issuer": "Cable & Wireless St. Kitts and Nevis Ltd."
+    },
+    "1021": {
+        "ccc": "1",
+        "ii": "021",
+        "country": "Saint Lucia",
+        "issuer": "Cable and Wireless (St. Lucia) Ltd."
+    },
+    "1022": {
+        "ccc": "1",
+        "ii": "022",
+        "country": "Saint Vincent and the Grenadines",
+        "issuer": "Cable and Wireless (St. Vincent & The Grenadines) Limited"
+    },
+    "1023": {
+        "ccc": "1",
+        "ii": "023",
+        "country": "Trinidad and Tobago",
+        "issuer": "Telecommunications Services of Trinidad and Tobago Ltd.(TSTT)"
+    },
+    "1024": {
+        "ccc": "1",
+        "ii": "024",
+        "country": "Turks and Caicos Islands",
+        "issuer": "Cable and Wireless (W.I.) Ltd."
+    },
+    "1025": {
+        "ccc": "1",
+        "ii": "025",
+        "country": "Northern Marianas",
+        "issuer": "PTI"
+    },
+    "1026": {
+        "ccc": "1",
+        "ii": "026",
+        "country": "United States",
+        "issuer": "GCI Communications Corp"
+    },
+    "1027": {
+        "ccc": "1",
+        "ii": "027",
+        "country": "United States",
+        "issuer": "TerreStar Networks Inc."
+    },
+    "1028": {
+        "ccc": "1",
+        "ii": "028",
+        "country": "Dominican Rep.",
+        "issuer": "Globe Wireless"
+    },
+    "1029": {
+        "ccc": "1",
+        "ii": "029",
+        "country": "United States",
+        "issuer": "Lycatel LLC"
+    },
+    "1030": {
+        "ccc": "1",
+        "ii": "030",
+        "country": "United States",
+        "issuer": "Telecom North America Mobile Inc"
+    },
+    "1031": {
+        "ccc": "1",
+        "ii": "031",
+        "country": "United States",
+        "issuer": "Vivaro Corporation"
+    },
+    "1032": {
+        "ccc": "1",
+        "ii": "032",
+        "country": "United States",
+        "issuer": "Geneseo Communications Inc."
+    },
+    "1033": {
+        "ccc": "1",
+        "ii": "033",
+        "country": "United States",
+        "issuer": "Mortorola Solutions Inc"
+    },
+    "1034": {
+        "ccc": "1",
+        "ii": "034",
+        "country": "United States",
+        "issuer": "IDT Telecom Inc"
+    },
+    "1035": {
+        "ccc": "1",
+        "ii": "035",
+        "country": "Canada",
+        "issuer": "Bragg Communications Inc"
+    },
+    "1036": {
+        "ccc": "1",
+        "ii": "036",
+        "country": "United States",
+        "issuer": "Long Distance Savers"
+    },
+    "1037": {
+        "ccc": "1",
+        "ii": "037",
+        "country": "Canada",
+        "issuer": "First Networks Operation Inc."
+    },
+    "1038": {
+        "ccc": "1",
+        "ii": "038",
+        "country": "United States",
+        "issuer": "Paygo Mobile Llc"
+    },
+    "1039": {
+        "ccc": "1",
+        "ii": "039",
+        "country": "United States",
+        "issuer": "Aspider Solutions"
+    },
+    "1041": {
+        "ccc": "1",
+        "ii": "041",
+        "country": "United States",
+        "issuer": "Gigsky Inc."
+    },
+    "1042": {
+        "ccc": "1",
+        "ii": "042",
+        "country": "United States",
+        "issuer": "NetGenuity"
+    },
+    "1043": {
+        "ccc": "1",
+        "ii": "043",
+        "country": "United States",
+        "issuer": "Gila Electronics of Arizona LLC"
+    },
+    "1044": {
+        "ccc": "1",
+        "ii": "044",
+        "country": "United States",
+        "issuer": "Gigsky Mobile LLC"
+    },
+    "1045": {
+        "ccc": "1",
+        "ii": "045",
+        "country": "United States",
+        "issuer": "Codetel, LLC"
+    },
+    "1046": {
+        "ccc": "1",
+        "ii": "046",
+        "country": "United States",
+        "issuer": "Hewlett-Packard Communications Services, LLC"
+    },
+    "1047": {
+        "ccc": "1",
+        "ii": "047",
+        "country": "United States",
+        "issuer": "Qualcomm"
+    },
+    "1048": {
+        "ccc": "1",
+        "ii": "048",
+        "country": "Guam",
+        "issuer": "Docomo Pacific, Inc."
+    },
+    "1049": {
+        "ccc": "1",
+        "ii": "049",
+        "country": "United States",
+        "issuer": "OptimERA Inc."
+    },
+    "1050": {
+        "ccc": "1",
+        "ii": "050",
+        "country": "Jamaica",
+        "issuer": "Digicel Jamaica Ltd"
+    },
+    "1051": {
+        "ccc": "1",
+        "ii": "051",
+        "country": "United States",
+        "issuer": "Dish Network"
+    },
+    "1052": {
+        "ccc": "1",
+        "ii": "052",
+        "country": "United States",
+        "issuer": "Celona Inc."
+    },
+    "1053": {
+        "ccc": "1",
+        "ii": "053",
+        "country": "United States",
+        "issuer": "Shuttle Wireless Solutions, Inc."
+    },
+    "1054": {
+        "ccc": "1",
+        "ii": "054",
+        "country": "United States",
+        "issuer": "Workz Technologies Inc"
+    },
+    "1055": {
+        "ccc": "1",
+        "ii": "055",
+        "country": "United States",
+        "issuer": "Puloli, Inc."
+    },
+    "1056": {
+        "ccc": "1",
+        "ii": "056",
+        "country": "United States",
+        "issuer": "JCI US INC"
+    },
+    "1057": {
+        "ccc": "1",
+        "ii": "057",
+        "country": "United States",
+        "issuer": "Expeto Wireless Inc."
+    },
+    "1059": {
+        "ccc": "1",
+        "ii": "059",
+        "country": "United States",
+        "issuer": "Comcast Corporation"
+    },
+    "1060": {
+        "ccc": "1",
+        "ii": "060",
+        "country": "United States",
+        "issuer": "TRACFONE WIRELESS, INC"
+    },
+    "1061": {
+        "ccc": "1",
+        "ii": "061",
+        "country": "United States",
+        "issuer": "Cradlepoint, Inc."
+    },
+    "1062": {
+        "ccc": "1",
+        "ii": "062",
+        "country": "United States",
+        "issuer": "Council Rock Enterprises Inc"
+    },
+    "1063": {
+        "ccc": "1",
+        "ii": "063",
+        "country": "United States",
+        "issuer": "World Mobile Networks, LLC"
+    },
+    "1064": {
+        "ccc": "1",
+        "ii": "064",
+        "country": "United States",
+        "issuer": "Pilot Thomas Logistics"
+    },
+    "1065": {
+        "ccc": "1",
+        "ii": "065",
+        "country": "United States",
+        "issuer": "OXIO CORP INC."
+    },
+    "1066": {
+        "ccc": "1",
+        "ii": "066",
+        "country": "United States",
+        "issuer": "Lower Colorado River Authority"
+    },
+    "1067": {
+        "ccc": "1",
+        "ii": "067",
+        "country": "United States",
+        "issuer": "TextNow Inc."
+    },
+    "1080": {
+        "ccc": "1",
+        "ii": "080",
+        "country": "United States",
+        "issuer": "Corr Wireless Communications"
+    },
+    "1090": {
+        "ccc": "1",
+        "ii": "090",
+        "country": "United States",
+        "issuer": "Siouxland PCS, Inc."
+    },
+    "1091": {
+        "ccc": "1",
+        "ii": "091",
+        "country": "United States",
+        "issuer": "Allied Wireless Communications Corporation"
+    },
+    "1111": {
+        "ccc": "1",
+        "ii": "111",
+        "country": "United States",
+        "issuer": "Citizen Utilities Company"
+    },
+    "1123": {
+        "ccc": "1",
+        "ii": "123",
+        "country": "United States",
+        "issuer": "ATC"
+    },
+    "1130": {
+        "ccc": "1",
+        "ii": "130",
+        "country": "Antigua and Barbuda",
+        "issuer": "Antigua Public Utilities Authority (APUA)"
+    },
+    "1149": {
+        "ccc": "1",
+        "ii": "149",
+        "country": "United States",
+        "issuer": "OptimERA Inc."
+    },
+    "1160": {
+        "ccc": "1",
+        "ii": "160",
+        "country": "United States",
+        "issuer": "T-Mobile USA"
+    },
+    "1170": {
+        "ccc": "1",
+        "ii": "170",
+        "country": "United States",
+        "issuer": "Tampnet INC"
+    },
+    "1200": {
+        "ccc": "1",
+        "ii": "200",
+        "country": "United States",
+        "issuer": "BellSouth Services"
+    },
+    "1210": {
+        "ccc": "1",
+        "ii": "210",
+        "country": "United States",
+        "issuer": "T-Mobile USA"
+    },
+    "1211": {
+        "ccc": "1",
+        "ii": "211",
+        "country": "United States",
+        "issuer": "RCI Corporation"
+    },
+    "1220": {
+        "ccc": "1",
+        "ii": "220",
+        "country": "United States",
+        "issuer": "Chesapeake & Potomac telephone Company of Washington"
+    },
+    "1221": {
+        "ccc": "1",
+        "ii": "221",
+        "country": "United States",
+        "issuer": "Chesapeake & Potomac Telephone Company of Maryland"
+    },
+    "1222": {
+        "ccc": "1",
+        "ii": "222",
+        "country": "United States",
+        "issuer": "MCI WorldCom"
+    },
+    "1223": {
+        "ccc": "1",
+        "ii": "223",
+        "country": "Canada",
+        "issuer": "Telus Communications Company"
+    },
+    "1224": {
+        "ccc": "1",
+        "ii": "224",
+        "country": "United States",
+        "issuer": "Chesapeake & Potomac Telephone Company of West Virginia"
+    },
+    "1226": {
+        "ccc": "1",
+        "ii": "226",
+        "country": "United States",
+        "issuer": "Diamond State Telephone Company"
+    },
+    "1227": {
+        "ccc": "1",
+        "ii": "227",
+        "country": "United States",
+        "issuer": "Bell of Pennsylvania"
+    },
+    "1228": {
+        "ccc": "1",
+        "ii": "228",
+        "country": "Canada",
+        "issuer": "British Columbia Telephone Company Ltd."
+    },
+    "1229": {
+        "ccc": "1",
+        "ii": "229",
+        "country": "United States",
+        "issuer": "New Jersey Bell Telephone Company"
+    },
+    "1230": {
+        "ccc": "1",
+        "ii": "230",
+        "country": "United States",
+        "issuer": "T-Mobile USA"
+    },
+    "1232": {
+        "ccc": "1",
+        "ii": "232",
+        "country": "Bermuda",
+        "issuer": "The Bermuda Telephone Company Ltd."
+    },
+    "1234": {
+        "ccc": "1",
+        "ii": "234",
+        "country": "United States",
+        "issuer": "Southern New England Telephone"
+    },
+    "1235": {
+        "ccc": "1",
+        "ii": "235",
+        "country": "United States",
+        "issuer": "Chesapeake & Potomac Telephone Company of Virginia"
+    },
+    "1236": {
+        "ccc": "1",
+        "ii": "236",
+        "country": "Canada",
+        "issuer": "Bell Canada"
+    },
+    "1240": {
+        "ccc": "1",
+        "ii": "240",
+        "country": "United States",
+        "issuer": "T-Mobile USA"
+    },
+    "1246": {
+        "ccc": "1",
+        "ii": "246",
+        "country": "United States",
+        "issuer": "China Telephone Company"
+    },
+    "1248": {
+        "ccc": "1",
+        "ii": "248",
+        "country": "Canada",
+        "issuer": "Telus Communications Inc."
+    },
+    "1250": {
+        "ccc": "1",
+        "ii": "250",
+        "country": "Canada",
+        "issuer": "ALO Mobile Inc"
+    },
+    "1253": {
+        "ccc": "1",
+        "ii": "253",
+        "country": "United States",
+        "issuer": "AT&T"
+    },
+    "1258": {
+        "ccc": "1",
+        "ii": "258",
+        "country": "Canada",
+        "issuer": "Telus Communications Inc."
+    },
+    "1260": {
+        "ccc": "1",
+        "ii": "260",
+        "country": "United States",
+        "issuer": "T-Mobile USA"
+    },
+    "1266": {
+        "ccc": "1",
+        "ii": "266",
+        "country": "United States",
+        "issuer": "Com Systems"
+    },
+    "1270": {
+        "ccc": "1",
+        "ii": "270",
+        "country": "United States",
+        "issuer": "T-Mobile USA"
+    },
+    "1272": {
+        "ccc": "1",
+        "ii": "272",
+        "country": "United States",
+        "issuer": "Bell of Pennsylvania"
+    },
+    "1273": {
+        "ccc": "1",
+        "ii": "273",
+        "country": "United States",
+        "issuer": "Chesapeake & Potomac telephone Company of Washington"
+    },
+    "1276": {
+        "ccc": "1",
+        "ii": "276",
+        "country": "United States",
+        "issuer": "Chesapeake & Potomac Telephone Company of Maryland"
+    },
+    "1277": {
+        "ccc": "1",
+        "ii": "277",
+        "country": "Canada",
+        "issuer": "Saskatchewan Telecommunications"
+    },
+    "1278": {
+        "ccc": "1",
+        "ii": "278",
+        "country": "United States",
+        "issuer": "Chesapeake & Potomac Telephone Company of Virginia"
+    },
+    "1279": {
+        "ccc": "1",
+        "ii": "279",
+        "country": "United States",
+        "issuer": "Chesapeake & Potomac Telephone Company of West Virginia"
+    },
+    "1282": {
+        "ccc": "1",
+        "ii": "282",
+        "country": "Bahamas",
+        "issuer": "Bahamas Telecommunications Company Ltd."
+    },
+    "1283": {
+        "ccc": "1",
+        "ii": "283",
+        "country": "Puerto Rico",
+        "issuer": "AT&T"
+    },
+    "1284": {
+        "ccc": "1",
+        "ii": "284",
+        "country": "United States Virgin Islands",
+        "issuer": "AT&T of the Virgin Islands"
+    },
+    "1288": {
+        "ccc": "1",
+        "ii": "288",
+        "country": "United States",
+        "issuer": "AT&T"
+    },
+    "1300": {
+        "ccc": "1",
+        "ii": "300",
+        "country": "United States",
+        "issuer": "BellSouth Services"
+    },
+    "1302": {
+        "ccc": "1",
+        "ii": "302",
+        "country": "Canada",
+        "issuer": "ECOTEL inc."
+    },
+    "1310": {
+        "ccc": "1",
+        "ii": "310",
+        "country": "United States",
+        "issuer": "T-Mobile USA"
+    },
+    "1311": {
+        "ccc": "1",
+        "ii": "311",
+        "country": "United States",
+        "issuer": "Farmers Cellular Telephone Inc."
+    },
+    "1318": {
+        "ccc": "1",
+        "ii": "318",
+        "country": "United States",
+        "issuer": "Long Distance Savers"
+    },
+    "1321": {
+        "ccc": "1",
+        "ii": "321",
+        "country": "United States",
+        "issuer": "US Intelco Networks Inc."
+    },
+    "1333": {
+        "ccc": "1",
+        "ii": "333",
+        "country": "United States",
+        "issuer": "Sprint Corporation"
+    },
+    "1340": {
+        "ccc": "1",
+        "ii": "340",
+        "country": "United States",
+        "issuer": "Westlink Communications LLC"
+    },
+    "1345": {
+        "ccc": "1",
+        "ii": "345",
+        "country": "United States",
+        "issuer": "Spectrum Wireless Holdings, LLC"
+    },
+    "1346": {
+        "ccc": "1",
+        "ii": "346",
+        "country": "Cayman Islands",
+        "issuer": "Paradise Mobile Ltd."
+    },
+    "1348": {
+        "ccc": "1",
+        "ii": "348",
+        "country": "British Virgin Islands",
+        "issuer": "Caribbean Cellular Telephone d.b.a. CCT Boatphone"
+    },
+    "1350": {
+        "ccc": "1",
+        "ii": "350",
+        "country": "United States",
+        "issuer": "Com Systems"
+    },
+    "1351": {
+        "ccc": "1",
+        "ii": "351",
+        "country": "Bermuda",
+        "issuer": "Bermuda Digital Communications Ltd"
+    },
+    "1357": {
+        "ccc": "1",
+        "ii": "357",
+        "country": "United States",
+        "issuer": "Eastern Telecommunication Services Company"
+    },
+    "1362": {
+        "ccc": "1",
+        "ii": "362",
+        "country": "United States",
+        "issuer": "Dobson Telephone Company Inc."
+    },
+    "1366": {
+        "ccc": "1",
+        "ii": "366",
+        "country": "United States",
+        "issuer": "Telecom USA"
+    },
+    "1369": {
+        "ccc": "1",
+        "ii": "369",
+        "country": "Canada",
+        "issuer": "Bell Canada"
+    },
+    "1370": {
+        "ccc": "1",
+        "ii": "370",
+        "country": "Canada",
+        "issuer": "Microcell Solutions Inc."
+    },
+    "1371": {
+        "ccc": "1",
+        "ii": "371",
+        "country": "United States",
+        "issuer": "Commnet Wireless LLC"
+    },
+    "1377": {
+        "ccc": "1",
+        "ii": "377",
+        "country": "Guam",
+        "issuer": "Docomo Pacific, Inc."
+    },
+    "1378": {
+        "ccc": "1",
+        "ii": "378",
+        "country": "United States",
+        "issuer": "Diamond State Telephone Company"
+    },
+    "1382": {
+        "ccc": "1",
+        "ii": "382",
+        "country": "United States",
+        "issuer": "Dobson Telephone Company Inc."
+    },
+    "1400": {
+        "ccc": "1",
+        "ii": "400",
+        "country": "United States",
+        "issuer": "Telus Communications Inc."
+    },
+    "1432": {
+        "ccc": "1",
+        "ii": "432",
+        "country": "United States",
+        "issuer": "LiTel Telecommunications Corporation"
+    },
+    "1433": {
+        "ccc": "1",
+        "ii": "433",
+        "country": "United States",
+        "issuer": "Verizon Communications Corporation"
+    },
+    "1441": {
+        "ccc": "1",
+        "ii": "441",
+        "country": "Bermuda",
+        "issuer": "Paradise Mobile Ltd."
+    },
+    "1444": {
+        "ccc": "1",
+        "ii": "444",
+        "country": "United States",
+        "issuer": "Verizon Communications Corporation"
+    },
+    "1450": {
+        "ccc": "1",
+        "ii": "450",
+        "country": "United States",
+        "issuer": "North East Colorado Cellular Inc."
+    },
+    "1456": {
+        "ccc": "1",
+        "ii": "456",
+        "country": "Canada",
+        "issuer": "Manitoba Telecom Services"
+    },
+    "1460": {
+        "ccc": "1",
+        "ii": "460",
+        "country": "United States",
+        "issuer": "Wireless Communications Ventures dba NewCore Wireless"
+    },
+    "1464": {
+        "ccc": "1",
+        "ii": "464",
+        "country": "United States",
+        "issuer": "Vyvx Telecom Inc."
+    },
+    "1470": {
+        "ccc": "1",
+        "ii": "470",
+        "country": "United States",
+        "issuer": "Ntelos, Inc."
+    },
+    "1474": {
+        "ccc": "1",
+        "ii": "474",
+        "country": "United States",
+        "issuer": "Pine Tree Tel & Tel Company"
+    },
+    "1480": {
+        "ccc": "1",
+        "ii": "480",
+        "country": "United States",
+        "issuer": "Verizon Wireless"
+    },
+    "1482": {
+        "ccc": "1",
+        "ii": "482",
+        "country": "Canada",
+        "issuer": "Island Tel"
+    },
+    "1483": {
+        "ccc": "1",
+        "ii": "483",
+        "country": "United States",
+        "issuer": "Verizon Communications Corporation"
+    },
+    "1486": {
+        "ccc": "1",
+        "ii": "486",
+        "country": "United States",
+        "issuer": "Verizon Communications Corporation"
+    },
+    "1487": {
+        "ccc": "1",
+        "ii": "487",
+        "country": "United States",
+        "issuer": "Verizon Communications Corporation"
+    },
+    "1488": {
+        "ccc": "1",
+        "ii": "488",
+        "country": "United States",
+        "issuer": "ITT-US Transmission Systems Inc."
+    },
+    "1489": {
+        "ccc": "1",
+        "ii": "489",
+        "country": "United States",
+        "issuer": "Verizon Communications Corporation"
+    },
+    "1490": {
+        "ccc": "1",
+        "ii": "490",
+        "country": "Canada",
+        "issuer": "Freedom Mobile Inc."
+    },
+    "1503": {
+        "ccc": "1",
+        "ii": "503",
+        "country": "United States",
+        "issuer": "Fone America Incoporated"
+    },
+    "1505": {
+        "ccc": "1",
+        "ii": "505",
+        "country": "United States",
+        "issuer": "San Marcos Long Distance"
+    },
+    "1530": {
+        "ccc": "1",
+        "ii": "530",
+        "country": "United States",
+        "issuer": "Wireless Communications Ventures dba NewCore Wireless"
+    },
+    "1551": {
+        "ccc": "1",
+        "ii": "551",
+        "country": "United States",
+        "issuer": "IMSI.AI LLC"
+    },
+    "1555": {
+        "ccc": "1",
+        "ii": "555",
+        "country": "United States",
+        "issuer": "Creative Communications"
+    },
+    "1580": {
+        "ccc": "1",
+        "ii": "580",
+        "country": "United States",
+        "issuer": "T-Mobile USA"
+    },
+    "1582": {
+        "ccc": "1",
+        "ii": "582",
+        "country": "Jamaica",
+        "issuer": "Cable and Wireless Jamaica Ltd"
+    },
+    "1593": {
+        "ccc": "1",
+        "ii": "593",
+        "country": "Canada",
+        "issuer": "Island Tel"
+    },
+    "1610": {
+        "ccc": "1",
+        "ii": "610",
+        "country": "United States",
+        "issuer": "Ntelos, Inc."
+    },
+    "1625": {
+        "ccc": "1",
+        "ii": "625",
+        "country": "United States",
+        "issuer": "Operator Assistance Network"
+    },
+    "1626": {
+        "ccc": "1",
+        "ii": "626",
+        "country": "United States",
+        "issuer": "Operator Assistance Network"
+    },
+    "1628": {
+        "ccc": "1",
+        "ii": "628",
+        "country": "Canada",
+        "issuer": "New Brunswick Telephone Company Ltd."
+    },
+    "1629": {
+        "ccc": "1",
+        "ii": "629",
+        "country": "Canada",
+        "issuer": "New Brunswick Telephone Company Ltd."
+    },
+    "1635": {
+        "ccc": "1",
+        "ii": "635",
+        "country": "Canada",
+        "issuer": "Newfoundland Telephone Company Ltd."
+    },
+    "1638": {
+        "ccc": "1",
+        "ii": "638",
+        "country": "United States",
+        "issuer": "New England Telephone & Telegraph Company"
+    },
+    "1650": {
+        "ccc": "1",
+        "ii": "650",
+        "country": "Dominican Rep.",
+        "issuer": "Verizon Dominicana"
+    },
+    "1652": {
+        "ccc": "1",
+        "ii": "652",
+        "country": "United States",
+        "issuer": "New Jersey Bell Telephone Company"
+    },
+    "1654": {
+        "ccc": "1",
+        "ii": "654",
+        "country": "Canada",
+        "issuer": "British Columbia Telephone Company Ltd."
+    },
+    "1660": {
+        "ccc": "1",
+        "ii": "660",
+        "country": "Canada",
+        "issuer": "Allstream Business Inc."
+    },
+    "1663": {
+        "ccc": "1",
+        "ii": "663",
+        "country": "United States",
+        "issuer": "McLoud Telephone Company Inc."
+    },
+    "1666": {
+        "ccc": "1",
+        "ii": "666",
+        "country": "United States",
+        "issuer": "McLoud Telephone Company Inc."
+    },
+    "1669": {
+        "ccc": "1",
+        "ii": "669",
+        "country": "United States",
+        "issuer": "Steelville Telephone Exchange Inc."
+    },
+    "1678": {
+        "ccc": "1",
+        "ii": "678",
+        "country": "United States",
+        "issuer": "African Communications Group, Inc."
+    },
+    "1680": {
+        "ccc": "1",
+        "ii": "680",
+        "country": "United States",
+        "issuer": "GreenFly LLC"
+    },
+    "1682": {
+        "ccc": "1",
+        "ii": "682",
+        "country": "Canada",
+        "issuer": "Newfoundland Telephone Company Ltd."
+    },
+    "1687": {
+        "ccc": "1",
+        "ii": "687",
+        "country": "Canada",
+        "issuer": "Manitoba Telecom Services"
+    },
+    "1688": {
+        "ccc": "1",
+        "ii": "688",
+        "country": "Canada",
+        "issuer": "Maritime Telegraph and Telephone Company Ltd."
+    },
+    "1692": {
+        "ccc": "1",
+        "ii": "692",
+        "country": "United States",
+        "issuer": "NorthWestern Bell Telephone Company"
+    },
+    "1696": {
+        "ccc": "1",
+        "ii": "696",
+        "country": "United States",
+        "issuer": "Nynex Corporation"
+    },
+    "1698": {
+        "ccc": "1",
+        "ii": "698",
+        "country": "United States",
+        "issuer": "New York Telephone Company"
+    },
+    "1699": {
+        "ccc": "1",
+        "ii": "699",
+        "country": "Canada",
+        "issuer": "Maritime Telegraph and Telephone Company Ltd."
+    },
+    "1710": {
+        "ccc": "1",
+        "ii": "710",
+        "country": "United States",
+        "issuer": "Missouri Telephone Company"
+    },
+    "1724": {
+        "ccc": "1",
+        "ii": "724",
+        "country": "United States",
+        "issuer": "RCI Corporation"
+    },
+    "1727": {
+        "ccc": "1",
+        "ii": "727",
+        "country": "Canada",
+        "issuer": "Saskatchewan Telecommunications"
+    },
+    "1763": {
+        "ccc": "1",
+        "ii": "763",
+        "country": "United States",
+        "issuer": "Southern New England Telephone"
+    },
+    "1777": {
+        "ccc": "1",
+        "ii": "777",
+        "country": "United States",
+        "issuer": "XEL Communications Inc."
+    },
+    "1781": {
+        "ccc": "1",
+        "ii": "781",
+        "country": "United States",
+        "issuer": "Pacific Bell"
+    },
+    "1782": {
+        "ccc": "1",
+        "ii": "782",
+        "country": "United States",
+        "issuer": "Rochester Telephone Corporation"
+    },
+    "1784": {
+        "ccc": "1",
+        "ii": "784",
+        "country": "United States",
+        "issuer": "Pacific Bell"
+    },
+    "1786": {
+        "ccc": "1",
+        "ii": "786",
+        "country": "United States",
+        "issuer": "Standish Telephone Company"
+    },
+    "1789": {
+        "ccc": "1",
+        "ii": "789",
+        "country": "Canada",
+        "issuer": "Bell Canada"
+    },
+    "1792": {
+        "ccc": "1",
+        "ii": "792",
+        "country": "United States",
+        "issuer": "SouthWestern Bell Telephone Company"
+    },
+    "1798": {
+        "ccc": "1",
+        "ii": "798",
+        "country": "United States",
+        "issuer": "SouthWestern Bell Telephone Company"
+    },
+    "1800": {
+        "ccc": "1",
+        "ii": "800",
+        "country": "United States",
+        "issuer": "XEL Communications Inc."
+    },
+    "1808": {
+        "ccc": "1",
+        "ii": "808",
+        "country": "United States",
+        "issuer": "Verizon Communications Corporation"
+    },
+    "1809": {
+        "ccc": "1",
+        "ii": "809",
+        "country": "Puerto Rico",
+        "issuer": "Puerto Rico Telephone Company (PTRC)"
+    },
+    "1821": {
+        "ccc": "1",
+        "ii": "821",
+        "country": "Canada",
+        "issuer": "Tata Communications Canada ULC"
+    },
+    "1822": {
+        "ccc": "1",
+        "ii": "822",
+        "country": "United States",
+        "issuer": "NorthWestern Bell Telephone Company"
+    },
+    "1824": {
+        "ccc": "1",
+        "ii": "824",
+        "country": "United States",
+        "issuer": "Teleport Communications"
+    },
+    "1835": {
+        "ccc": "1",
+        "ii": "835",
+        "country": "Canada",
+        "issuer": "Quebec Telephone"
+    },
+    "1837": {
+        "ccc": "1",
+        "ii": "837",
+        "country": "Canada",
+        "issuer": "Quebec Telephone"
+    },
+    "1852": {
+        "ccc": "1",
+        "ii": "852",
+        "country": "United States",
+        "issuer": "Telecom USA"
+    },
+    "1853": {
+        "ccc": "1",
+        "ii": "853",
+        "country": "Puerto Rico",
+        "issuer": "Telef\u00f3nica Larga Distancia, Inc. (TLDI)"
+    },
+    "1866": {
+        "ccc": "1",
+        "ii": "866",
+        "country": "United States",
+        "issuer": "Alascom Inc."
+    },
+    "1867": {
+        "ccc": "1",
+        "ii": "867",
+        "country": "United States",
+        "issuer": "Transaction Network Services Inc."
+    },
+    "1868": {
+        "ccc": "1",
+        "ii": "868",
+        "country": "United States",
+        "issuer": "Eastern New Mexico Telephone Cooperative"
+    },
+    "1869": {
+        "ccc": "1",
+        "ii": "869",
+        "country": "Canada",
+        "issuer": "Unitel Communications Inc."
+    },
+    "1872": {
+        "ccc": "1",
+        "ii": "872",
+        "country": "United States",
+        "issuer": "Pacific Northwest Bell Telephone Company"
+    },
+    "1877": {
+        "ccc": "1",
+        "ii": "877",
+        "country": "United States",
+        "issuer": "Sprint Corporation"
+    },
+    "1878": {
+        "ccc": "1",
+        "ii": "878",
+        "country": "United States",
+        "issuer": "TRT International Inc."
+    },
+    "1884": {
+        "ccc": "1",
+        "ii": "884",
+        "country": "United States",
+        "issuer": "Teleport Communications"
+    },
+    "1888": {
+        "ccc": "1",
+        "ii": "888",
+        "country": "United States",
+        "issuer": "ITT-US Transmission Systems Inc."
+    },
+    "1891": {
+        "ccc": "1",
+        "ii": "891",
+        "country": "United States",
+        "issuer": "Rochester Telephone Corporation"
+    },
+    "1895": {
+        "ccc": "1",
+        "ii": "895",
+        "country": "Canada",
+        "issuer": "International Telecommunications Services Inc."
+    },
+    "1918": {
+        "ccc": "1",
+        "ii": "918",
+        "country": "United States",
+        "issuer": "Atlas Telephone Company, Inc."
+    },
+    "1930": {
+        "ccc": "1",
+        "ii": "930",
+        "country": "Canada",
+        "issuer": "Northwestel Inc."
+    },
+    "1937": {
+        "ccc": "1",
+        "ii": "937",
+        "country": "United States",
+        "issuer": "Panhandle Telephone Cooperative Inc."
+    },
+    "1948": {
+        "ccc": "1",
+        "ii": "948",
+        "country": "United States",
+        "issuer": "XIT Rural Telephone Cooperative Inc."
+    },
+    "1950": {
+        "ccc": "1",
+        "ii": "950",
+        "country": "United States",
+        "issuer": "MCI WorldCom"
+    },
+    "1988": {
+        "ccc": "1",
+        "ii": "988",
+        "country": "United States",
+        "issuer": "XIT Telecommunications & Technology Inc."
+    },
+    "1999": {
+        "ccc": "1",
+        "ii": "999",
+        "country": "United States",
+        "issuer": "Creative Communications"
+    },
+    "2002": {
+        "ccc": "20",
+        "ii": "02",
+        "country": "Egypt",
+        "issuer": "Vodafone Egypt Telecommunications S.A.E."
+    },
+    "2701": {
+        "ccc": "27",
+        "ii": "01",
+        "country": "South Africa",
+        "issuer": "Mobile Telephone Networks (MTN) Pty Ltd"
+    },
+    "2738": {
+        "ccc": "27",
+        "ii": "38",
+        "country": "South Africa",
+        "issuer": "Rain Networks (Pty) Ltd"
+    },
+    "2783": {
+        "ccc": "27",
+        "ii": "83",
+        "country": "South Africa",
+        "issuer": "ONEX SA (PTY) LTD"
+    },
+    "3001": {
+        "ccc": "30",
+        "ii": "01",
+        "country": "Greece",
+        "issuer": "COSMOTE"
+    },
+    "3002": {
+        "ccc": "30",
+        "ii": "02",
+        "country": "Greece",
+        "issuer": "OTE S.A."
+    },
+    "3005": {
+        "ccc": "30",
+        "ii": "05",
+        "country": "Greece",
+        "issuer": "Vodafone"
+    },
+    "3009": {
+        "ccc": "30",
+        "ii": "09",
+        "country": "Greece",
+        "issuer": "WIND Hellas"
+    },
+    "3010": {
+        "ccc": "30",
+        "ii": "10",
+        "country": "Greece",
+        "issuer": "WIND Hellas"
+    },
+    "3011": {
+        "ccc": "30",
+        "ii": "11",
+        "country": "Greece",
+        "issuer": "Forthnet S.A."
+    },
+    "3100": {
+        "ccc": "31",
+        "ii": "00",
+        "country": "Netherlands",
+        "issuer": "KPN Telecom B.V., Card Services"
+    },
+    "3101": {
+        "ccc": "31",
+        "ii": "01",
+        "country": "Netherlands",
+        "issuer": "ACN Europe B.V."
+    },
+    "3102": {
+        "ccc": "31",
+        "ii": "02",
+        "country": "Netherlands",
+        "issuer": "6GMobile B.V."
+    },
+    "3103": {
+        "ccc": "31",
+        "ii": "03",
+        "country": "Netherlands",
+        "issuer": "Blyk N.V."
+    },
+    "3105": {
+        "ccc": "31",
+        "ii": "05",
+        "country": "Netherlands",
+        "issuer": "Elephant Talk Communication Holding AG"
+    },
+    "3107": {
+        "ccc": "31",
+        "ii": "07",
+        "country": "Netherlands",
+        "issuer": "Teleena Nederlands"
+    },
+    "3108": {
+        "ccc": "31",
+        "ii": "08",
+        "country": "Netherlands",
+        "issuer": "KPN Telecom B.V., Card Services"
+    },
+    "3109": {
+        "ccc": "31",
+        "ii": "09",
+        "country": "Netherlands",
+        "issuer": "Lycamobile Netherlands"
+    },
+    "3110": {
+        "ccc": "31",
+        "ii": "10",
+        "country": "Netherlands",
+        "issuer": "KPN Telecom B.V., Card Services"
+    },
+    "3111": {
+        "ccc": "31",
+        "ii": "11",
+        "country": "Netherlands",
+        "issuer": "Greenet Netwerk B.V."
+    },
+    "3115": {
+        "ccc": "31",
+        "ii": "15",
+        "country": "Netherlands",
+        "issuer": "Ziggo B.V."
+    },
+    "3116": {
+        "ccc": "31",
+        "ii": "16",
+        "country": "Netherlands",
+        "issuer": "Brucop Netherlands B.V."
+    },
+    "3117": {
+        "ccc": "31",
+        "ii": "17",
+        "country": "Netherlands",
+        "issuer": "GloTell B.V."
+    },
+    "3118": {
+        "ccc": "31",
+        "ii": "18",
+        "country": "Netherlands",
+        "issuer": "UPC NL"
+    },
+    "3120": {
+        "ccc": "31",
+        "ii": "20",
+        "country": "Netherlands",
+        "issuer": "T-Mobile (ex-Dutchtone N.V.)"
+    },
+    "3124": {
+        "ccc": "31",
+        "ii": "24",
+        "country": "Netherlands",
+        "issuer": "PM Factory B.V."
+    },
+    "3126": {
+        "ccc": "31",
+        "ii": "26",
+        "country": "Netherlands",
+        "issuer": "Telfort B.V."
+    },
+    "3129": {
+        "ccc": "31",
+        "ii": "29",
+        "country": "Netherlands",
+        "issuer": "Tismi B.V."
+    },
+    "3131": {
+        "ccc": "31",
+        "ii": "31",
+        "country": "Netherlands",
+        "issuer": "Enreach B.V."
+    },
+    "3132": {
+        "ccc": "31",
+        "ii": "32",
+        "country": "Netherlands",
+        "issuer": "Wyless Nederlands B.V."
+    },
+    "3134": {
+        "ccc": "31",
+        "ii": "34",
+        "country": "Netherlands",
+        "issuer": "CleverEnable B.V."
+    },
+    "3144": {
+        "ccc": "31",
+        "ii": "44",
+        "country": "Netherlands",
+        "issuer": "Vodafone Libertel B.V."
+    },
+    "3160": {
+        "ccc": "31",
+        "ii": "60",
+        "country": "Netherlands",
+        "issuer": "Lebara Ltd"
+    },
+    "3168": {
+        "ccc": "31",
+        "ii": "68",
+        "country": "Netherlands",
+        "issuer": "iBasis Netherlands BV"
+    },
+    "3189": {
+        "ccc": "31",
+        "ii": "89",
+        "country": "Netherlands",
+        "issuer": "AGMS Nederland B.V."
+    },
+    "3200": {
+        "ccc": "32",
+        "ii": "00",
+        "country": "Belgium",
+        "issuer": "Proximus NV van publiek recht"
+    },
+    "3201": {
+        "ccc": "32",
+        "ii": "01",
+        "country": "Belgium",
+        "issuer": "Society for Worldwide interbank Financial Telecommunications (SWIFT)"
+    },
+    "3202": {
+        "ccc": "32",
+        "ii": "02",
+        "country": "Belgium",
+        "issuer": "Orange Belgium N.V."
+    },
+    "3203": {
+        "ccc": "32",
+        "ii": "03",
+        "country": "Belgium",
+        "issuer": "Telenet Group BVBA"
+    },
+    "3204": {
+        "ccc": "32",
+        "ii": "04",
+        "country": "Belgium",
+        "issuer": "Belgacom International Carrier Services S.A. (BICS SA)"
+    },
+    "3205": {
+        "ccc": "32",
+        "ii": "05",
+        "country": "Belgium",
+        "issuer": "NETHYS"
+    },
+    "3206": {
+        "ccc": "32",
+        "ii": "06",
+        "country": "Belgium",
+        "issuer": "Lycamobile BVBA"
+    },
+    "3207": {
+        "ccc": "32",
+        "ii": "07",
+        "country": "Belgium",
+        "issuer": "Telenet BVBA"
+    },
+    "3208": {
+        "ccc": "32",
+        "ii": "08",
+        "country": "Belgium",
+        "issuer": "Voxbone SA"
+    },
+    "3212": {
+        "ccc": "32",
+        "ii": "12",
+        "country": "Belgium",
+        "issuer": "DIGI Communications Belgium NV"
+    },
+    "3213": {
+        "ccc": "32",
+        "ii": "13",
+        "country": "Belgium",
+        "issuer": "CWave (Citymesh Connect)"
+    },
+    "3230": {
+        "ccc": "32",
+        "ii": "30",
+        "country": "Belgium",
+        "issuer": "Mobile Vikings NV"
+    },
+    "3301": {
+        "ccc": "33",
+        "ii": "01",
+        "country": "France",
+        "issuer": "France Telecom"
+    },
+    "3304": {
+        "ccc": "33",
+        "ii": "04",
+        "country": "France",
+        "issuer": "Netcom Group"
+    },
+    "3310": {
+        "ccc": "33",
+        "ii": "10",
+        "country": "France",
+        "issuer": "Soci\u00e9t\u00e9 Fran\u00e7aise du Radiot\u00e9l\u00e9phone"
+    },
+    "3313": {
+        "ccc": "33",
+        "ii": "13",
+        "country": "France",
+        "issuer": "Lycamobile SARL"
+    },
+    "3315": {
+        "ccc": "33",
+        "ii": "15",
+        "country": "France",
+        "issuer": "Free Mobile"
+    },
+    "3317": {
+        "ccc": "33",
+        "ii": "17",
+        "country": "France",
+        "issuer": "Legos - Local Exchange Global Operation Services"
+    },
+    "3318": {
+        "ccc": "33",
+        "ii": "18",
+        "country": "France",
+        "issuer": "Agence des Communications Mobiles Op\u00e9rationnelles de S\u00e9curit\u00e9 et de Secours"
+    },
+    "3320": {
+        "ccc": "33",
+        "ii": "20",
+        "country": "France",
+        "issuer": "Bouygues Telecom"
+    },
+    "3322": {
+        "ccc": "33",
+        "ii": "22",
+        "country": "France",
+        "issuer": "Transatel"
+    },
+    "3323": {
+        "ccc": "33",
+        "ii": "23",
+        "country": "France",
+        "issuer": "GEMALTO SA"
+    },
+    "3324": {
+        "ccc": "33",
+        "ii": "24",
+        "country": "France",
+        "issuer": "OBERTHUR TECHNOLOGIES"
+    },
+    "3325": {
+        "ccc": "33",
+        "ii": "25",
+        "country": "France",
+        "issuer": "MOBIQUITHINGS"
+    },
+    "3326": {
+        "ccc": "33",
+        "ii": "26",
+        "country": "France",
+        "issuer": "Euro-Information Telecom"
+    },
+    "3327": {
+        "ccc": "33",
+        "ii": "27",
+        "country": "France",
+        "issuer": "Coriolis Telecom S.A.S."
+    },
+    "3328": {
+        "ccc": "33",
+        "ii": "28",
+        "country": "France",
+        "issuer": "AIRMOB INFRA FULL"
+    },
+    "3330": {
+        "ccc": "33",
+        "ii": "30",
+        "country": "France",
+        "issuer": "SYMA"
+    },
+    "3331": {
+        "ccc": "33",
+        "ii": "31",
+        "country": "France",
+        "issuer": "Vectone Mobile SAS"
+    },
+    "3334": {
+        "ccc": "33",
+        "ii": "34",
+        "country": "France",
+        "issuer": "Cellhire France SARL"
+    },
+    "3337": {
+        "ccc": "33",
+        "ii": "37",
+        "country": "France",
+        "issuer": "IP Directions"
+    },
+    "3338": {
+        "ccc": "33",
+        "ii": "38",
+        "country": "France",
+        "issuer": "Lebara France Limited"
+    },
+    "3339": {
+        "ccc": "33",
+        "ii": "39",
+        "country": "France",
+        "issuer": "Netwo"
+    },
+    "3387": {
+        "ccc": "33",
+        "ii": "87",
+        "country": "France",
+        "issuer": "AIRBUS DEFENCE AND SPACE SAS"
+    },
+    "3390": {
+        "ccc": "33",
+        "ii": "90",
+        "country": "France",
+        "issuer": "Thales SA"
+    },
+    "3392": {
+        "ccc": "33",
+        "ii": "92",
+        "country": "France",
+        "issuer": "Oasis Smart Sim Europe SAS"
+    },
+    "3394": {
+        "ccc": "33",
+        "ii": "94",
+        "country": "France",
+        "issuer": "Halys"
+    },
+    "3401": {
+        "ccc": "34",
+        "ii": "01",
+        "country": "Spain",
+        "issuer": "ORANGE ESPAGNE, S.A.U."
+    },
+    "3402": {
+        "ccc": "34",
+        "ii": "02",
+        "country": "Spain",
+        "issuer": "Euskaltel, SA"
+    },
+    "3403": {
+        "ccc": "34",
+        "ii": "03",
+        "country": "Spain",
+        "issuer": "Telef\u00f3nica M\u00f3viles Espa\u00f1a, SAU"
+    },
+    "3404": {
+        "ccc": "34",
+        "ii": "04",
+        "country": "Spain",
+        "issuer": "Xfera M\u00f3viles, S.A."
+    },
+    "3405": {
+        "ccc": "34",
+        "ii": "05",
+        "country": "Spain",
+        "issuer": "Telecor SA"
+    },
+    "3406": {
+        "ccc": "34",
+        "ii": "06",
+        "country": "Spain",
+        "issuer": "R Cable y Telecomunicaciones Galicia, SA"
+    },
+    "3407": {
+        "ccc": "34",
+        "ii": "07",
+        "country": "Spain",
+        "issuer": "Telef\u00f3nica M\u00f3viles Espa\u00f1a, SAU"
+    },
+    "3410": {
+        "ccc": "34",
+        "ii": "10",
+        "country": "Spain",
+        "issuer": "TELEF\u00d3NICA IOT & BIG DATA TECH, S.A. UNIPERSONAL"
+    },
+    "3411": {
+        "ccc": "34",
+        "ii": "11",
+        "country": "Spain",
+        "issuer": "Valid Soluciones Tecnol\u00f3gicas S.A.U."
+    },
+    "3412": {
+        "ccc": "34",
+        "ii": "12",
+        "country": "Spain",
+        "issuer": "PROCONO S.A."
+    },
+    "3413": {
+        "ccc": "34",
+        "ii": "13",
+        "country": "Spain",
+        "issuer": "SYMA MOBILE ESPA\u00d1A, S.L."
+    },
+    "3416": {
+        "ccc": "34",
+        "ii": "16",
+        "country": "Spain",
+        "issuer": "Telecable de Asturias, SAU"
+    },
+    "3418": {
+        "ccc": "34",
+        "ii": "18",
+        "country": "Spain",
+        "issuer": "Vodafone ONO, SAU"
+    },
+    "3421": {
+        "ccc": "34",
+        "ii": "21",
+        "country": "Spain",
+        "issuer": "ORANGE ESPAGNE, S.A.U."
+    },
+    "3423": {
+        "ccc": "34",
+        "ii": "23",
+        "country": "Spain",
+        "issuer": "Alta Tecnologia en Comunicacions, S.L."
+    },
+    "3425": {
+        "ccc": "34",
+        "ii": "25",
+        "country": "Spain",
+        "issuer": "R Cable y Telecomunicaciones Galicia, SA"
+    },
+    "3429": {
+        "ccc": "34",
+        "ii": "29",
+        "country": "Spain",
+        "issuer": "IBERFIBRA GESTI\u00d3N DE REDES DE BANDA ANCHA, S.A"
+    },
+    "3434": {
+        "ccc": "34",
+        "ii": "34",
+        "country": "Spain",
+        "issuer": "Telef\u00f3nica de Espa\u00f1a S.A."
+    },
+    "3456": {
+        "ccc": "34",
+        "ii": "56",
+        "country": "Spain",
+        "issuer": "Vodafone Espa\u00f1a S.A."
+    },
+    "3457": {
+        "ccc": "34",
+        "ii": "57",
+        "country": "Spain",
+        "issuer": "Vodafone Enabler Espa\u00f1a, S.L."
+    },
+    "3620": {
+        "ccc": "36",
+        "ii": "20",
+        "country": "Hungary",
+        "issuer": "Telenor Hungary Ltd"
+    },
+    "3630": {
+        "ccc": "36",
+        "ii": "30",
+        "country": "Hungary",
+        "issuer": "WESTEL 900 Mobil T\u00e1vk\u00f6zl\u00e9si Rt."
+    },
+    "3631": {
+        "ccc": "36",
+        "ii": "31",
+        "country": "Hungary",
+        "issuer": "UPC MAGYARORSZ\u00c0G KFT."
+    },
+    "3632": {
+        "ccc": "36",
+        "ii": "32",
+        "country": "Hungary",
+        "issuer": "MVM NET Ltd"
+    },
+    "3901": {
+        "ccc": "39",
+        "ii": "01",
+        "country": "Italy",
+        "issuer": "Telecom Italia S.p.A."
+    },
+    "3908": {
+        "ccc": "39",
+        "ii": "08",
+        "country": "Italy",
+        "issuer": "FastWeb S.p.A."
+    },
+    "3910": {
+        "ccc": "39",
+        "ii": "10",
+        "country": "Italy",
+        "issuer": "Vodafone Omnitel S.p.A."
+    },
+    "3933": {
+        "ccc": "39",
+        "ii": "33",
+        "country": "Italy",
+        "issuer": "PostePay S.p.A."
+    },
+    "3988": {
+        "ccc": "39",
+        "ii": "88",
+        "country": "Italy",
+        "issuer": "Wind Tre S.p.A."
+    },
+    "3999": {
+        "ccc": "39",
+        "ii": "99",
+        "country": "Italy",
+        "issuer": "Wind Tre S.p.A."
+    },
+    "4001": {
+        "ccc": "40",
+        "ii": "01",
+        "country": "Romania",
+        "issuer": "Vodafone Romania S.A."
+    },
+    "4002": {
+        "ccc": "40",
+        "ii": "02",
+        "country": "Romania",
+        "issuer": "SC Telekom Romania Communications S.A."
+    },
+    "4003": {
+        "ccc": "40",
+        "ii": "03",
+        "country": "Romania",
+        "issuer": "SC Telekom Romania Communications S.A."
+    },
+    "4010": {
+        "ccc": "40",
+        "ii": "10",
+        "country": "Romania",
+        "issuer": "Orange Romania"
+    },
+    "4100": {
+        "ccc": "41",
+        "ii": "00",
+        "country": "Switzerland",
+        "issuer": "Swisscom"
+    },
+    "4101": {
+        "ccc": "41",
+        "ii": "01",
+        "country": "Switzerland",
+        "issuer": "Swisscom"
+    },
+    "4102": {
+        "ccc": "41",
+        "ii": "02",
+        "country": "Switzerland",
+        "issuer": "Sunrise Communications AG"
+    },
+    "4103": {
+        "ccc": "41",
+        "ii": "03",
+        "country": "Switzerland",
+        "issuer": "Salt Mobile SA"
+    },
+    "4104": {
+        "ccc": "41",
+        "ii": "04",
+        "country": "Switzerland",
+        "issuer": "relario AG"
+    },
+    "4123": {
+        "ccc": "41",
+        "ii": "23",
+        "country": "Switzerland",
+        "issuer": "Die Schweizerische Post AG Information Technology Services"
+    },
+    "4124": {
+        "ccc": "41",
+        "ii": "24",
+        "country": "Switzerland",
+        "issuer": "Lycatel GmbH"
+    },
+    "4125": {
+        "ccc": "41",
+        "ii": "25",
+        "country": "Switzerland",
+        "issuer": "UPC Schweiz GmbH"
+    },
+    "4129": {
+        "ccc": "41",
+        "ii": "29",
+        "country": "Switzerland",
+        "issuer": "Beeone Communications SA"
+    },
+    "4130": {
+        "ccc": "41",
+        "ii": "30",
+        "country": "Switzerland",
+        "issuer": "STMicroelectronics International NV"
+    },
+    "4131": {
+        "ccc": "41",
+        "ii": "31",
+        "country": "Switzerland",
+        "issuer": "Telecom26 AG"
+    },
+    "4132": {
+        "ccc": "41",
+        "ii": "32",
+        "country": "Switzerland",
+        "issuer": "Nexphone AG"
+    },
+    "4133": {
+        "ccc": "41",
+        "ii": "33",
+        "country": "Switzerland",
+        "issuer": "Lycamobile AG"
+    },
+    "4134": {
+        "ccc": "41",
+        "ii": "34",
+        "country": "Switzerland",
+        "issuer": "Comfone AG"
+    },
+    "4301": {
+        "ccc": "43",
+        "ii": "01",
+        "country": "Austria",
+        "issuer": "A1 Telekom Austria AG"
+    },
+    "4303": {
+        "ccc": "43",
+        "ii": "03",
+        "country": "Austria",
+        "issuer": "T Mobile Austria GmbH"
+    },
+    "4305": {
+        "ccc": "43",
+        "ii": "05",
+        "country": "Austria",
+        "issuer": "Hutchison Drei Austria GmbH"
+    },
+    "4307": {
+        "ccc": "43",
+        "ii": "07",
+        "country": "Austria",
+        "issuer": "T Mobile Austria GmbH"
+    },
+    "4308": {
+        "ccc": "43",
+        "ii": "08",
+        "country": "Austria",
+        "issuer": "3G Mobile Telecommunications GmbH"
+    },
+    "4310": {
+        "ccc": "43",
+        "ii": "10",
+        "country": "Austria",
+        "issuer": "Hutchison Drei Austria GmbH"
+    },
+    "4312": {
+        "ccc": "43",
+        "ii": "12",
+        "country": "Austria",
+        "issuer": "A1 Telekom Austria AG"
+    },
+    "4313": {
+        "ccc": "43",
+        "ii": "13",
+        "country": "Austria",
+        "issuer": "T Mobile Austria GmbH"
+    },
+    "4325": {
+        "ccc": "43",
+        "ii": "25",
+        "country": "Austria",
+        "issuer": "Citycom Telekommunikation GmbH"
+    },
+    "4329": {
+        "ccc": "43",
+        "ii": "29",
+        "country": "Austria",
+        "issuer": "AICALL Telekommunikations-Dienstleistungs GmbH"
+    },
+    "4351": {
+        "ccc": "43",
+        "ii": "51",
+        "country": "Austria",
+        "issuer": "NXP Semiconductors Austria GmbH"
+    },
+    "4352": {
+        "ccc": "43",
+        "ii": "52",
+        "country": "Austria",
+        "issuer": "NXP Semiconductors Austria GmbH"
+    },
+    "4400": {
+        "ccc": "44",
+        "ii": "00",
+        "country": "United Kingdom",
+        "issuer": "British Telecommunications plc (British Telecom)"
+    },
+    "4401": {
+        "ccc": "44",
+        "ii": "01",
+        "country": "United Kingdom",
+        "issuer": "British Telecommunications plc (British Telecom)"
+    },
+    "4402": {
+        "ccc": "44",
+        "ii": "02",
+        "country": "United Kingdom",
+        "issuer": "ARINC"
+    },
+    "4403": {
+        "ccc": "44",
+        "ii": "03",
+        "country": "United Kingdom",
+        "issuer": "Marathon Telecom Limited"
+    },
+    "4404": {
+        "ccc": "44",
+        "ii": "04",
+        "country": "United Kingdom",
+        "issuer": "FMS Solutions Ltd"
+    },
+    "4405": {
+        "ccc": "44",
+        "ii": "05",
+        "country": "United Kingdom",
+        "issuer": "BT Skyphone"
+    },
+    "4406": {
+        "ccc": "44",
+        "ii": "06",
+        "country": "United Kingdom",
+        "issuer": "Valuedial Ltd"
+    },
+    "4407": {
+        "ccc": "44",
+        "ii": "07",
+        "country": "United Kingdom",
+        "issuer": "Teleena UK Limited"
+    },
+    "4408": {
+        "ccc": "44",
+        "ii": "08",
+        "country": "United Kingdom",
+        "issuer": "Localphone Ltd"
+    },
+    "4409": {
+        "ccc": "44",
+        "ii": "09",
+        "country": "United Kingdom",
+        "issuer": "Telet Research (N.I.) Limited"
+    },
+    "4410": {
+        "ccc": "44",
+        "ii": "10",
+        "country": "United Kingdom",
+        "issuer": "Vodafone plc"
+    },
+    "4411": {
+        "ccc": "44",
+        "ii": "11",
+        "country": "United Kingdom",
+        "issuer": "Telecom Securicor Cellular Radio Ltd"
+    },
+    "4412": {
+        "ccc": "44",
+        "ii": "12",
+        "country": "United Kingdom",
+        "issuer": "Hutchison Microtel"
+    },
+    "4413": {
+        "ccc": "44",
+        "ii": "13",
+        "country": "United Kingdom",
+        "issuer": "Tismi B.V."
+    },
+    "4414": {
+        "ccc": "44",
+        "ii": "14",
+        "country": "United Kingdom",
+        "issuer": "Broadsword Network Ltd"
+    },
+    "4415": {
+        "ccc": "44",
+        "ii": "15",
+        "country": "United Kingdom",
+        "issuer": "Mapesbury Communications Ltd"
+    },
+    "4416": {
+        "ccc": "44",
+        "ii": "16",
+        "country": "United Kingdom",
+        "issuer": "Lebara Mobile Limited"
+    },
+    "4417": {
+        "ccc": "44",
+        "ii": "17",
+        "country": "United Kingdom",
+        "issuer": "CreditCall Communications Ltd."
+    },
+    "4418": {
+        "ccc": "44",
+        "ii": "18",
+        "country": "United Kingdom",
+        "issuer": "Cable and Wireless Isle of Man Ltd"
+    },
+    "4419": {
+        "ccc": "44",
+        "ii": "19",
+        "country": "United Kingdom",
+        "issuer": "Home Office"
+    },
+    "4420": {
+        "ccc": "44",
+        "ii": "20",
+        "country": "United Kingdom",
+        "issuer": "Hutchison 3G UK Limited"
+    },
+    "4422": {
+        "ccc": "44",
+        "ii": "22",
+        "country": "United Kingdom",
+        "issuer": "Cable & Wireless Communications plc"
+    },
+    "4423": {
+        "ccc": "44",
+        "ii": "23",
+        "country": "United Kingdom",
+        "issuer": "Virgin Mobile Telecommunications Ltd"
+    },
+    "4424": {
+        "ccc": "44",
+        "ii": "24",
+        "country": "United Kingdom",
+        "issuer": "Asda Stores Ltd"
+    },
+    "4425": {
+        "ccc": "44",
+        "ii": "25",
+        "country": "United Kingdom",
+        "issuer": "Tango Networks UK Ltd"
+    },
+    "4428": {
+        "ccc": "44",
+        "ii": "28",
+        "country": "United Kingdom",
+        "issuer": "Tesco Mobile Ltd"
+    },
+    "4429": {
+        "ccc": "44",
+        "ii": "29",
+        "country": "United Kingdom",
+        "issuer": "T-Mobile Billing & Service GmbH"
+    },
+    "4430": {
+        "ccc": "44",
+        "ii": "30",
+        "country": "United Kingdom",
+        "issuer": "Mercury Personal Communications"
+    },
+    "4433": {
+        "ccc": "44",
+        "ii": "33",
+        "country": "United Kingdom",
+        "issuer": "Cable & Wireless Guernsey Ltd"
+    },
+    "4434": {
+        "ccc": "44",
+        "ii": "34",
+        "country": "United Kingdom",
+        "issuer": "Tribandglobal Ltd."
+    },
+    "4435": {
+        "ccc": "44",
+        "ii": "35",
+        "country": "United Kingdom",
+        "issuer": "Tesco Mobile Communications Ltd"
+    },
+    "4436": {
+        "ccc": "44",
+        "ii": "36",
+        "country": "United Kingdom",
+        "issuer": "Cable and Wireless Jersey Ltd"
+    },
+    "4437": {
+        "ccc": "44",
+        "ii": "37",
+        "country": "United Kingdom",
+        "issuer": "Cable & Wireless Guernsey Ltd"
+    },
+    "4438": {
+        "ccc": "44",
+        "ii": "38",
+        "country": "United Kingdom",
+        "issuer": "Simwood eSMS Limited"
+    },
+    "4439": {
+        "ccc": "44",
+        "ii": "39",
+        "country": "United Kingdom",
+        "issuer": "Telefonica UK Limited"
+    },
+    "4440": {
+        "ccc": "44",
+        "ii": "40",
+        "country": "United Kingdom",
+        "issuer": "British Telecommunications PLC"
+    },
+    "4441": {
+        "ccc": "44",
+        "ii": "41",
+        "country": "United Kingdom",
+        "issuer": "Lebara Mobile Limited"
+    },
+    "4442": {
+        "ccc": "44",
+        "ii": "42",
+        "country": "United Kingdom",
+        "issuer": "Sky UK Limited"
+    },
+    "4443": {
+        "ccc": "44",
+        "ii": "43",
+        "country": "United Kingdom",
+        "issuer": "Virgin Mobile Telecoms Limited"
+    },
+    "4444": {
+        "ccc": "44",
+        "ii": "44",
+        "country": "United Kingdom",
+        "issuer": "AMSUK Limited"
+    },
+    "4445": {
+        "ccc": "44",
+        "ii": "45",
+        "country": "United Kingdom",
+        "issuer": "Kigen UK Limited"
+    },
+    "4446": {
+        "ccc": "44",
+        "ii": "46",
+        "country": "United Kingdom",
+        "issuer": "Cloud9 Mobile Communications Limited"
+    },
+    "4447": {
+        "ccc": "44",
+        "ii": "47",
+        "country": "United Kingdom",
+        "issuer": "Truphone Limited"
+    },
+    "4448": {
+        "ccc": "44",
+        "ii": "48",
+        "country": "United Kingdom",
+        "issuer": "Wavecrest Networks Ltd"
+    },
+    "4449": {
+        "ccc": "44",
+        "ii": "49",
+        "country": "United Kingdom",
+        "issuer": "Bluewave Communications Limited"
+    },
+    "4450": {
+        "ccc": "44",
+        "ii": "50",
+        "country": "United Kingdom",
+        "issuer": "JT (Jersey) Limited"
+    },
+    "4451": {
+        "ccc": "44",
+        "ii": "51",
+        "country": "United Kingdom",
+        "issuer": "Spitfire Network Services Ltd"
+    },
+    "4452": {
+        "ccc": "44",
+        "ii": "52",
+        "country": "United Kingdom",
+        "issuer": "Stacuity Limited"
+    },
+    "4453": {
+        "ccc": "44",
+        "ii": "53",
+        "country": "United Kingdom",
+        "issuer": "Manx Telecom"
+    },
+    "4455": {
+        "ccc": "44",
+        "ii": "55",
+        "country": "United Kingdom",
+        "issuer": "Energis Communications Ltd"
+    },
+    "4476": {
+        "ccc": "44",
+        "ii": "76",
+        "country": "United Kingdom",
+        "issuer": "Jersey Telenet Ltd"
+    },
+    "4477": {
+        "ccc": "44",
+        "ii": "77",
+        "country": "United Kingdom",
+        "issuer": "Cable and Wireless plc"
+    },
+    "4478": {
+        "ccc": "44",
+        "ii": "78",
+        "country": "United Kingdom",
+        "issuer": "Opal Telecom Ltd"
+    },
+    "4481": {
+        "ccc": "44",
+        "ii": "81",
+        "country": "United Kingdom",
+        "issuer": "Hay Systems Ltd"
+    },
+    "4484": {
+        "ccc": "44",
+        "ii": "84",
+        "country": "United Kingdom",
+        "issuer": "Lycamobile UK Limited"
+    },
+    "4485": {
+        "ccc": "44",
+        "ii": "85",
+        "country": "United Kingdom",
+        "issuer": "Lycatel Distribution UK Limited"
+    },
+    "4486": {
+        "ccc": "44",
+        "ii": "86",
+        "country": "United Kingdom",
+        "issuer": "Zamir Telecom Ltd"
+    },
+    "4487": {
+        "ccc": "44",
+        "ii": "87",
+        "country": "United Kingdom",
+        "issuer": "Nowtel UK Ltd"
+    },
+    "4488": {
+        "ccc": "44",
+        "ii": "88",
+        "country": "United Kingdom",
+        "issuer": "Tesco Stores Ltd"
+    },
+    "4489": {
+        "ccc": "44",
+        "ii": "89",
+        "country": "United Kingdom",
+        "issuer": "In Touch Communication Services Ltd"
+    },
+    "4490": {
+        "ccc": "44",
+        "ii": "90",
+        "country": "United Kingdom",
+        "issuer": "epay Limited"
+    },
+    "4501": {
+        "ccc": "45",
+        "ii": "01",
+        "country": "Denmark",
+        "issuer": "Nuuday"
+    },
+    "4504": {
+        "ccc": "45",
+        "ii": "04",
+        "country": "Denmark",
+        "issuer": "Telia Sonera A/S"
+    },
+    "4505": {
+        "ccc": "45",
+        "ii": "05",
+        "country": "Denmark",
+        "issuer": "Cibicom Mobility ApS"
+    },
+    "4506": {
+        "ccc": "45",
+        "ii": "06",
+        "country": "Denmark",
+        "issuer": "Hi3G Denmark ApS"
+    },
+    "4573": {
+        "ccc": "45",
+        "ii": "73",
+        "country": "Denmark",
+        "issuer": "Onomondo ApS"
+    },
+    "4601": {
+        "ccc": "46",
+        "ii": "01",
+        "country": "Sweden",
+        "issuer": "Telia Sverige AB"
+    },
+    "4603": {
+        "ccc": "46",
+        "ii": "03",
+        "country": "Sweden",
+        "issuer": "Teracom AB"
+    },
+    "4604": {
+        "ccc": "46",
+        "ii": "04",
+        "country": "Sweden",
+        "issuer": "Telavox AB"
+    },
+    "4607": {
+        "ccc": "46",
+        "ii": "07",
+        "country": "Sweden",
+        "issuer": "Hi3G Access AB"
+    },
+    "4608": {
+        "ccc": "46",
+        "ii": "08",
+        "country": "Sweden",
+        "issuer": "Telenor Sverige AB"
+    },
+    "4609": {
+        "ccc": "46",
+        "ii": "09",
+        "country": "Sweden",
+        "issuer": "Com4 Sweden AB"
+    },
+    "4610": {
+        "ccc": "46",
+        "ii": "10",
+        "country": "Sweden",
+        "issuer": "Tele2 Sverige AB"
+    },
+    "4611": {
+        "ccc": "46",
+        "ii": "11",
+        "country": "Sweden",
+        "issuer": "Sinch Sweden AB"
+    },
+    "4612": {
+        "ccc": "46",
+        "ii": "12",
+        "country": "Sweden",
+        "issuer": "Fink Telecom Services"
+    },
+    "4614": {
+        "ccc": "46",
+        "ii": "14",
+        "country": "Sweden",
+        "issuer": "Tele2 Sverige AB"
+    },
+    "4617": {
+        "ccc": "46",
+        "ii": "17",
+        "country": "Sweden",
+        "issuer": "G\u00f6talandsn\u00e4tet AB"
+    },
+    "4620": {
+        "ccc": "46",
+        "ii": "20",
+        "country": "Sweden",
+        "issuer": "Tele2 Sverige AB"
+    },
+    "4627": {
+        "ccc": "46",
+        "ii": "27",
+        "country": "Sweden",
+        "issuer": "GlobeTouch AB"
+    },
+    "4659": {
+        "ccc": "46",
+        "ii": "59",
+        "country": "Sweden",
+        "issuer": "Myndigheten f\u00f6r Samh\u00e4llsskydd och Beredskap, MSB"
+    },
+    "4670": {
+        "ccc": "46",
+        "ii": "70",
+        "country": "Sweden",
+        "issuer": "Tele2 Sverige AB"
+    },
+    "4671": {
+        "ccc": "46",
+        "ii": "71",
+        "country": "Sweden",
+        "issuer": "Tele2 Sverige AB"
+    },
+    "4700": {
+        "ccc": "47",
+        "ii": "00",
+        "country": "Norway",
+        "issuer": "Telenor AS"
+    },
+    "4701": {
+        "ccc": "47",
+        "ii": "01",
+        "country": "Norway",
+        "issuer": "Telenor Mobile Aviation AS"
+    },
+    "4706": {
+        "ccc": "47",
+        "ii": "06",
+        "country": "Norway",
+        "issuer": "ICE Norge AS"
+    },
+    "4707": {
+        "ccc": "47",
+        "ii": "07",
+        "country": "Norway",
+        "issuer": "ICE Communication Norge AS"
+    },
+    "4708": {
+        "ccc": "47",
+        "ii": "08",
+        "country": "Norway",
+        "issuer": "Netcom GSM"
+    },
+    "4709": {
+        "ccc": "47",
+        "ii": "09",
+        "country": "Norway",
+        "issuer": "Com4 AS"
+    },
+    "4801": {
+        "ccc": "48",
+        "ii": "01",
+        "country": "Poland",
+        "issuer": "Polkomtel S.A."
+    },
+    "4802": {
+        "ccc": "48",
+        "ii": "02",
+        "country": "Poland",
+        "issuer": "Polska telefonia Cyfrowa"
+    },
+    "4819": {
+        "ccc": "48",
+        "ii": "19",
+        "country": "Poland",
+        "issuer": "Teleena Poland Ltd"
+    },
+    "4901": {
+        "ccc": "49",
+        "ii": "01",
+        "country": "Germany",
+        "issuer": "Telekom Deutschland GmbH"
+    },
+    "4902": {
+        "ccc": "49",
+        "ii": "02",
+        "country": "Germany",
+        "issuer": "Telekom Deutschland GmbH"
+    },
+    "4903": {
+        "ccc": "49",
+        "ii": "03",
+        "country": "Germany",
+        "issuer": "Telekom Deutschland GmbH"
+    },
+    "4920": {
+        "ccc": "49",
+        "ii": "20",
+        "country": "Germany",
+        "issuer": "Vodafone GmbH"
+    },
+    "4921": {
+        "ccc": "49",
+        "ii": "21",
+        "country": "Germany",
+        "issuer": "E-Plus Service GmbH"
+    },
+    "4922": {
+        "ccc": "49",
+        "ii": "22",
+        "country": "Germany",
+        "issuer": "Telef\u00f3nica Germany GmbH & Co. OHG"
+    },
+    "4923": {
+        "ccc": "49",
+        "ii": "23",
+        "country": "Germany",
+        "issuer": "AirData AG"
+    },
+    "4926": {
+        "ccc": "49",
+        "ii": "26",
+        "country": "Germany",
+        "issuer": "VIOLA Kabelgesellschaft (Deutschland) mbH"
+    },
+    "4931": {
+        "ccc": "49",
+        "ii": "31",
+        "country": "Germany",
+        "issuer": "Sipgate Wireless GmbH"
+    },
+    "4932": {
+        "ccc": "49",
+        "ii": "32",
+        "country": "Germany",
+        "issuer": "Giesecke & Devrient GmbH"
+    },
+    "4935": {
+        "ccc": "49",
+        "ii": "35",
+        "country": "Germany",
+        "issuer": "Voiceworks GmbH"
+    },
+    "4936": {
+        "ccc": "49",
+        "ii": "36",
+        "country": "Germany",
+        "issuer": "Drillisch Online AG"
+    },
+    "4937": {
+        "ccc": "49",
+        "ii": "37",
+        "country": "Germany",
+        "issuer": "FEIG ELECTRONIC GmbH"
+    },
+    "4938": {
+        "ccc": "49",
+        "ii": "38",
+        "country": "Germany",
+        "issuer": "Giesecke+Devrient Mobile Security GmbH"
+    },
+    "4939": {
+        "ccc": "49",
+        "ii": "39",
+        "country": "Germany",
+        "issuer": "Trasna Solutions GmbH"
+    },
+    "4940": {
+        "ccc": "49",
+        "ii": "40",
+        "country": "Germany",
+        "issuer": "TelcoVillage GmbH"
+    },
+    "4941": {
+        "ccc": "49",
+        "ii": "41",
+        "country": "Germany",
+        "issuer": "NXP Semiconductors Germany GmbH"
+    },
+    "4943": {
+        "ccc": "49",
+        "ii": "43",
+        "country": "Germany",
+        "issuer": "Lebara Limited"
+    },
+    "4944": {
+        "ccc": "49",
+        "ii": "44",
+        "country": "Germany",
+        "issuer": "sysmocom - systems for mobile communications GmbH"
+    },
+    "5151": {
+        "ccc": "51",
+        "ii": "51",
+        "country": "Peru",
+        "issuer": "Telef\u00f3nica del Peru S.A."
+    },
+    "5201": {
+        "ccc": "52",
+        "ii": "01",
+        "country": "Mexico",
+        "issuer": "Tel\u00e9fonos de M\u00e9xico S.A. de C.V."
+    },
+    "5202": {
+        "ccc": "52",
+        "ii": "02",
+        "country": "Mexico",
+        "issuer": "Radiom\u00f3vil DIPSA, S.A. de C.V. (Telcel)"
+    },
+    "5203": {
+        "ccc": "52",
+        "ii": "03",
+        "country": "Mexico",
+        "issuer": "PEGASO COMUNICACIONES Y SISTEMAS, S.A. DE C.V."
+    },
+    "5204": {
+        "ccc": "52",
+        "ii": "04",
+        "country": "Mexico",
+        "issuer": "OXIO MOBILE, S.A. DE C.V."
+    },
+    "5205": {
+        "ccc": "52",
+        "ii": "05",
+        "country": "Mexico",
+        "issuer": "DIRI TELECOMUNICACIONES S.A. DE C.V."
+    },
+    "5206": {
+        "ccc": "52",
+        "ii": "06",
+        "country": "Mexico",
+        "issuer": "AT&T COMUNICACIONES DIGITALES, S. DE R.L. DE C.V."
+    },
+    "5207": {
+        "ccc": "52",
+        "ii": "07",
+        "country": "Mexico",
+        "issuer": "PANTERA MOBILE SOLUTIONS, S.A.P.I. DE C.V."
+    },
+    "5301": {
+        "ccc": "53",
+        "ii": "01",
+        "country": "Cuba",
+        "issuer": "Empresa de Telecomunicaciones de Cuba, S.A. (ETECSA)"
+    },
+    "5400": {
+        "ccc": "54",
+        "ii": "00",
+        "country": "Argentina",
+        "issuer": "Telecom Argentina S.A."
+    },
+    "5454": {
+        "ccc": "54",
+        "ii": "54",
+        "country": "Argentina",
+        "issuer": "Telef\u00f3nica de Argentina S.A."
+    },
+    "5505": {
+        "ccc": "55",
+        "ii": "05",
+        "country": "Brazil",
+        "issuer": "Claro S/A"
+    },
+    "5515": {
+        "ccc": "55",
+        "ii": "15",
+        "country": "Brazil",
+        "issuer": "Sercomtel Celular S/A"
+    },
+    "5516": {
+        "ccc": "55",
+        "ii": "16",
+        "country": "Brazil",
+        "issuer": "Oi M\u00f3vel S/A"
+    },
+    "5523": {
+        "ccc": "55",
+        "ii": "23",
+        "country": "Brazil",
+        "issuer": "Telef\u00f4nica Brasil S/A"
+    },
+    "5524": {
+        "ccc": "55",
+        "ii": "24",
+        "country": "Brazil",
+        "issuer": "Oi M\u00f3vel S/A"
+    },
+    "5526": {
+        "ccc": "55",
+        "ii": "26",
+        "country": "Brazil",
+        "issuer": "IDT Brasil Telecomunica\u00e7\u00f4es Ltda"
+    },
+    "5802": {
+        "ccc": "58",
+        "ii": "02",
+        "country": "Venezuela (Bolivarian Republic of)",
+        "issuer": "Corporaci\u00f3n Digitel C.A."
+    },
+    "5804": {
+        "ccc": "58",
+        "ii": "04",
+        "country": "Venezuela (Bolivarian Republic of)",
+        "issuer": "Telef\u00f3nica Venezolana, C.A."
+    },
+    "5806": {
+        "ccc": "58",
+        "ii": "06",
+        "country": "Venezuela (Bolivarian Republic of)",
+        "issuer": "Telecommunications Movilnet C.A."
+    },
+    "6000": {
+        "ccc": "60",
+        "ii": "00",
+        "country": "Malaysia",
+        "issuer": "Telekom Malaysia Berhad (TM)"
+    },
+    "6001": {
+        "ccc": "60",
+        "ii": "01",
+        "country": "Malaysia",
+        "issuer": "Maxis Broadband Sdn Bhd"
+    },
+    "6018": {
+        "ccc": "60",
+        "ii": "18",
+        "country": "Malaysia",
+        "issuer": "U Mobile Sdn. Bhd."
+    },
+    "6019": {
+        "ccc": "60",
+        "ii": "19",
+        "country": "Malaysia",
+        "issuer": "Celcom Axiata Berhad"
+    },
+    "6088": {
+        "ccc": "60",
+        "ii": "88",
+        "country": "Malaysia",
+        "issuer": "TT dotCom Sdn. Bhd."
+    },
+    "6100": {
+        "ccc": "61",
+        "ii": "00",
+        "country": "Australia",
+        "issuer": "Telstra Corporation Ltd."
+    },
+    "6101": {
+        "ccc": "61",
+        "ii": "01",
+        "country": "Australia",
+        "issuer": "Telstra Corporation Ltd."
+    },
+    "6102": {
+        "ccc": "61",
+        "ii": "02",
+        "country": "Australia",
+        "issuer": "SingTel Optus Pty Limited"
+    },
+    "6103": {
+        "ccc": "61",
+        "ii": "03",
+        "country": "Australia",
+        "issuer": "Vodafone Australia Ltd"
+    },
+    "6106": {
+        "ccc": "61",
+        "ii": "06",
+        "country": "Australia",
+        "issuer": "Vodafone Hutchison Australia Pty Ltd"
+    },
+    "6112": {
+        "ccc": "61",
+        "ii": "12",
+        "country": "Australia",
+        "issuer": "SingTel Optus Pty Limited"
+    },
+    "6114": {
+        "ccc": "61",
+        "ii": "14",
+        "country": "Australia",
+        "issuer": "AAPT Ltd"
+    },
+    "6121": {
+        "ccc": "61",
+        "ii": "21",
+        "country": "Australia",
+        "issuer": "SingTel Optus Pty Limited"
+    },
+    "6123": {
+        "ccc": "61",
+        "ii": "23",
+        "country": "Australia",
+        "issuer": "SingTel Optus Pty Limited"
+    },
+    "6150": {
+        "ccc": "61",
+        "ii": "50",
+        "country": "Australia",
+        "issuer": "Pivotel Group Pty Limited"
+    },
+    "6161": {
+        "ccc": "61",
+        "ii": "61",
+        "country": "Australia",
+        "issuer": "Telstra Corporation Ltd."
+    },
+    "6162": {
+        "ccc": "61",
+        "ii": "62",
+        "country": "Australia",
+        "issuer": "Telstra Corporation Ltd."
+    },
+    "6188": {
+        "ccc": "61",
+        "ii": "88",
+        "country": "Australia",
+        "issuer": "Pivotel Group Pty Limited"
+    },
+    "6190": {
+        "ccc": "61",
+        "ii": "90",
+        "country": "Australia",
+        "issuer": "OptiTel Pty Ltd"
+    },
+    "6200": {
+        "ccc": "62",
+        "ii": "00",
+        "country": "Indonesia",
+        "issuer": "PT Pasifik Satelit Nusantara"
+    },
+    "6201": {
+        "ccc": "62",
+        "ii": "01",
+        "country": "Indonesia",
+        "issuer": "PT Satelit Palapa Indonesia (PT Satelindo)"
+    },
+    "6300": {
+        "ccc": "63",
+        "ii": "00",
+        "country": "Philippines",
+        "issuer": "International Communications Corporation"
+    },
+    "6301": {
+        "ccc": "63",
+        "ii": "01",
+        "country": "Philippines",
+        "issuer": "Philippine Global Communications Inc. (Philcom)"
+    },
+    "6305": {
+        "ccc": "63",
+        "ii": "05",
+        "country": "Philippines",
+        "issuer": "Digital Telecommunications Phillipines, Inc."
+    },
+    "6363": {
+        "ccc": "63",
+        "ii": "63",
+        "country": "Philippines",
+        "issuer": "Philippine Long Distance Telephone Company (PLDT)"
+    },
+    "6400": {
+        "ccc": "64",
+        "ii": "00",
+        "country": "New Zealand",
+        "issuer": "Spark NZ Limited"
+    },
+    "6402": {
+        "ccc": "64",
+        "ii": "02",
+        "country": "New Zealand",
+        "issuer": "Compass Communications Ltd"
+    },
+    "6403": {
+        "ccc": "64",
+        "ii": "03",
+        "country": "New Zealand",
+        "issuer": "Telstra Clear Ltd"
+    },
+    "6411": {
+        "ccc": "64",
+        "ii": "11",
+        "country": "New Zealand",
+        "issuer": "GoTalk Communications pty Ltd"
+    },
+    "6415": {
+        "ccc": "64",
+        "ii": "15",
+        "country": "New Zealand",
+        "issuer": "Next Generation Network Ltd"
+    },
+    "6424": {
+        "ccc": "64",
+        "ii": "24",
+        "country": "New Zealand",
+        "issuer": "NZ Communications Ltd"
+    },
+    "6500": {
+        "ccc": "65",
+        "ii": "00",
+        "country": "Singapore",
+        "issuer": "Singapore Telecommunications Ltd (SingTel)"
+    },
+    "6501": {
+        "ccc": "65",
+        "ii": "01",
+        "country": "Singapore",
+        "issuer": "Singapore Telecommunications Ltd (SingTel)"
+    },
+    "6502": {
+        "ccc": "65",
+        "ii": "02",
+        "country": "Singapore",
+        "issuer": "Singapore Telecommunications Ltd (SingTel)"
+    },
+    "6503": {
+        "ccc": "65",
+        "ii": "03",
+        "country": "Singapore",
+        "issuer": "M1 Limited"
+    },
+    "6505": {
+        "ccc": "65",
+        "ii": "05",
+        "country": "Singapore",
+        "issuer": "StarHub Ltd"
+    },
+    "6510": {
+        "ccc": "65",
+        "ii": "10",
+        "country": "Singapore",
+        "issuer": "TPG Telecom Pte Ltd"
+    },
+    "6601": {
+        "ccc": "66",
+        "ii": "01",
+        "country": "Thailand",
+        "issuer": "CAT Telecom Public Company Ltd."
+    },
+    "6602": {
+        "ccc": "66",
+        "ii": "02",
+        "country": "Thailand",
+        "issuer": "TOT Public Company Limited"
+    },
+    "6610": {
+        "ccc": "66",
+        "ii": "10",
+        "country": "Thailand",
+        "issuer": "Wireless Communications Services"
+    },
+    "6615": {
+        "ccc": "66",
+        "ii": "15",
+        "country": "Thailand",
+        "issuer": "TOT Public Company Limited"
+    },
+    "6647": {
+        "ccc": "66",
+        "ii": "47",
+        "country": "Thailand",
+        "issuer": "TOT Public Company Limited"
+    },
+    "8100": {
+        "ccc": "81",
+        "ii": "00",
+        "country": "Japan",
+        "issuer": "SoftBank Corp."
+    },
+    "8102": {
+        "ccc": "81",
+        "ii": "02",
+        "country": "Japan",
+        "issuer": "Hanshin Cable Engineering Co. Ltd."
+    },
+    "8103": {
+        "ccc": "81",
+        "ii": "03",
+        "country": "Japan",
+        "issuer": "Internet Initiative Japan Inc."
+    },
+    "8104": {
+        "ccc": "81",
+        "ii": "04",
+        "country": "Japan",
+        "issuer": "SAKURA Internet Inc."
+    },
+    "8105": {
+        "ccc": "81",
+        "ii": "05",
+        "country": "Japan",
+        "issuer": "Japan Radio Co., Ltd."
+    },
+    "8106": {
+        "ccc": "81",
+        "ii": "06",
+        "country": "Japan",
+        "issuer": "closip, Inc."
+    },
+    "8107": {
+        "ccc": "81",
+        "ii": "07",
+        "country": "Japan",
+        "issuer": "Panasonic Connect Co. Ltd"
+    },
+    "8108": {
+        "ccc": "81",
+        "ii": "08",
+        "country": "Japan",
+        "issuer": "Marubeni Network Solutions Inc."
+    },
+    "8109": {
+        "ccc": "81",
+        "ii": "09",
+        "country": "Japan",
+        "issuer": "Rakuten Mobile Network, Inc."
+    },
+    "8110": {
+        "ccc": "81",
+        "ii": "10",
+        "country": "Japan",
+        "issuer": "NTT DOCOMO, INC."
+    },
+    "8111": {
+        "ccc": "81",
+        "ii": "11",
+        "country": "Japan",
+        "issuer": "Fujitsu Limited"
+    },
+    "8112": {
+        "ccc": "81",
+        "ii": "12",
+        "country": "Japan",
+        "issuer": "NTT Communications Corporation"
+    },
+    "8113": {
+        "ccc": "81",
+        "ii": "13",
+        "country": "Japan",
+        "issuer": "BB Backbone Corp."
+    },
+    "8114": {
+        "ccc": "81",
+        "ii": "14",
+        "country": "Japan",
+        "issuer": "NEC Networks & System Integration Corporation"
+    },
+    "8115": {
+        "ccc": "81",
+        "ii": "15",
+        "country": "Japan",
+        "issuer": "GRAPE ONE LTD."
+    },
+    "8116": {
+        "ccc": "81",
+        "ii": "16",
+        "country": "Japan",
+        "issuer": "Dai Nippon Printing Co., Ltd."
+    },
+    "8117": {
+        "ccc": "81",
+        "ii": "17",
+        "country": "Japan",
+        "issuer": "Sony Wireless Communications Inc."
+    },
+    "8118": {
+        "ccc": "81",
+        "ii": "18",
+        "country": "Japan",
+        "issuer": "Japan Communications Inc."
+    },
+    "8120": {
+        "ccc": "81",
+        "ii": "20",
+        "country": "Japan",
+        "issuer": "SoftBank Corp."
+    },
+    "8130": {
+        "ccc": "81",
+        "ii": "30",
+        "country": "Japan",
+        "issuer": "KDDI Corporation"
+    },
+    "8131": {
+        "ccc": "81",
+        "ii": "31",
+        "country": "Japan",
+        "issuer": "UQ Communications Inc."
+    },
+    "8165": {
+        "ccc": "81",
+        "ii": "65",
+        "country": "Japan",
+        "issuer": "SoftBank Corp."
+    },
+    "8170": {
+        "ccc": "81",
+        "ii": "70",
+        "country": "Japan",
+        "issuer": "SoftBank Corp."
+    },
+    "8171": {
+        "ccc": "81",
+        "ii": "71",
+        "country": "Japan",
+        "issuer": "Wireless City Planning Inc."
+    },
+    "8201": {
+        "ccc": "82",
+        "ii": "01",
+        "country": "Korea (Rep. of)",
+        "issuer": "KT Corporation"
+    },
+    "8205": {
+        "ccc": "82",
+        "ii": "05",
+        "country": "Korea (Rep. of)",
+        "issuer": "SK Telecom"
+    },
+    "8206": {
+        "ccc": "82",
+        "ii": "06",
+        "country": "Korea (Rep. of)",
+        "issuer": "LG Uplus Corporation"
+    },
+    "8211": {
+        "ccc": "82",
+        "ii": "11",
+        "country": "Korea (Rep. of)",
+        "issuer": "SK Telecom"
+    },
+    "8230": {
+        "ccc": "82",
+        "ii": "30",
+        "country": "Korea (Rep. of)",
+        "issuer": "KT Corporation"
+    },
+    "8401": {
+        "ccc": "84",
+        "ii": "01",
+        "country": "Viet Nam",
+        "issuer": "MOBIFONE CORPORATION (MOBIFONE)"
+    },
+    "8402": {
+        "ccc": "84",
+        "ii": "02",
+        "country": "Viet Nam",
+        "issuer": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP (VNPT)"
+    },
+    "8600": {
+        "ccc": "86",
+        "ii": "00",
+        "country": "China",
+        "issuer": "China Telecom"
+    },
+    "8816": {
+        "ccc": "881",
+        "ii": "6",
+        "country": "Global",
+        "issuer": "Iridium LLC"
+    },
+    "8817": {
+        "ccc": "881",
+        "ii": "7",
+        "country": "Global",
+        "issuer": "Iridium Communications Inc"
+    },
+    "8818": {
+        "ccc": "881",
+        "ii": "8",
+        "country": "Global",
+        "issuer": "Globalstar"
+    },
+    "8819": {
+        "ccc": "881",
+        "ii": "9",
+        "country": "Global",
+        "issuer": "Globalstar"
+    },
+    "9001": {
+        "ccc": "90",
+        "ii": "01",
+        "country": "T\u00fcrkiye",
+        "issuer": "Turkcell Iletisim Hizmetleri AS"
+    },
+    "9002": {
+        "ccc": "90",
+        "ii": "02",
+        "country": "T\u00fcrkiye",
+        "issuer": "Vodafone Telekom\u00fcnikasyon AS"
+    },
+    "9101": {
+        "ccc": "91",
+        "ii": "01",
+        "country": "India",
+        "issuer": "Aircel Digilink India Ltd"
+    },
+    "9105": {
+        "ccc": "91",
+        "ii": "05",
+        "country": "India",
+        "issuer": "Fascel Ltd"
+    },
+    "9109": {
+        "ccc": "91",
+        "ii": "09",
+        "country": "India",
+        "issuer": "Reliance Telecom Ltd"
+    },
+    "9110": {
+        "ccc": "91",
+        "ii": "10",
+        "country": "India",
+        "issuer": "Bharti Mobile Ltd"
+    },
+    "9111": {
+        "ccc": "91",
+        "ii": "11",
+        "country": "India",
+        "issuer": "Sterling Cellular Ltd"
+    },
+    "9114": {
+        "ccc": "91",
+        "ii": "14",
+        "country": "India",
+        "issuer": "Spice Communications Ltd"
+    },
+    "9121": {
+        "ccc": "91",
+        "ii": "21",
+        "country": "India",
+        "issuer": "BPL Mobile Communications"
+    },
+    "9130": {
+        "ccc": "91",
+        "ii": "30",
+        "country": "India",
+        "issuer": "Hutchison Essar South Ltd"
+    },
+    "9168": {
+        "ccc": "91",
+        "ii": "68",
+        "country": "India",
+        "issuer": "Mahanagar Telephone Nigam Ltd"
+    },
+    "9201": {
+        "ccc": "92",
+        "ii": "01",
+        "country": "Pakistan",
+        "issuer": "Jazz"
+    },
+    "9203": {
+        "ccc": "92",
+        "ii": "03",
+        "country": "Pakistan",
+        "issuer": "PAK Telecom Mobile Ltd. (UFONE)"
+    },
+    "9204": {
+        "ccc": "92",
+        "ii": "04",
+        "country": "Pakistan",
+        "issuer": "CMPAK Ltd"
+    },
+    "9206": {
+        "ccc": "92",
+        "ii": "06",
+        "country": "Pakistan",
+        "issuer": "Telenor Pakistan"
+    },
+    "9207": {
+        "ccc": "92",
+        "ii": "07",
+        "country": "Pakistan",
+        "issuer": "Jazz"
+    },
+    "9301": {
+        "ccc": "93",
+        "ii": "01",
+        "country": "Afghanistan",
+        "issuer": "Afghan Wireless Communication Company (AWCC)"
+    },
+    "9402": {
+        "ccc": "94",
+        "ii": "02",
+        "country": "Sri Lanka",
+        "issuer": "Dialog Telekom Ltd"
+    },
+    "9403": {
+        "ccc": "94",
+        "ii": "03",
+        "country": "Sri Lanka",
+        "issuer": "Celltel Lanka Ltd."
+    },
+    "9405": {
+        "ccc": "94",
+        "ii": "05",
+        "country": "Sri Lanka",
+        "issuer": "Bharti Airtel Lanka"
+    },
+    "9659": {
+        "ccc": "965",
+        "ii": "9",
+        "country": "Kuwait",
+        "issuer": "Zain (ex-Mobile Telecommunications Company)"
+    },
+    "9711": {
+        "ccc": "971",
+        "ii": "1",
+        "country": "United Arab Emirates",
+        "issuer": "The Emirates Telecommunications Corporations Ltd."
+    },
+    "9811": {
+        "ccc": "98",
+        "ii": "11",
+        "country": "Iran (Islamic Republic of)",
+        "issuer": "Telecommunication Company of Iran (TCI)"
+    },
+    "9814": {
+        "ccc": "98",
+        "ii": "14",
+        "country": "Iran (Islamic Republic of)",
+        "issuer": "Kish free-zone organisation (KFZO), Payem Kish"
+    },
+    "21301": {
+        "ccc": "213",
+        "ii": "01",
+        "country": "Algeria",
+        "issuer": "ATM Mobilis (Alg\u00e9rie Telecom spa)"
+    },
+    "21800": {
+        "ccc": "218",
+        "ii": "00",
+        "country": "Libya",
+        "issuer": "Libyana Mobile Phone"
+    },
+    "22002": {
+        "ccc": "220",
+        "ii": "02",
+        "country": "Gambia",
+        "issuer": "Africell Gambia"
+    },
+    "22003": {
+        "ccc": "220",
+        "ii": "03",
+        "country": "Gambia",
+        "issuer": "Comium Gambia Limited"
+    },
+    "22004": {
+        "ccc": "220",
+        "ii": "04",
+        "country": "Gambia",
+        "issuer": "Qcell Limited"
+    },
+    "22202": {
+        "ccc": "222",
+        "ii": "02",
+        "country": "Mauritania",
+        "issuer": "Mauritel Mobiles"
+    },
+    "22203": {
+        "ccc": "222",
+        "ii": "03",
+        "country": "Mauritania",
+        "issuer": "La Mauritano - Tunisienne de T\u00e9l\u00e9communications (MATTEL)"
+    },
+    "22302": {
+        "ccc": "223",
+        "ii": "02",
+        "country": "Mali",
+        "issuer": "Ikatel"
+    },
+    "22401": {
+        "ccc": "224",
+        "ii": "01",
+        "country": "Guinea",
+        "issuer": "Orange Guin\u00e9e"
+    },
+    "22501": {
+        "ccc": "225",
+        "ii": "01",
+        "country": "C\u00f4te d'Ivoire",
+        "issuer": "Comstar S.A."
+    },
+    "22502": {
+        "ccc": "225",
+        "ii": "02",
+        "country": "C\u00f4te d'Ivoire",
+        "issuer": "Atlantique Telecom C\u00f4te d'Ivoire"
+    },
+    "22602": {
+        "ccc": "226",
+        "ii": "02",
+        "country": "Burkina Faso",
+        "issuer": "Celtel Burkina SA"
+    },
+    "22603": {
+        "ccc": "226",
+        "ii": "03",
+        "country": "Burkina Faso",
+        "issuer": "Telecel Faso"
+    },
+    "22702": {
+        "ccc": "227",
+        "ii": "02",
+        "country": "Niger",
+        "issuer": "Celtel Niger S.A."
+    },
+    "22905": {
+        "ccc": "229",
+        "ii": "05",
+        "country": "Benin",
+        "issuer": "Glomobile Benin Ltd"
+    },
+    "23001": {
+        "ccc": "230",
+        "ii": "01",
+        "country": "Mauritius",
+        "issuer": "Mauritius Telecom Ltd"
+    },
+    "23002": {
+        "ccc": "230",
+        "ii": "02",
+        "country": "Mauritius",
+        "issuer": "Emtel Ltd"
+    },
+    "23003": {
+        "ccc": "230",
+        "ii": "03",
+        "country": "Mauritius",
+        "issuer": "Mahanagar Telephone (Mauritius) Ltd"
+    },
+    "23101": {
+        "ccc": "231",
+        "ii": "01",
+        "country": "Liberia",
+        "issuer": "Lonestar Communication Corporation"
+    },
+    "23104": {
+        "ccc": "231",
+        "ii": "04",
+        "country": "Liberia",
+        "issuer": "Novafone Inc."
+    },
+    "23134": {
+        "ccc": "231",
+        "ii": "34",
+        "country": "Liberia",
+        "issuer": "Orange Liberia"
+    },
+    "23233": {
+        "ccc": "232",
+        "ii": "33",
+        "country": "Sierra Leone",
+        "issuer": "Comium (Sierra Leone) Ltd"
+    },
+    "23240": {
+        "ccc": "232",
+        "ii": "40",
+        "country": "Sierra Leone",
+        "issuer": "Datatel Network GSM (SL) Ltd"
+    },
+    "23302": {
+        "ccc": "233",
+        "ii": "02",
+        "country": "Ghana",
+        "issuer": "Ghana Telecommunications Co. Ltd."
+    },
+    "23309": {
+        "ccc": "233",
+        "ii": "09",
+        "country": "Ghana",
+        "issuer": "ACG Telesystems Ghana Ltd."
+    },
+    "23501": {
+        "ccc": "235",
+        "ii": "01",
+        "country": "Chad",
+        "issuer": "Airtel Tchad S.A."
+    },
+    "23502": {
+        "ccc": "235",
+        "ii": "02",
+        "country": "Chad",
+        "issuer": "Tchad Mobile - Libertis"
+    },
+    "23801": {
+        "ccc": "238",
+        "ii": "01",
+        "country": "Cabo Verde",
+        "issuer": "CV M\u00f3vel, S.A."
+    },
+    "23802": {
+        "ccc": "238",
+        "ii": "02",
+        "country": "Cabo Verde",
+        "issuer": "UNITEL T+ TELECOMUNICA\u00c7\u00d5ES, SOCIEDADE UNIPESSOAL, SA"
+    },
+    "23902": {
+        "ccc": "239",
+        "ii": "02",
+        "country": "Sao Tome and Principe",
+        "issuer": "UNITEL STP"
+    },
+    "23912": {
+        "ccc": "239",
+        "ii": "12",
+        "country": "Sao Tome and Principe",
+        "issuer": "Companhia Santomese de Telecomunica\u00e7\u00f5es, SARL (CST)"
+    },
+    "24001": {
+        "ccc": "240",
+        "ii": "01",
+        "country": "Equatorial Guinea",
+        "issuer": "Guinea Ecuatorial de Telecomunicaciones Sociedad An\u00f3nima (GETESA)"
+    },
+    "24103": {
+        "ccc": "241",
+        "ii": "03",
+        "country": "Gabon",
+        "issuer": "Celtel Gabon S.A."
+    },
+    "24201": {
+        "ccc": "242",
+        "ii": "01",
+        "country": "Congo",
+        "issuer": "Celtel Congo S.A."
+    },
+    "24301": {
+        "ccc": "243",
+        "ii": "01",
+        "country": "Dem. Rep. of the Congo",
+        "issuer": "Vodacom Congo RDC sprl"
+    },
+    "24302": {
+        "ccc": "243",
+        "ii": "02",
+        "country": "Dem. Rep. of the Congo",
+        "issuer": "Celtel Congo (RDC) sprl"
+    },
+    "24384": {
+        "ccc": "243",
+        "ii": "84",
+        "country": "Dem. Rep. of the Congo",
+        "issuer": "Congo-Chine Telecom s.a.r.l."
+    },
+    "24389": {
+        "ccc": "243",
+        "ii": "89",
+        "country": "Dem. Rep. of the Congo",
+        "issuer": "Sait Telecom"
+    },
+    "24402": {
+        "ccc": "244",
+        "ii": "02",
+        "country": "Angola",
+        "issuer": "Unitel sarl"
+    },
+    "24501": {
+        "ccc": "245",
+        "ii": "01",
+        "country": "Guinea-Bissau",
+        "issuer": "Guin\u00e9tel S.A."
+    },
+    "24502": {
+        "ccc": "245",
+        "ii": "02",
+        "country": "Guinea-Bissau",
+        "issuer": "Spacetel Guinea-Bissau S.A."
+    },
+    "24509": {
+        "ccc": "245",
+        "ii": "09",
+        "country": "Guinea-Bissau",
+        "issuer": "Guin\u00e9 Telecom - Companhia de Telecomunica\u00e7\u00f4es de Guin\u00e9Bissau"
+    },
+    "24801": {
+        "ccc": "248",
+        "ii": "01",
+        "country": "Seychelles",
+        "issuer": "Cable and wireless (Seychelles) Ltd"
+    },
+    "24805": {
+        "ccc": "248",
+        "ii": "05",
+        "country": "Seychelles",
+        "issuer": "INTELVISION"
+    },
+    "24810": {
+        "ccc": "248",
+        "ii": "10",
+        "country": "Seychelles",
+        "issuer": "Airtel Seychelles Ltd"
+    },
+    "24901": {
+        "ccc": "249",
+        "ii": "01",
+        "country": "Sudan",
+        "issuer": "Sudan Telecom Company Ltd (Sudatel)"
+    },
+    "24905": {
+        "ccc": "249",
+        "ii": "05",
+        "country": "South Sudan",
+        "issuer": "Network of the World Ltd (NOW)"
+    },
+    "24999": {
+        "ccc": "249",
+        "ii": "99",
+        "country": "Sudan",
+        "issuer": "MTN Sudan"
+    },
+    "25000": {
+        "ccc": "250",
+        "ii": "00",
+        "country": "Rwanda",
+        "issuer": "MTN Rwandacell sarl"
+    },
+    "25014": {
+        "ccc": "250",
+        "ii": "14",
+        "country": "Rwanda",
+        "issuer": "AIRTEL RWANDA Ltd"
+    },
+    "25017": {
+        "ccc": "250",
+        "ii": "17",
+        "country": "Rwanda",
+        "issuer": "Olleh Rwanda Networks (ORN)"
+    },
+    "25101": {
+        "ccc": "251",
+        "ii": "01",
+        "country": "Ethiopia",
+        "issuer": "Ethiopian Telecommunications Corporation (ETC)"
+    },
+    "25284": {
+        "ccc": "252",
+        "ii": "84",
+        "country": "Somalia",
+        "issuer": "NOMAD TELECOM LTD"
+    },
+    "25285": {
+        "ccc": "252",
+        "ii": "85",
+        "country": "Somalia",
+        "issuer": "NABAADTELCOM"
+    },
+    "25402": {
+        "ccc": "254",
+        "ii": "02",
+        "country": "Kenya",
+        "issuer": "Safaricom Limited"
+    },
+    "25403": {
+        "ccc": "254",
+        "ii": "03",
+        "country": "Kenya",
+        "issuer": "Airtel Networks Kenya Limited"
+    },
+    "25404": {
+        "ccc": "254",
+        "ii": "04",
+        "country": "Kenya",
+        "issuer": "Mobile Pay Kenya Limited"
+    },
+    "25405": {
+        "ccc": "254",
+        "ii": "05",
+        "country": "Kenya",
+        "issuer": "Airtel Networks Kenya Limited"
+    },
+    "25406": {
+        "ccc": "254",
+        "ii": "06",
+        "country": "Kenya",
+        "issuer": "Finserve Kenya Limited"
+    },
+    "25407": {
+        "ccc": "254",
+        "ii": "07",
+        "country": "Kenya",
+        "issuer": "Telkom Kenya Limited"
+    },
+    "25410": {
+        "ccc": "254",
+        "ii": "10",
+        "country": "Kenya",
+        "issuer": "Jamii Telecommunications Limited"
+    },
+    "25412": {
+        "ccc": "254",
+        "ii": "12",
+        "country": "Kenya",
+        "issuer": "Infura Limited"
+    },
+    "25505": {
+        "ccc": "255",
+        "ii": "05",
+        "country": "Tanzania",
+        "issuer": "Celtel Tanzania Ltd."
+    },
+    "25707": {
+        "ccc": "257",
+        "ii": "07",
+        "country": "Burundi",
+        "issuer": "Lacell SU"
+    },
+    "25804": {
+        "ccc": "258",
+        "ii": "04",
+        "country": "Mozambique",
+        "issuer": "VM Sarl"
+    },
+    "26003": {
+        "ccc": "260",
+        "ii": "03",
+        "country": "Zambia",
+        "issuer": "Zambia Telecommunications Company Ltd (ZAMTEL)"
+    },
+    "26102": {
+        "ccc": "261",
+        "ii": "02",
+        "country": "Madagascar",
+        "issuer": "Orange Madagascar"
+    },
+    "26202": {
+        "ccc": "262",
+        "ii": "02",
+        "country": "French Departments and Territories in the Indian Ocean",
+        "issuer": "Telco OI Mayotte"
+    },
+    "26203": {
+        "ccc": "262",
+        "ii": "03",
+        "country": "French Departments and Territories in the Indian Ocean",
+        "issuer": "Telco OI R\u00e9union"
+    },
+    "26204": {
+        "ccc": "262",
+        "ii": "04",
+        "country": "French Departments and Territories in the Indian Ocean",
+        "issuer": "ZEOP Mobile"
+    },
+    "26401": {
+        "ccc": "264",
+        "ii": "01",
+        "country": "Namibia",
+        "issuer": "Mobile Telecommunications Ltd."
+    },
+    "26422": {
+        "ccc": "264",
+        "ii": "22",
+        "country": "Namibia",
+        "issuer": "Paratus Telecommunications (Pty) Ltd"
+    },
+    "26433": {
+        "ccc": "264",
+        "ii": "33",
+        "country": "Namibia",
+        "issuer": "Mobile Telephone Networks Business Solutions (Namibia) (Pty) Ltd"
+    },
+    "26502": {
+        "ccc": "265",
+        "ii": "02",
+        "country": "Malawi",
+        "issuer": "Celtel Malawi Ltd."
+    },
+    "26611": {
+        "ccc": "266",
+        "ii": "11",
+        "country": "Lesotho",
+        "issuer": "Tele-Com Mobile"
+    },
+    "26701": {
+        "ccc": "267",
+        "ii": "01",
+        "country": "Botswana",
+        "issuer": "Mascom Wireless (Pty) Ltd"
+    },
+    "26702": {
+        "ccc": "267",
+        "ii": "02",
+        "country": "Botswana",
+        "issuer": "Orange Botswana (Pty) Ltd"
+    },
+    "26704": {
+        "ccc": "267",
+        "ii": "04",
+        "country": "Botswana",
+        "issuer": "Botswana Telecommunications Corporation (Ltd)"
+    },
+    "26901": {
+        "ccc": "269",
+        "ii": "01",
+        "country": "Comoros",
+        "issuer": "Soci\u00e9t\u00e9 nationale des t\u00e9l\u00e9communications (Comores Telecom)"
+    },
+    "29101": {
+        "ccc": "291",
+        "ii": "01",
+        "country": "Eritrea",
+        "issuer": "Eritrea Telecommunication Services Corporation (EriTel)"
+    },
+    "29786": {
+        "ccc": "297",
+        "ii": "86",
+        "country": "Aruba",
+        "issuer": "SETAR, Servicio di Telecomunicacion di Aruba"
+    },
+    "29801": {
+        "ccc": "298",
+        "ii": "01",
+        "country": "Faroe Islands",
+        "issuer": "Faroese Telecom"
+    },
+    "29802": {
+        "ccc": "298",
+        "ii": "02",
+        "country": "Faroe Islands",
+        "issuer": "P/F Hey"
+    },
+    "29901": {
+        "ccc": "299",
+        "ii": "01",
+        "country": "Greenland",
+        "issuer": "TELE Greenland A/S"
+    },
+    "35001": {
+        "ccc": "350",
+        "ii": "01",
+        "country": "Gibraltar",
+        "issuer": "GIBTELECOM Ltd"
+    },
+    "35003": {
+        "ccc": "350",
+        "ii": "03",
+        "country": "Gibraltar",
+        "issuer": "GIBFIBRE Ltd"
+    },
+    "35009": {
+        "ccc": "350",
+        "ii": "09",
+        "country": "Gibraltar",
+        "issuer": "Eazi Telecom Ltd (trading as \u201cLimba\u201d)"
+    },
+    "35101": {
+        "ccc": "351",
+        "ii": "01",
+        "country": "Portugal",
+        "issuer": "Vodafone Portugal - Comunica\u00e7\u00f5es Pessoais, S.A."
+    },
+    "35103": {
+        "ccc": "351",
+        "ii": "03",
+        "country": "Portugal",
+        "issuer": "NOS Comunica\u00e7\u00f5es, S.A."
+    },
+    "35104": {
+        "ccc": "351",
+        "ii": "04",
+        "country": "Portugal",
+        "issuer": "Lycamobile Portugal, Lda"
+    },
+    "35106": {
+        "ccc": "351",
+        "ii": "06",
+        "country": "Portugal",
+        "issuer": "MEO - Servi\u00e7os de Comunica\u00e7\u00f5es e Multim\u00e9dia, S.A."
+    },
+    "35112": {
+        "ccc": "351",
+        "ii": "12",
+        "country": "Portugal",
+        "issuer": "Infraestruturas de Portugal SA"
+    },
+    "35180": {
+        "ccc": "351",
+        "ii": "80",
+        "country": "Portugal",
+        "issuer": "MEO - Servi\u00e7os de Comunica\u00e7\u00f5es e Multim\u00e9dia, S.A."
+    },
+    "35200": {
+        "ccc": "352",
+        "ii": "00",
+        "country": "Luxembourg",
+        "issuer": "POST Luxembourg"
+    },
+    "35201": {
+        "ccc": "352",
+        "ii": "01",
+        "country": "Luxembourg",
+        "issuer": "POST Luxembourg"
+    },
+    "35202": {
+        "ccc": "352",
+        "ii": "02",
+        "country": "Luxembourg",
+        "issuer": "MTX Connect S.\u00e0 r.l."
+    },
+    "35205": {
+        "ccc": "352",
+        "ii": "05",
+        "country": "Luxembourg",
+        "issuer": "Luxembourg Online S.A."
+    },
+    "35207": {
+        "ccc": "352",
+        "ii": "07",
+        "country": "Luxembourg",
+        "issuer": "Bouygues Telecom"
+    },
+    "35210": {
+        "ccc": "352",
+        "ii": "10",
+        "country": "Luxembourg",
+        "issuer": "Join Experience S.A."
+    },
+    "35277": {
+        "ccc": "352",
+        "ii": "77",
+        "country": "Luxembourg",
+        "issuer": "Tango S.A."
+    },
+    "35281": {
+        "ccc": "352",
+        "ii": "81",
+        "country": "Luxembourg",
+        "issuer": "e-LUX Mobile Telecommunication Services S.A."
+    },
+    "35299": {
+        "ccc": "352",
+        "ii": "99",
+        "country": "Luxembourg",
+        "issuer": "Voxmobile"
+    },
+    "35301": {
+        "ccc": "353",
+        "ii": "01",
+        "country": "Ireland",
+        "issuer": "Vodaphone GSM Network"
+    },
+    "35302": {
+        "ccc": "353",
+        "ii": "02",
+        "country": "Ireland",
+        "issuer": "Telef\u00f3nica Ireland Ltd"
+    },
+    "35303": {
+        "ccc": "353",
+        "ii": "03",
+        "country": "Ireland",
+        "issuer": "Meteor Mobile Communications"
+    },
+    "35304": {
+        "ccc": "353",
+        "ii": "04",
+        "country": "Ireland",
+        "issuer": "IDT Card Services Ireland Ltd"
+    },
+    "35306": {
+        "ccc": "353",
+        "ii": "06",
+        "country": "Ireland",
+        "issuer": "Lycamobile Ireland Limited"
+    },
+    "35307": {
+        "ccc": "353",
+        "ii": "07",
+        "country": "Ireland",
+        "issuer": "Cellusys IOT Limited trading as ZARIOT"
+    },
+    "35308": {
+        "ccc": "353",
+        "ii": "08",
+        "country": "Ireland",
+        "issuer": "Sky Ireland Limited"
+    },
+    "35309": {
+        "ccc": "353",
+        "ii": "09",
+        "country": "Ireland",
+        "issuer": "Card Centric Ltd"
+    },
+    "35311": {
+        "ccc": "353",
+        "ii": "11",
+        "country": "Ireland",
+        "issuer": "Liffey Telecom Ltd"
+    },
+    "35315": {
+        "ccc": "353",
+        "ii": "15",
+        "country": "Ireland",
+        "issuer": "Virgin Media"
+    },
+    "35316": {
+        "ccc": "353",
+        "ii": "16",
+        "country": "Ireland",
+        "issuer": "CARPHONE WAREHOUSE IRELAND MOBILE LIMITED"
+    },
+    "35400": {
+        "ccc": "354",
+        "ii": "00",
+        "country": "Iceland",
+        "issuer": "S\u00edminn hf."
+    },
+    "35402": {
+        "ccc": "354",
+        "ii": "02",
+        "country": "Iceland",
+        "issuer": "Fjarskipti hf"
+    },
+    "35403": {
+        "ccc": "354",
+        "ii": "03",
+        "country": "Iceland",
+        "issuer": "Islandesimi GSM"
+    },
+    "35404": {
+        "ccc": "354",
+        "ii": "04",
+        "country": "Iceland",
+        "issuer": "IMC Island ehf"
+    },
+    "35501": {
+        "ccc": "355",
+        "ii": "01",
+        "country": "Albania",
+        "issuer": "Telekom Albania sh.a"
+    },
+    "35502": {
+        "ccc": "355",
+        "ii": "02",
+        "country": "Albania",
+        "issuer": "Vodafone Albania sh.a"
+    },
+    "35503": {
+        "ccc": "355",
+        "ii": "03",
+        "country": "Albania",
+        "issuer": "Albtelecom sh.a"
+    },
+    "35504": {
+        "ccc": "355",
+        "ii": "04",
+        "country": "Albania",
+        "issuer": "Plus Communications Sh.a"
+    },
+    "35601": {
+        "ccc": "356",
+        "ii": "01",
+        "country": "Malta",
+        "issuer": "Epic Communications Ltd"
+    },
+    "35621": {
+        "ccc": "356",
+        "ii": "21",
+        "country": "Malta",
+        "issuer": "GO p.l.c."
+    },
+    "35677": {
+        "ccc": "356",
+        "ii": "77",
+        "country": "Malta",
+        "issuer": "Melita Ltd."
+    },
+    "35702": {
+        "ccc": "357",
+        "ii": "02",
+        "country": "Cyprus",
+        "issuer": "Cyprus Telecommunications Authority (CYTA)"
+    },
+    "35710": {
+        "ccc": "357",
+        "ii": "10",
+        "country": "Cyprus",
+        "issuer": "Scancom (Cyprus) Ltd."
+    },
+    "35720": {
+        "ccc": "357",
+        "ii": "20",
+        "country": "Cyprus",
+        "issuer": "PrimeTel PLC"
+    },
+    "35722": {
+        "ccc": "357",
+        "ii": "22",
+        "country": "Cyprus",
+        "issuer": "Cablenet Communications Systems Ltd"
+    },
+    "35789": {
+        "ccc": "357",
+        "ii": "89",
+        "country": "Cyprus",
+        "issuer": "Cyprus Telecommunications Authority (CYTA)"
+    },
+    "35801": {
+        "ccc": "358",
+        "ii": "01",
+        "country": "Finland",
+        "issuer": "Telia Finland Oyj"
+    },
+    "35802": {
+        "ccc": "358",
+        "ii": "02",
+        "country": "Finland",
+        "issuer": "Elisa Corporation"
+    },
+    "35803": {
+        "ccc": "358",
+        "ii": "03",
+        "country": "Finland",
+        "issuer": "Elisa Corporation"
+    },
+    "35804": {
+        "ccc": "358",
+        "ii": "04",
+        "country": "Finland",
+        "issuer": "DNA Oyj"
+    },
+    "35805": {
+        "ccc": "358",
+        "ii": "05",
+        "country": "Finland",
+        "issuer": "Elisa Corporation"
+    },
+    "35806": {
+        "ccc": "358",
+        "ii": "06",
+        "country": "Finland",
+        "issuer": "DNA Oyj"
+    },
+    "35807": {
+        "ccc": "358",
+        "ii": "07",
+        "country": "Finland",
+        "issuer": "\u00c5lands Telekommunikation Ab"
+    },
+    "35809": {
+        "ccc": "358",
+        "ii": "09",
+        "country": "Finland",
+        "issuer": "Elisa Corporation"
+    },
+    "35811": {
+        "ccc": "358",
+        "ii": "11",
+        "country": "Finland",
+        "issuer": "Ukkoverkot Oy"
+    },
+    "35812": {
+        "ccc": "358",
+        "ii": "12",
+        "country": "Finland",
+        "issuer": "Suomen Virveverkko Oy"
+    },
+    "35901": {
+        "ccc": "359",
+        "ii": "01",
+        "country": "Bulgaria",
+        "issuer": "A1 Bulgaria EAD"
+    },
+    "35905": {
+        "ccc": "359",
+        "ii": "05",
+        "country": "Bulgaria",
+        "issuer": "Cosmo Bulgaria Mobile Ltd."
+    },
+    "35920": {
+        "ccc": "359",
+        "ii": "20",
+        "country": "Bulgaria",
+        "issuer": "Intelligent Traffic Systems AD"
+    },
+    "35922": {
+        "ccc": "359",
+        "ii": "22",
+        "country": "Bulgaria",
+        "issuer": "GPS Bulgaria AD"
+    },
+    "35923": {
+        "ccc": "359",
+        "ii": "23",
+        "country": "Bulgaria",
+        "issuer": "CONCORD SMART INFRASTRUCTURE AD PIC 205612035"
+    },
+    "37001": {
+        "ccc": "370",
+        "ii": "01",
+        "country": "Lithuania",
+        "issuer": "Telia Lietuva, AB"
+    },
+    "37002": {
+        "ccc": "370",
+        "ii": "02",
+        "country": "Lithuania",
+        "issuer": "UAB \u201cBit\u00e9 Lietuva\u201d"
+    },
+    "37003": {
+        "ccc": "370",
+        "ii": "03",
+        "country": "Lithuania",
+        "issuer": "UAB \u201cTele2\u201d"
+    },
+    "37101": {
+        "ccc": "371",
+        "ii": "01",
+        "country": "Latvia",
+        "issuer": "Latvian Mobile Telephone Co. Ltd."
+    },
+    "37201": {
+        "ccc": "372",
+        "ii": "01",
+        "country": "Estonia",
+        "issuer": "Telia Eesti AS"
+    },
+    "37202": {
+        "ccc": "372",
+        "ii": "02",
+        "country": "Estonia",
+        "issuer": "Elisa Eesti AS"
+    },
+    "37203": {
+        "ccc": "372",
+        "ii": "03",
+        "country": "Estonia",
+        "issuer": "Tele2 Eesti AS"
+    },
+    "37204": {
+        "ccc": "372",
+        "ii": "04",
+        "country": "Estonia",
+        "issuer": "Top Connect O\u00dc"
+    },
+    "37206": {
+        "ccc": "372",
+        "ii": "06",
+        "country": "Estonia",
+        "issuer": "1oT O\u00dc"
+    },
+    "37301": {
+        "ccc": "373",
+        "ii": "01",
+        "country": "Moldova (Republic of)",
+        "issuer": "JSC Orange Moldova"
+    },
+    "37302": {
+        "ccc": "373",
+        "ii": "02",
+        "country": "Moldova (Republic of)",
+        "issuer": "Moldcell S.A."
+    },
+    "37303": {
+        "ccc": "373",
+        "ii": "03",
+        "country": "Moldova (Republic of)",
+        "issuer": "J.S.C. MOLDTELECOM"
+    },
+    "37401": {
+        "ccc": "374",
+        "ii": "01",
+        "country": "Armenia",
+        "issuer": "\u201cVEON Armenia\u201d CJSC"
+    },
+    "37404": {
+        "ccc": "374",
+        "ii": "04",
+        "country": "Armenia",
+        "issuer": "PMF SAL"
+    },
+    "37405": {
+        "ccc": "374",
+        "ii": "05",
+        "country": "Armenia",
+        "issuer": "MTS Armenia CJSC"
+    },
+    "37410": {
+        "ccc": "374",
+        "ii": "10",
+        "country": "Armenia",
+        "issuer": "UCOM LLC"
+    },
+    "37501": {
+        "ccc": "375",
+        "ii": "01",
+        "country": "Belarus",
+        "issuer": "FE Velcom"
+    },
+    "37502": {
+        "ccc": "375",
+        "ii": "02",
+        "country": "Belarus",
+        "issuer": "Joint Limited Liability Company \"Mobile TeleSystems\""
+    },
+    "37503": {
+        "ccc": "375",
+        "ii": "03",
+        "country": "Belarus",
+        "issuer": "Belarusian Telecommunication Network (ZAO BeST)"
+    },
+    "37603": {
+        "ccc": "376",
+        "ii": "03",
+        "country": "Andorra",
+        "issuer": "Servei de Telecomunicacions d'Andorra"
+    },
+    "38001": {
+        "ccc": "380",
+        "ii": "01",
+        "country": "Ukraine",
+        "issuer": "VF UKRAINE PrJSC"
+    },
+    "38002": {
+        "ccc": "380",
+        "ii": "02",
+        "country": "Ukraine",
+        "issuer": "Kyivstar PrJSC"
+    },
+    "38003": {
+        "ccc": "380",
+        "ii": "03",
+        "country": "Ukraine",
+        "issuer": "Kyivstar PrJSC"
+    },
+    "38101": {
+        "ccc": "381",
+        "ii": "01",
+        "country": "Serbia",
+        "issuer": "Telenor d.o.o."
+    },
+    "38103": {
+        "ccc": "381",
+        "ii": "03",
+        "country": "Serbia",
+        "issuer": "Preduzece za telekomunicacije \"Telekom Srbija\" a.d."
+    },
+    "38105": {
+        "ccc": "381",
+        "ii": "05",
+        "country": "Serbia",
+        "issuer": "Vip mobile d.o.o."
+    },
+    "38200": {
+        "ccc": "382",
+        "ii": "00",
+        "country": "Montenegro",
+        "issuer": "Crnogorski Telekom A.D."
+    },
+    "38201": {
+        "ccc": "382",
+        "ii": "01",
+        "country": "Montenegro",
+        "issuer": "Telenor d.o.o. Podgorica"
+    },
+    "38203": {
+        "ccc": "382",
+        "ii": "03",
+        "country": "Montenegro",
+        "issuer": "MTEL d.o.o. Podgorica"
+    },
+    "38591": {
+        "ccc": "385",
+        "ii": "91",
+        "country": "Croatia",
+        "issuer": "VIPnet d.o.o."
+    },
+    "38598": {
+        "ccc": "385",
+        "ii": "98",
+        "country": "Croatia",
+        "issuer": "Hrvatski Telekom d.d."
+    },
+    "38640": {
+        "ccc": "386",
+        "ii": "40",
+        "country": "Slovenia",
+        "issuer": "A1 Slovenija d.d."
+    },
+    "38641": {
+        "ccc": "386",
+        "ii": "41",
+        "country": "Slovenia",
+        "issuer": "Telekom Slovenije d.d."
+    },
+    "38664": {
+        "ccc": "386",
+        "ii": "64",
+        "country": "Slovenia",
+        "issuer": "T-2 d.o.o."
+    },
+    "38670": {
+        "ccc": "386",
+        "ii": "70",
+        "country": "Slovenia",
+        "issuer": "Telemach d.o.o."
+    },
+    "38701": {
+        "ccc": "387",
+        "ii": "01",
+        "country": "Bosnia and Herzegovina",
+        "issuer": "BH Telecom"
+    },
+    "38703": {
+        "ccc": "387",
+        "ii": "03",
+        "country": "Bosnia and Herzegovina",
+        "issuer": "HT Mostar"
+    },
+    "38705": {
+        "ccc": "387",
+        "ii": "05",
+        "country": "Bosnia and Herzegovina",
+        "issuer": "Telekomunicaje RS, a.d. Banjaluka"
+    },
+    "38901": {
+        "ccc": "389",
+        "ii": "01",
+        "country": "North Macedonia",
+        "issuer": "Makedonski telekomunikacii A.D."
+    },
+    "42001": {
+        "ccc": "420",
+        "ii": "01",
+        "country": "Czech Rep.",
+        "issuer": "T-Mobile Czech Republic a.s."
+    },
+    "42004": {
+        "ccc": "420",
+        "ii": "04",
+        "country": "Czech Rep.",
+        "issuer": "Nordic Telecom Regional s.r.o."
+    },
+    "42005": {
+        "ccc": "420",
+        "ii": "05",
+        "country": "Czech Rep.",
+        "issuer": "O2 Czech Republic a.s."
+    },
+    "42020": {
+        "ccc": "420",
+        "ii": "20",
+        "country": "Czech Rep.",
+        "issuer": "O2 Czech Republic a.s."
+    },
+    "42031": {
+        "ccc": "420",
+        "ii": "31",
+        "country": "Czech Rep.",
+        "issuer": "Vodafone Czech Republic a.s."
+    },
+    "42098": {
+        "ccc": "420",
+        "ii": "98",
+        "country": "Czech Rep.",
+        "issuer": "Sprava zeleznic, statni organizace"
+    },
+    "42101": {
+        "ccc": "421",
+        "ii": "01",
+        "country": "Slovakia",
+        "issuer": "Orange Slovensko a.s."
+    },
+    "42102": {
+        "ccc": "421",
+        "ii": "02",
+        "country": "Slovakia",
+        "issuer": "Slovak Telekom, a.s."
+    },
+    "42103": {
+        "ccc": "421",
+        "ii": "03",
+        "country": "Slovakia",
+        "issuer": "Slovak Telekom, a.s."
+    },
+    "42301": {
+        "ccc": "423",
+        "ii": "01",
+        "country": "Liechtenstein",
+        "issuer": "Swisscom Schweiz AG"
+    },
+    "42302": {
+        "ccc": "423",
+        "ii": "02",
+        "country": "Liechtenstein",
+        "issuer": "Salt (Liechtenstein) AG"
+    },
+    "42305": {
+        "ccc": "423",
+        "ii": "05",
+        "country": "Liechtenstein",
+        "issuer": "Telecom Liechtenstein AG"
+    },
+    "42306": {
+        "ccc": "423",
+        "ii": "06",
+        "country": "Liechtenstein",
+        "issuer": "Cubic AG"
+    },
+    "42307": {
+        "ccc": "423",
+        "ii": "07",
+        "country": "Liechtenstein",
+        "issuer": "First Mobile AG"
+    },
+    "42310": {
+        "ccc": "423",
+        "ii": "10",
+        "country": "Liechtenstein",
+        "issuer": "SORACOM CORPORATION, LTD."
+    },
+    "50001": {
+        "ccc": "500",
+        "ii": "01",
+        "country": "Falkland Islands (Malvinas)",
+        "issuer": "Cable and Wireless Falkland Islands"
+    },
+    "50167": {
+        "ccc": "501",
+        "ii": "67",
+        "country": "Belize",
+        "issuer": "Belize Telemedia Ltd."
+    },
+    "50168": {
+        "ccc": "501",
+        "ii": "68",
+        "country": "Belize",
+        "issuer": "Intelco"
+    },
+    "50601": {
+        "ccc": "506",
+        "ii": "01",
+        "country": "Costa Rica",
+        "issuer": "Instituto Costarricense de Electricidad - ICE"
+    },
+    "50701": {
+        "ccc": "507",
+        "ii": "01",
+        "country": "Panama",
+        "issuer": "Cable & Wireless Panama S.A."
+    },
+    "50801": {
+        "ccc": "508",
+        "ii": "01",
+        "country": "Saint Pierre and Miquelon",
+        "issuer": "SAS SPM Telecom"
+    },
+    "50802": {
+        "ccc": "508",
+        "ii": "02",
+        "country": "Saint Pierre and Miquelon",
+        "issuer": "Globaltel"
+    },
+    "57002": {
+        "ccc": "57",
+        "ii": "002",
+        "country": "Colombia",
+        "issuer": "Edatel S.A."
+    },
+    "57101": {
+        "ccc": "57",
+        "ii": "101",
+        "country": "Colombia",
+        "issuer": "Comunicaci\u00f3n Celular S.A. - COMCEL S.A."
+    },
+    "57111": {
+        "ccc": "57",
+        "ii": "111",
+        "country": "Colombia",
+        "issuer": "PLINTRON COLOMBIA SAS"
+    },
+    "57123": {
+        "ccc": "57",
+        "ii": "123",
+        "country": "Colombia",
+        "issuer": "Colombia Telecomunicaciones SA ESP (Movistar)"
+    },
+    "57154": {
+        "ccc": "57",
+        "ii": "154",
+        "country": "Colombia",
+        "issuer": "VIRGIN MOBILE COLOMBIA SAS"
+    },
+    "57187": {
+        "ccc": "57",
+        "ii": "187",
+        "country": "Colombia",
+        "issuer": "Empresa de Telecomunicaciones de Bogot\u00e1 S.A. E.S.P."
+    },
+    "57287": {
+        "ccc": "57",
+        "ii": "287",
+        "country": "Colombia",
+        "issuer": "SUMA M\u00d3VIL S.A.S."
+    },
+    "57700": {
+        "ccc": "57",
+        "ii": "700",
+        "country": "Colombia",
+        "issuer": "LIWA S.A.S. E.S.P."
+    },
+    "57732": {
+        "ccc": "57",
+        "ii": "732",
+        "country": "Colombia",
+        "issuer": "Colombia M\u00f3vil S.A. E.S.P."
+    },
+    "57760": {
+        "ccc": "57",
+        "ii": "760",
+        "country": "Colombia",
+        "issuer": "Partners Telecom Colombia S.A.S."
+    },
+    "57777": {
+        "ccc": "57",
+        "ii": "777",
+        "country": "Colombia",
+        "issuer": "LOV TELECOMUNICACIONES SAS"
+    },
+    "59001": {
+        "ccc": "590",
+        "ii": "01",
+        "country": "Guadeloupe",
+        "issuer": "Orange Cara\u00efbe"
+    },
+    "59002": {
+        "ccc": "590",
+        "ii": "02",
+        "country": "Guadeloupe",
+        "issuer": "Outremer Telecom"
+    },
+    "59003": {
+        "ccc": "590",
+        "ii": "03",
+        "country": "Guadeloupe",
+        "issuer": "United telecommunications services Cara\u00efbe"
+    },
+    "59008": {
+        "ccc": "590",
+        "ii": "08",
+        "country": "Guadeloupe",
+        "issuer": "Dauphin Telecom"
+    },
+    "59009": {
+        "ccc": "590",
+        "ii": "09",
+        "country": "Guadeloupe",
+        "issuer": "Free Cara\u00efbe"
+    },
+    "59101": {
+        "ccc": "591",
+        "ii": "01",
+        "country": "Bolivia (Plurinational State of)",
+        "issuer": "Nuevatel PCS de Bolivia S.A."
+    },
+    "59102": {
+        "ccc": "591",
+        "ii": "02",
+        "country": "Bolivia (Plurinational State of)",
+        "issuer": "Empresa Nacional de Telecomunicaciones (ENTEL)"
+    },
+    "59202": {
+        "ccc": "592",
+        "ii": "02",
+        "country": "Guyana",
+        "issuer": "Guyana Telephone and Telegraph Company Ltd. (GT&T)"
+    },
+    "59301": {
+        "ccc": "593",
+        "ii": "01",
+        "country": "Ecuador",
+        "issuer": "Consorcio Ecuatoriano de Telecomunicaciones S.A. (Conecel)"
+    },
+    "59402": {
+        "ccc": "594",
+        "ii": "02",
+        "country": "French Guiana",
+        "issuer": "Outremer Telecom"
+    },
+    "59404": {
+        "ccc": "594",
+        "ii": "04",
+        "country": "French Guiana",
+        "issuer": "Free Cara\u00efbe"
+    },
+    "59501": {
+        "ccc": "595",
+        "ii": "01",
+        "country": "Paraguay",
+        "issuer": "H\u00f3la Paraguay S.A."
+    },
+    "59502": {
+        "ccc": "595",
+        "ii": "02",
+        "country": "Paraguay",
+        "issuer": "AMX Paraguay S.A."
+    },
+    "59505": {
+        "ccc": "595",
+        "ii": "05",
+        "country": "Paraguay",
+        "issuer": "N\u00facleo S.A."
+    },
+    "59602": {
+        "ccc": "596",
+        "ii": "02",
+        "country": "Martinique",
+        "issuer": "Outremer Telecom"
+    },
+    "59604": {
+        "ccc": "596",
+        "ii": "04",
+        "country": "Martinique",
+        "issuer": "Free Cara\u00efbe"
+    },
+    "59800": {
+        "ccc": "598",
+        "ii": "00",
+        "country": "Uruguay",
+        "issuer": "Administraci\u00f3n Nacional de Telecomunicaciones (ANTEL)"
+    },
+    "59801": {
+        "ccc": "598",
+        "ii": "01",
+        "country": "Uruguay",
+        "issuer": "Administraci\u00f3n Nacional de Telecomunicaciones (ANTEL)"
+    },
+    "59900": {
+        "ccc": "599",
+        "ii": "00",
+        "country": "Cura\u00e7ao",
+        "issuer": "ANTELECOM N.V."
+    },
+    "59978": {
+        "ccc": "599",
+        "ii": "78",
+        "country": "Bonaire, Sint Eustatius and Saba",
+        "issuer": "Telbo"
+    },
+    "59991": {
+        "ccc": "599",
+        "ii": "91",
+        "country": "Cura\u00e7ao",
+        "issuer": "UTS - SETEL"
+    },
+    "59996": {
+        "ccc": "599",
+        "ii": "96",
+        "country": "Cura\u00e7ao",
+        "issuer": "Cura\u00e7ao Telecom N.V."
+    },
+    "60153": {
+        "ccc": "60",
+        "ii": "153",
+        "country": "Malaysia",
+        "issuer": "webe digital sdn bhd"
+    },
+    "67210": {
+        "ccc": "672",
+        "ii": "10",
+        "country": "Australian External Territories",
+        "issuer": "Norfolk Telecom"
+    },
+    "67502": {
+        "ccc": "675",
+        "ii": "02",
+        "country": "Papua New Guinea",
+        "issuer": "TELIKOM PNG LIMITED"
+    },
+    "67503": {
+        "ccc": "675",
+        "ii": "03",
+        "country": "Papua New Guinea",
+        "issuer": "Digicel (PNG) Ltd"
+    },
+    "67601": {
+        "ccc": "676",
+        "ii": "01",
+        "country": "Tonga",
+        "issuer": "Tonga Communications Corporation Ltd. (TCC)"
+    },
+    "67801": {
+        "ccc": "678",
+        "ii": "01",
+        "country": "Vanuatu",
+        "issuer": "Telecom Vanuatu Ltd"
+    },
+    "67805": {
+        "ccc": "678",
+        "ii": "05",
+        "country": "Vanuatu",
+        "issuer": "Digicel Vanuatu"
+    },
+    "67901": {
+        "ccc": "679",
+        "ii": "01",
+        "country": "Fiji",
+        "issuer": "Vodafone Fiji Pte Limited"
+    },
+    "67902": {
+        "ccc": "679",
+        "ii": "02",
+        "country": "Fiji",
+        "issuer": "Digicel (Fiji) Pte Limited"
+    },
+    "68000": {
+        "ccc": "680",
+        "ii": "00",
+        "country": "Palau",
+        "issuer": "Palau Communication and Electronics Company dba Palau Telecoms"
+    },
+    "68001": {
+        "ccc": "680",
+        "ii": "01",
+        "country": "Palau",
+        "issuer": "Palau National Communications Corporation"
+    },
+    "68099": {
+        "ccc": "680",
+        "ii": "99",
+        "country": "Palau",
+        "issuer": "Palau Mobile Communications Inc."
+    },
+    "68502": {
+        "ccc": "685",
+        "ii": "02",
+        "country": "Samoa",
+        "issuer": "Office of the Regulator"
+    },
+    "68701": {
+        "ccc": "687",
+        "ii": "01",
+        "country": "New Caledonia",
+        "issuer": "Office des Postes et des T\u00e9l\u00e9communications (OPT)"
+    },
+    "68901": {
+        "ccc": "689",
+        "ii": "01",
+        "country": "French Polynesia",
+        "issuer": "Tikiphone"
+    },
+    "68915": {
+        "ccc": "689",
+        "ii": "15",
+        "country": "French Polynesia",
+        "issuer": "Pacific Mobile Telecom"
+    },
+    "69101": {
+        "ccc": "691",
+        "ii": "01",
+        "country": "Micronesia",
+        "issuer": "FSM Telecommunication Corporation"
+    },
+    "69201": {
+        "ccc": "692",
+        "ii": "01",
+        "country": "Marshall Islands",
+        "issuer": "Marshall Islands National Telecommunications Authority"
+    },
+    "85001": {
+        "ccc": "850",
+        "ii": "01",
+        "country": "Dem. People's Rep. of Korea",
+        "issuer": "North East Asia Telephone and Telecommunications Co. Ltd."
+    },
+    "85200": {
+        "ccc": "852",
+        "ii": "00",
+        "country": "Hong Kong, China",
+        "issuer": "Hong Kong Telecommunications (HKT) Limited"
+    },
+    "85201": {
+        "ccc": "852",
+        "ii": "01",
+        "country": "Hong Kong, China",
+        "issuer": "CITIC Telecom International Limited"
+    },
+    "85203": {
+        "ccc": "852",
+        "ii": "03",
+        "country": "Hong Kong, China",
+        "issuer": "Hutchison Telephone Company Limited"
+    },
+    "85204": {
+        "ccc": "852",
+        "ii": "04",
+        "country": "Hong Kong, China",
+        "issuer": "Hutchison Telephone Company Limited"
+    },
+    "85206": {
+        "ccc": "852",
+        "ii": "06",
+        "country": "Hong Kong, China",
+        "issuer": "SmarTone Mobile Communications Limited"
+    },
+    "85207": {
+        "ccc": "852",
+        "ii": "07",
+        "country": "Hong Kong, China",
+        "issuer": "China Unicom (Hong Kong) Operations Limited"
+    },
+    "85210": {
+        "ccc": "852",
+        "ii": "10",
+        "country": "Hong Kong, China",
+        "issuer": "Hong Kong Telecommunications (HKT) Limited"
+    },
+    "85211": {
+        "ccc": "852",
+        "ii": "11",
+        "country": "Hong Kong, China",
+        "issuer": "China-Hongkong Telecom Limited"
+    },
+    "85212": {
+        "ccc": "852",
+        "ii": "12",
+        "country": "Hong Kong, China",
+        "issuer": "China Mobile Hong Kong Company Limited"
+    },
+    "85216": {
+        "ccc": "852",
+        "ii": "16",
+        "country": "Hong Kong, China",
+        "issuer": "Hong Kong Telecommunications (HKT) Limited"
+    },
+    "85218": {
+        "ccc": "852",
+        "ii": "18",
+        "country": "Hong Kong, China",
+        "issuer": "Hong Kong Telecommunications (HKT) Limited"
+    },
+    "85219": {
+        "ccc": "852",
+        "ii": "19",
+        "country": "Hong Kong, China",
+        "issuer": "Hong Kong Telecommunications (HKT) Limited"
+    },
+    "85220": {
+        "ccc": "852",
+        "ii": "20",
+        "country": "Hong Kong, China",
+        "issuer": "Internet Initiative Japan Inc."
+    },
+    "85221": {
+        "ccc": "852",
+        "ii": "21",
+        "country": "Hong Kong, China",
+        "issuer": "VNET Group Limited"
+    },
+    "85224": {
+        "ccc": "852",
+        "ii": "24",
+        "country": "Hong Kong, China",
+        "issuer": "Multibyte Info Technology Limited"
+    },
+    "85230": {
+        "ccc": "852",
+        "ii": "30",
+        "country": "Hong Kong, China",
+        "issuer": "PCCW-HKT Telephone Limited and Hong Kong Telecommunications (HKT) Limited"
+    },
+    "85231": {
+        "ccc": "852",
+        "ii": "31",
+        "country": "Hong Kong, China",
+        "issuer": "China Telecom Global Limited"
+    },
+    "85234": {
+        "ccc": "852",
+        "ii": "34",
+        "country": "Hong Kong, China",
+        "issuer": "China Mobile International Limited"
+    },
+    "85235": {
+        "ccc": "852",
+        "ii": "35",
+        "country": "Hong Kong, China",
+        "issuer": "Webbing Hong Kong Limited"
+    },
+    "85240": {
+        "ccc": "852",
+        "ii": "40",
+        "country": "Hong Kong, China",
+        "issuer": "South China Telecommunications (H.K.) Limited"
+    },
+    "85268": {
+        "ccc": "852",
+        "ii": "68",
+        "country": "Hong Kong, China",
+        "issuer": "HGC Global Communications Limited"
+    },
+    "85269": {
+        "ccc": "852",
+        "ii": "69",
+        "country": "Hong Kong, China",
+        "issuer": "HKBN Enterprise Solutions Limited"
+    },
+    "85277": {
+        "ccc": "852",
+        "ii": "77",
+        "country": "Hong Kong, China",
+        "issuer": "WTT HK Limited"
+    },
+    "85280": {
+        "ccc": "852",
+        "ii": "80",
+        "country": "Hong Kong, China",
+        "issuer": "PCCW-HKT Telephone Limited and Hong Kong Telecommunications (HKT) Limited"
+    },
+    "85300": {
+        "ccc": "853",
+        "ii": "00",
+        "country": "Macao, China",
+        "issuer": "SmarTone \u2013 Comunica\u00e7\u00f5es M\u00f3veis, S.A."
+    },
+    "85301": {
+        "ccc": "853",
+        "ii": "01",
+        "country": "Macao, China",
+        "issuer": "Companhia de Telecomunica\u00e7\u00f5es de Macau, S.A.R.L."
+    },
+    "85303": {
+        "ccc": "853",
+        "ii": "03",
+        "country": "Macao, China",
+        "issuer": "Hutchison \u2013 Telefone (Macau), Limitada"
+    },
+    "85501": {
+        "ccc": "855",
+        "ii": "01",
+        "country": "Cambodia",
+        "issuer": "CAMGSM"
+    },
+    "85608": {
+        "ccc": "856",
+        "ii": "08",
+        "country": "Lao P.D.R.",
+        "issuer": "Millicom Lao Company Ltd"
+    },
+    "87099": {
+        "ccc": "870",
+        "ii": "99",
+        "country": "Global Issuer Identifier Number",
+        "issuer": "Inmarsat Ltd"
+    },
+    "88210": {
+        "ccc": "882",
+        "ii": "10",
+        "country": "Global",
+        "issuer": "British Telecommunications plc"
+    },
+    "88213": {
+        "ccc": "882",
+        "ii": "13",
+        "country": "Global",
+        "issuer": "Telespazio S.p.A."
+    },
+    "88216": {
+        "ccc": "882",
+        "ii": "16",
+        "country": "Global",
+        "issuer": "Thuraya Satellite Telecommunications Company"
+    },
+    "88223": {
+        "ccc": "882",
+        "ii": "23",
+        "country": "Global",
+        "issuer": "Sita-Equant Joint Venture"
+    },
+    "88228": {
+        "ccc": "882",
+        "ii": "28",
+        "country": "Global",
+        "issuer": "Telekom Deutschland GmbH"
+    },
+    "88231": {
+        "ccc": "882",
+        "ii": "31",
+        "country": "Global",
+        "issuer": "Telekom Malaysia"
+    },
+    "88232": {
+        "ccc": "882",
+        "ii": "32",
+        "country": "Global",
+        "issuer": "Telenor for Maritime Communications Partner (MCP) A.S."
+    },
+    "88235": {
+        "ccc": "882",
+        "ii": "35",
+        "country": "Global",
+        "issuer": "Cisco Systems, Inc."
+    },
+    "88236": {
+        "ccc": "882",
+        "ii": "36",
+        "country": "Global",
+        "issuer": "Jersey Telecom"
+    },
+    "88237": {
+        "ccc": "882",
+        "ii": "37",
+        "country": "Global",
+        "issuer": "AT&T"
+    },
+    "88239": {
+        "ccc": "882",
+        "ii": "39",
+        "country": "Global",
+        "issuer": "Vodafone Group Services Ltd"
+    },
+    "88241": {
+        "ccc": "882",
+        "ii": "41",
+        "country": "Global",
+        "issuer": "Intermatica"
+    },
+    "88245": {
+        "ccc": "882",
+        "ii": "45",
+        "country": "Global",
+        "issuer": "Telecom Italia"
+    },
+    "88246": {
+        "ccc": "882",
+        "ii": "46",
+        "country": "Global",
+        "issuer": "Tyntec Limited"
+    },
+    "88247": {
+        "ccc": "882",
+        "ii": "47",
+        "country": "Global",
+        "issuer": "TRANSATEL"
+    },
+    "88248": {
+        "ccc": "882",
+        "ii": "48",
+        "country": "Global",
+        "issuer": "Sawatch Limited"
+    },
+    "88249": {
+        "ccc": "882",
+        "ii": "49",
+        "country": "Global",
+        "issuer": "Monaco Telecom"
+    },
+    "88250": {
+        "ccc": "882",
+        "ii": "50",
+        "country": "Global",
+        "issuer": "Phonegroup SA"
+    },
+    "88251": {
+        "ccc": "882",
+        "ii": "51",
+        "country": "Global",
+        "issuer": "Athalos Global Services BV"
+    },
+    "88252": {
+        "ccc": "882",
+        "ii": "52",
+        "country": "Global",
+        "issuer": "China Telecommunications Corporation"
+    },
+    "88280": {
+        "ccc": "882",
+        "ii": "80",
+        "country": "Germany",
+        "issuer": "1NCE GmbH"
+    },
+    "88298": {
+        "ccc": "882",
+        "ii": "98",
+        "country": "Global",
+        "issuer": "OnAir N.V. (Formerly SITA on behalf of Onair)"
+    },
+    "88299": {
+        "ccc": "882",
+        "ii": "99",
+        "country": "Global",
+        "issuer": "AeroMobile AS"
+    },
+    "88301": {
+        "ccc": "883",
+        "ii": "01",
+        "country": "Global",
+        "issuer": "Orange"
+    },
+    "88303": {
+        "ccc": "883",
+        "ii": "03",
+        "country": "Global",
+        "issuer": "EMnify GmbH"
+    },
+    "88304": {
+        "ccc": "883",
+        "ii": "04",
+        "country": "Global",
+        "issuer": "Com4 Sweden AB"
+    },
+    "88305": {
+        "ccc": "883",
+        "ii": "05",
+        "country": "Global",
+        "issuer": "MTX Connect Ltd"
+    },
+    "88306": {
+        "ccc": "883",
+        "ii": "06",
+        "country": "Global",
+        "issuer": "Telecom26 AG"
+    },
+    "88307": {
+        "ccc": "883",
+        "ii": "07",
+        "country": "Global",
+        "issuer": "Twilio Inc."
+    },
+    "88308": {
+        "ccc": "883",
+        "ii": "08",
+        "country": "Global",
+        "issuer": "Podsystem Ltd."
+    },
+    "88309": {
+        "ccc": "883",
+        "ii": "09",
+        "country": "Global",
+        "issuer": "Nokia Corporation"
+    },
+    "88310": {
+        "ccc": "883",
+        "ii": "10",
+        "country": "Global",
+        "issuer": "Airnity SAS"
+    },
+    "88311": {
+        "ccc": "883",
+        "ii": "11",
+        "country": "Global",
+        "issuer": "Telecom Italia Sparkle S.p.A."
+    },
+    "88312": {
+        "ccc": "883",
+        "ii": "12",
+        "country": "Global",
+        "issuer": "World Mobile Group Limited"
+    },
+    "88313": {
+        "ccc": "883",
+        "ii": "13",
+        "country": "Global",
+        "issuer": "Eseye Limited"
+    },
+    "88314": {
+        "ccc": "883",
+        "ii": "14",
+        "country": "Global",
+        "issuer": "BBIX Singapore Pte. Ltd."
+    },
+    "96001": {
+        "ccc": "960",
+        "ii": "01",
+        "country": "Maldives",
+        "issuer": "Dhivehi Raajjey Ge Gulhun Private Ltd. (DHIRAAGU)"
+    },
+    "96101": {
+        "ccc": "961",
+        "ii": "01",
+        "country": "Lebanon",
+        "issuer": "FTML, S.A.L."
+    },
+    "96103": {
+        "ccc": "961",
+        "ii": "03",
+        "country": "Lebanon",
+        "issuer": "Libancell"
+    },
+    "96105": {
+        "ccc": "961",
+        "ii": "05",
+        "country": "Lebanon",
+        "issuer": "Ogero Telecom"
+    },
+    "96277": {
+        "ccc": "962",
+        "ii": "77",
+        "country": "Jordan",
+        "issuer": "Petra Jordanian Mobile Telecommunications Company - Orange"
+    },
+    "96405": {
+        "ccc": "964",
+        "ii": "05",
+        "country": "Iraq",
+        "issuer": "Asiacell Communications LLC"
+    },
+    "96420": {
+        "ccc": "964",
+        "ii": "20",
+        "country": "Iraq",
+        "issuer": "Zain Iraq (previously Atheer)"
+    },
+    "96430": {
+        "ccc": "964",
+        "ii": "30",
+        "country": "Iraq",
+        "issuer": "Zain Iraq (previously Iraqna)"
+    },
+    "96440": {
+        "ccc": "964",
+        "ii": "40",
+        "country": "Iraq",
+        "issuer": "Korek Telecom"
+    },
+    "96504": {
+        "ccc": "965",
+        "ii": "04",
+        "country": "Kuwait",
+        "issuer": "Kuwait Telecom Company (VIVA)"
+    },
+    "96800": {
+        "ccc": "968",
+        "ii": "00",
+        "country": "Oman",
+        "issuer": "Oman Mobile Telecommunication Company LLC"
+    },
+    "97202": {
+        "ccc": "972",
+        "ii": "02",
+        "country": "Israel",
+        "issuer": "Cellcom Israel Ltd"
+    },
+    "97203": {
+        "ccc": "972",
+        "ii": "03",
+        "country": "Israel",
+        "issuer": "Cellcom Israel Ltd"
+    },
+    "97208": {
+        "ccc": "972",
+        "ii": "08",
+        "country": "Israel",
+        "issuer": "Golan Telecom Ltd"
+    },
+    "97250": {
+        "ccc": "972",
+        "ii": "50",
+        "country": "Israel",
+        "issuer": "Pelephone Communications Ltd"
+    },
+    "97301": {
+        "ccc": "973",
+        "ii": "01",
+        "country": "Bahrain",
+        "issuer": "Bahrain Telecommunications Company (BATELCO)"
+    },
+    "97302": {
+        "ccc": "973",
+        "ii": "02",
+        "country": "Bahrain",
+        "issuer": "Zain Bahrain"
+    },
+    "97304": {
+        "ccc": "973",
+        "ii": "04",
+        "country": "Bahrain",
+        "issuer": "stc Bahrain B.S.C."
+    },
+    "97400": {
+        "ccc": "974",
+        "ii": "00",
+        "country": "Qatar",
+        "issuer": "Qatar Telecom Q.S.C."
+    },
+    "97511": {
+        "ccc": "975",
+        "ii": "11",
+        "country": "Bhutan",
+        "issuer": "Bhutan Telecom Limited"
+    },
+    "97577": {
+        "ccc": "975",
+        "ii": "77",
+        "country": "Bhutan",
+        "issuer": "Tashi Infocomm Ltd"
+    },
+    "97606": {
+        "ccc": "976",
+        "ii": "06",
+        "country": "Mongolia",
+        "issuer": "G-Mobile Corporation"
+    },
+    "97702": {
+        "ccc": "977",
+        "ii": "02",
+        "country": "Nepal",
+        "issuer": "Spice Nepal Private Ltd."
+    },
+    "99401": {
+        "ccc": "994",
+        "ii": "01",
+        "country": "Azerbaijan",
+        "issuer": "Azercell Telecom LLC"
+    },
+    "99403": {
+        "ccc": "994",
+        "ii": "03",
+        "country": "Azerbaijan",
+        "issuer": "Caspian American Telecom LLC"
+    },
+    "99404": {
+        "ccc": "994",
+        "ii": "04",
+        "country": "Azerbaijan",
+        "issuer": "Azerfon LLC"
+    },
+    "99405": {
+        "ccc": "994",
+        "ii": "05",
+        "country": "Azerbaijan",
+        "issuer": "Special State Protection Service of the Republic of Azerbaijan"
+    },
+    "99406": {
+        "ccc": "994",
+        "ii": "06",
+        "country": "Azerbaijan",
+        "issuer": "Nakhtel LLC"
+    },
+    "99501": {
+        "ccc": "995",
+        "ii": "01",
+        "country": "Georgia",
+        "issuer": "Geocell LLC"
+    },
+    "99601": {
+        "ccc": "996",
+        "ii": "01",
+        "country": "Kyrgyzstan",
+        "issuer": "Bitel Ltd"
+    },
+    "99701": {
+        "ccc": "997",
+        "ii": "01",
+        "country": "Kazakhstan",
+        "issuer": "Kar-Tel Ltd"
+    },
+    "99801": {
+        "ccc": "998",
+        "ii": "01",
+        "country": "Uzbekistan",
+        "issuer": "Buztel"
+    },
+    "99804": {
+        "ccc": "998",
+        "ii": "04",
+        "country": "Uzbekistan",
+        "issuer": "Daewoo Central Paging Company"
+    },
+    "550452": {
+        "ccc": "55",
+        "ii": "0452",
+        "country": "Brazil",
+        "issuer": "TIM"
+    },
+    "882610": {
+        "ccc": "882",
+        "ii": "610",
+        "country": "Global",
+        "issuer": "Myriota"
+    },
+    "883100": {
+        "ccc": "883",
+        "ii": "100",
+        "country": "Global",
+        "issuer": "MediaLincc Ltd"
+    },
+    "883110": {
+        "ccc": "883",
+        "ii": "110",
+        "country": "Global",
+        "issuer": "Syniverse Technologies, LLC"
+    },
+    "883130": {
+        "ccc": "883",
+        "ii": "130",
+        "country": "Global",
+        "issuer": "Orange"
+    },
+    "883140": {
+        "ccc": "883",
+        "ii": "140",
+        "country": "Global",
+        "issuer": "Multiregional TransitTelecom (MTT)"
+    },
+    "883150": {
+        "ccc": "883",
+        "ii": "150",
+        "country": "Global",
+        "issuer": "One Network B.V."
+    },
+    "883170": {
+        "ccc": "883",
+        "ii": "170",
+        "country": "Global",
+        "issuer": "EMnify GmbH"
+    },
+    "883190": {
+        "ccc": "883",
+        "ii": "190",
+        "country": "Global",
+        "issuer": "Com4 Sweden AB"
+    },
+    "883200": {
+        "ccc": "883",
+        "ii": "200",
+        "country": "Global",
+        "issuer": "Manx Telecom Trading Ltd."
+    },
+    "883210": {
+        "ccc": "883",
+        "ii": "210",
+        "country": "Global",
+        "issuer": "Telecom26 AG"
+    },
+    "883240": {
+        "ccc": "883",
+        "ii": "240",
+        "country": "Global",
+        "issuer": "BICS SA"
+    },
+    "883250": {
+        "ccc": "883",
+        "ii": "250",
+        "country": "Global",
+        "issuer": "MessageBird B.V."
+    },
+    "883260": {
+        "ccc": "883",
+        "ii": "260",
+        "country": "Global",
+        "issuer": "Twilio Inc."
+    },
+    "883290": {
+        "ccc": "883",
+        "ii": "290",
+        "country": "Global",
+        "issuer": "Limitless Mobile, LLC"
+    },
+    "883300": {
+        "ccc": "883",
+        "ii": "300",
+        "country": "Global",
+        "issuer": "1NCE GmbH"
+    },
+    "883320": {
+        "ccc": "883",
+        "ii": "320",
+        "country": "Global",
+        "issuer": "Tele2 Sverige Aktiebolag (Formerly Tele2 IoT)"
+    },
+    "883330": {
+        "ccc": "883",
+        "ii": "330",
+        "country": "Global",
+        "issuer": "Cubic Telecom Limited"
+    },
+    "883340": {
+        "ccc": "883",
+        "ii": "340",
+        "country": "Global",
+        "issuer": "Podsystem Ltd."
+    },
+    "883350": {
+        "ccc": "883",
+        "ii": "350",
+        "country": "Global",
+        "issuer": "Afinna One Srl"
+    },
+    "883360": {
+        "ccc": "883",
+        "ii": "360",
+        "country": "Global",
+        "issuer": "Telecom Italia Sparkle S.p.A."
+    },
+    "883370": {
+        "ccc": "883",
+        "ii": "370",
+        "country": "Global",
+        "issuer": "A1 Telekom Austria AG"
+    },
+    "883380": {
+        "ccc": "883",
+        "ii": "380",
+        "country": "Global",
+        "issuer": "Eseye Limited"
+    },
+    "883390": {
+        "ccc": "883",
+        "ii": "390",
+        "country": "Global",
+        "issuer": "Airnity SAS"
+    },
+    "883400": {
+        "ccc": "883",
+        "ii": "400",
+        "country": "Global",
+        "issuer": "TELEFONICA MOVILES ESPA\u00d1A, S.A. UNIPERSONAL (TME)"
+    },
+    "883410": {
+        "ccc": "883",
+        "ii": "410",
+        "country": "Global",
+        "issuer": "Telef\u00f3nica Germany GmbH & Co. OHG"
+    },
+    "883420": {
+        "ccc": "883",
+        "ii": "420",
+        "country": "Global",
+        "issuer": "Mobile Telecommunications Company K.S.C.P."
+    },
+    "883430": {
+        "ccc": "883",
+        "ii": "430",
+        "country": "Global",
+        "issuer": "BJT PARTNERS SAS"
+    },
+    "883440": {
+        "ccc": "883",
+        "ii": "440",
+        "country": "Global",
+        "issuer": "Truphone Limited"
+    },
+    "883460": {
+        "ccc": "883",
+        "ii": "460",
+        "country": "Global",
+        "issuer": "KORE Wireless"
+    },
+    "883470": {
+        "ccc": "883",
+        "ii": "470",
+        "country": "Global",
+        "issuer": "Webbing"
+    },
+    "883480": {
+        "ccc": "883",
+        "ii": "480",
+        "country": "Global",
+        "issuer": "BBIX Singapore Pte. Ltd."
+    },
+    "883490": {
+        "ccc": "883",
+        "ii": "490",
+        "country": "Global",
+        "issuer": "Datora Mobile Telecomunica\u00e7\u00f5es SA"
+    },
+    "901980": {
+        "ccc": "901",
+        "ii": "980",
+        "country": "United States",
+        "issuer": "Skylo"
+    },
+    "8835100": {
+        "ccc": "883",
+        "ii": "5100",
+        "country": "Global",
+        "issuer": "Voxbone SA"
+    },
+    "8835110": {
+        "ccc": "883",
+        "ii": "5110",
+        "country": "Global",
+        "issuer": "Bandwidth.com Inc"
+    },
+    "8835120": {
+        "ccc": "883",
+        "ii": "5120",
+        "country": "Global",
+        "issuer": "MTX Connect Ltd"
+    },
+    "8835130": {
+        "ccc": "883",
+        "ii": "5130",
+        "country": "Global",
+        "issuer": "SIPME Ltd"
+    },
+    "8835140": {
+        "ccc": "883",
+        "ii": "5140",
+        "country": "Global",
+        "issuer": "Ellipsat Inc"
+    },
+    "8835150": {
+        "ccc": "883",
+        "ii": "5150",
+        "country": "Global",
+        "issuer": "Wins Limited"
+    },
+    "8835160": {
+        "ccc": "883",
+        "ii": "5160",
+        "country": "Global",
+        "issuer": "Tel2tel kft."
+    },
+    "8835170": {
+        "ccc": "883",
+        "ii": "5170",
+        "country": "Global",
+        "issuer": "DIDWW"
+    },
+    "8835180": {
+        "ccc": "883",
+        "ii": "5180",
+        "country": "Global",
+        "issuer": "Legos"
+    },
+    "8835190": {
+        "ccc": "883",
+        "ii": "5190",
+        "country": "Global",
+        "issuer": "Nokia Corporation"
+    },
+    "01010": {
+        "ccc": "01",
+        "ii": "010",
+        "country": "Anguilla",
+        "issuer": "Cable and Wireless (Anguilla) Ltd."
+    },
+    "01011": {
+        "ccc": "01",
+        "ii": "011",
+        "country": "Antigua and Barbuda",
+        "issuer": "Cable and Wireless (W.I.) Ltd."
+    },
+    "01130": {
+        "ccc": "01",
+        "ii": "130",
+        "country": "Antigua and Barbuda",
+        "issuer": "Antigua Public Utilities Authority (APUA)"
+    },
+    "01282": {
+        "ccc": "01",
+        "ii": "282",
+        "country": "Bahamas",
+        "issuer": "Bahamas Telecommunications Company Ltd."
+    },
+    "01012": {
+        "ccc": "01",
+        "ii": "012",
+        "country": "Barbados",
+        "issuer": "Barbados Telephone Company Ltd. (BARTEL)"
+    },
+    "01013": {
+        "ccc": "01",
+        "ii": "013",
+        "country": "Bermuda",
+        "issuer": "Cable and Wireless plc"
+    },
+    "01232": {
+        "ccc": "01",
+        "ii": "232",
+        "country": "Bermuda",
+        "issuer": "The Bermuda Telephone Company Ltd."
+    },
+    "01351": {
+        "ccc": "01",
+        "ii": "351",
+        "country": "Bermuda",
+        "issuer": "Bermuda Digital Communications Ltd"
+    },
+    "01441": {
+        "ccc": "01",
+        "ii": "441",
+        "country": "Bermuda",
+        "issuer": "Paradise Mobile Ltd."
+    },
+    "01014": {
+        "ccc": "01",
+        "ii": "014",
+        "country": "British Virgin Islands",
+        "issuer": "Cable and Wireless (W.I.) Ltd."
+    },
+    "01348": {
+        "ccc": "01",
+        "ii": "348",
+        "country": "British Virgin Islands",
+        "issuer": "Caribbean Cellular Telephone d.b.a. CCT Boatphone"
+    },
+    "01007": {
+        "ccc": "01",
+        "ii": "007",
+        "country": "Canada",
+        "issuer": "Telebec Lt\u00e9e"
+    },
+    "01035": {
+        "ccc": "01",
+        "ii": "035",
+        "country": "Canada",
+        "issuer": "Bragg Communications Inc"
+    },
+    "01037": {
+        "ccc": "01",
+        "ii": "037",
+        "country": "Canada",
+        "issuer": "First Networks Operation Inc."
+    },
+    "01223": {
+        "ccc": "01",
+        "ii": "223",
+        "country": "Canada",
+        "issuer": "Telus Communications Company"
+    },
+    "01228": {
+        "ccc": "01",
+        "ii": "228",
+        "country": "Canada",
+        "issuer": "British Columbia Telephone Company Ltd."
+    },
+    "01236": {
+        "ccc": "01",
+        "ii": "236",
+        "country": "Canada",
+        "issuer": "Bell Canada"
+    },
+    "01248": {
+        "ccc": "01",
+        "ii": "248",
+        "country": "Canada",
+        "issuer": "Telus Communications Inc."
+    },
+    "01250": {
+        "ccc": "01",
+        "ii": "250",
+        "country": "Canada",
+        "issuer": "ALO Mobile Inc"
+    },
+    "01258": {
+        "ccc": "01",
+        "ii": "258",
+        "country": "Canada",
+        "issuer": "Telus Communications Inc."
+    },
+    "01277": {
+        "ccc": "01",
+        "ii": "277",
+        "country": "Canada",
+        "issuer": "Saskatchewan Telecommunications"
+    },
+    "01302": {
+        "ccc": "01",
+        "ii": "302",
+        "country": "Canada",
+        "issuer": "ECOTEL inc."
+    },
+    "01369": {
+        "ccc": "01",
+        "ii": "369",
+        "country": "Canada",
+        "issuer": "Bell Canada"
+    },
+    "01370": {
+        "ccc": "01",
+        "ii": "370",
+        "country": "Canada",
+        "issuer": "Microcell Solutions Inc."
+    },
+    "01456": {
+        "ccc": "01",
+        "ii": "456",
+        "country": "Canada",
+        "issuer": "Manitoba Telecom Services"
+    },
+    "01482": {
+        "ccc": "01",
+        "ii": "482",
+        "country": "Canada",
+        "issuer": "Island Tel"
+    },
+    "01490": {
+        "ccc": "01",
+        "ii": "490",
+        "country": "Canada",
+        "issuer": "Freedom Mobile Inc."
+    },
+    "01593": {
+        "ccc": "01",
+        "ii": "593",
+        "country": "Canada",
+        "issuer": "Island Tel"
+    },
+    "01628": {
+        "ccc": "01",
+        "ii": "628",
+        "country": "Canada",
+        "issuer": "New Brunswick Telephone Company Ltd."
+    },
+    "01629": {
+        "ccc": "01",
+        "ii": "629",
+        "country": "Canada",
+        "issuer": "New Brunswick Telephone Company Ltd."
+    },
+    "01635": {
+        "ccc": "01",
+        "ii": "635",
+        "country": "Canada",
+        "issuer": "Newfoundland Telephone Company Ltd."
+    },
+    "01654": {
+        "ccc": "01",
+        "ii": "654",
+        "country": "Canada",
+        "issuer": "British Columbia Telephone Company Ltd."
+    },
+    "01660": {
+        "ccc": "01",
+        "ii": "660",
+        "country": "Canada",
+        "issuer": "Allstream Business Inc."
+    },
+    "01682": {
+        "ccc": "01",
+        "ii": "682",
+        "country": "Canada",
+        "issuer": "Newfoundland Telephone Company Ltd."
+    },
+    "01687": {
+        "ccc": "01",
+        "ii": "687",
+        "country": "Canada",
+        "issuer": "Manitoba Telecom Services"
+    },
+    "01688": {
+        "ccc": "01",
+        "ii": "688",
+        "country": "Canada",
+        "issuer": "Maritime Telegraph and Telephone Company Ltd."
+    },
+    "01699": {
+        "ccc": "01",
+        "ii": "699",
+        "country": "Canada",
+        "issuer": "Maritime Telegraph and Telephone Company Ltd."
+    },
+    "01727": {
+        "ccc": "01",
+        "ii": "727",
+        "country": "Canada",
+        "issuer": "Saskatchewan Telecommunications"
+    },
+    "01789": {
+        "ccc": "01",
+        "ii": "789",
+        "country": "Canada",
+        "issuer": "Bell Canada"
+    },
+    "01821": {
+        "ccc": "01",
+        "ii": "821",
+        "country": "Canada",
+        "issuer": "Tata Communications Canada ULC"
+    },
+    "01835": {
+        "ccc": "01",
+        "ii": "835",
+        "country": "Canada",
+        "issuer": "Quebec Telephone"
+    },
+    "01837": {
+        "ccc": "01",
+        "ii": "837",
+        "country": "Canada",
+        "issuer": "Quebec Telephone"
+    },
+    "01869": {
+        "ccc": "01",
+        "ii": "869",
+        "country": "Canada",
+        "issuer": "Unitel Communications Inc."
+    },
+    "01895": {
+        "ccc": "01",
+        "ii": "895",
+        "country": "Canada",
+        "issuer": "International Telecommunications Services Inc."
+    },
+    "01930": {
+        "ccc": "01",
+        "ii": "930",
+        "country": "Canada",
+        "issuer": "Northwestel Inc."
+    },
+    "01015": {
+        "ccc": "01",
+        "ii": "015",
+        "country": "Cayman Islands",
+        "issuer": "Cable and Wireless (C.I.) Ltd."
+    },
+    "01346": {
+        "ccc": "01",
+        "ii": "346",
+        "country": "Cayman Islands",
+        "issuer": "Paradise Mobile Ltd."
+    },
+    "01016": {
+        "ccc": "01",
+        "ii": "016",
+        "country": "Dominica",
+        "issuer": "Telecommunications of Dominica Ltd."
+    },
+    "01028": {
+        "ccc": "01",
+        "ii": "028",
+        "country": "Dominican Rep.",
+        "issuer": "Globe Wireless"
+    },
+    "01650": {
+        "ccc": "01",
+        "ii": "650",
+        "country": "Dominican Rep.",
+        "issuer": "Verizon Dominicana"
+    },
+    "01017": {
+        "ccc": "01",
+        "ii": "017",
+        "country": "Grenada",
+        "issuer": "Grenada Telecommunications Ltd. (GRENTEL)"
+    },
+    "01008": {
+        "ccc": "01",
+        "ii": "008",
+        "country": "Guam",
+        "issuer": "Wave Runner LLC"
+    },
+    "01048": {
+        "ccc": "01",
+        "ii": "048",
+        "country": "Guam",
+        "issuer": "Docomo Pacific, Inc."
+    },
+    "01377": {
+        "ccc": "01",
+        "ii": "377",
+        "country": "Guam",
+        "issuer": "Docomo Pacific, Inc."
+    },
+    "01018": {
+        "ccc": "01",
+        "ii": "018",
+        "country": "Jamaica",
+        "issuer": "Cable and Wireless Jamaica Ltd"
+    },
+    "01050": {
+        "ccc": "01",
+        "ii": "050",
+        "country": "Jamaica",
+        "issuer": "Digicel Jamaica Ltd"
+    },
+    "01582": {
+        "ccc": "01",
+        "ii": "582",
+        "country": "Jamaica",
+        "issuer": "Cable and Wireless Jamaica Ltd"
+    },
+    "01019": {
+        "ccc": "01",
+        "ii": "019",
+        "country": "Montserrat",
+        "issuer": "Cable and Wireless (W.I.) Ltd."
+    },
+    "01025": {
+        "ccc": "01",
+        "ii": "025",
+        "country": "Northern Marianas",
+        "issuer": "PTI"
+    },
+    "01283": {
+        "ccc": "01",
+        "ii": "283",
+        "country": "Puerto Rico",
+        "issuer": "AT&T"
+    },
+    "01809": {
+        "ccc": "01",
+        "ii": "809",
+        "country": "Puerto Rico",
+        "issuer": "Puerto Rico Telephone Company (PTRC)"
+    },
+    "01853": {
+        "ccc": "01",
+        "ii": "853",
+        "country": "Puerto Rico",
+        "issuer": "Telef\u00f3nica Larga Distancia, Inc. (TLDI)"
+    },
+    "01020": {
+        "ccc": "01",
+        "ii": "020",
+        "country": "Saint Kitts and Nevis",
+        "issuer": "Cable & Wireless St. Kitts and Nevis Ltd."
+    },
+    "01021": {
+        "ccc": "01",
+        "ii": "021",
+        "country": "Saint Lucia",
+        "issuer": "Cable and Wireless (St. Lucia) Ltd."
+    },
+    "01022": {
+        "ccc": "01",
+        "ii": "022",
+        "country": "Saint Vincent and the Grenadines",
+        "issuer": "Cable and Wireless (St. Vincent & The Grenadines) Limited"
+    },
+    "01023": {
+        "ccc": "01",
+        "ii": "023",
+        "country": "Trinidad and Tobago",
+        "issuer": "Telecommunications Services of Trinidad and Tobago Ltd.(TSTT)"
+    },
+    "01024": {
+        "ccc": "01",
+        "ii": "024",
+        "country": "Turks and Caicos Islands",
+        "issuer": "Cable and Wireless (W.I.) Ltd."
+    },
+    "01000": {
+        "ccc": "01",
+        "ii": "000",
+        "country": "United States",
+        "issuer": "Whibey Telephone Company"
+    },
+    "01001": {
+        "ccc": "01",
+        "ii": "001",
+        "country": "United States",
+        "issuer": "Hat Island Telephone Company"
+    },
+    "01002": {
+        "ccc": "01",
+        "ii": "002",
+        "country": "United States",
+        "issuer": "Tenzing Communications, Inc."
+    },
+    "01003": {
+        "ccc": "01",
+        "ii": "003",
+        "country": "United States",
+        "issuer": "Highland Cellular Inc."
+    },
+    "01004": {
+        "ccc": "01",
+        "ii": "004",
+        "country": "United States",
+        "issuer": "Endless Mountains Wireless LLC"
+    },
+    "01005": {
+        "ccc": "01",
+        "ii": "005",
+        "country": "United States",
+        "issuer": "San Marcos Telephone Company Inc."
+    },
+    "01006": {
+        "ccc": "01",
+        "ii": "006",
+        "country": "United States",
+        "issuer": "Duocash Inc."
+    },
+    "01009": {
+        "ccc": "01",
+        "ii": "009",
+        "country": "United States",
+        "issuer": "NEP Cellcorp Inc."
+    },
+    "01026": {
+        "ccc": "01",
+        "ii": "026",
+        "country": "United States",
+        "issuer": "GCI Communications Corp"
+    },
+    "01027": {
+        "ccc": "01",
+        "ii": "027",
+        "country": "United States",
+        "issuer": "TerreStar Networks Inc."
+    },
+    "01029": {
+        "ccc": "01",
+        "ii": "029",
+        "country": "United States",
+        "issuer": "Lycatel LLC"
+    },
+    "01030": {
+        "ccc": "01",
+        "ii": "030",
+        "country": "United States",
+        "issuer": "Telecom North America Mobile Inc"
+    },
+    "01031": {
+        "ccc": "01",
+        "ii": "031",
+        "country": "United States",
+        "issuer": "Vivaro Corporation"
+    },
+    "01032": {
+        "ccc": "01",
+        "ii": "032",
+        "country": "United States",
+        "issuer": "Geneseo Communications Inc."
+    },
+    "01033": {
+        "ccc": "01",
+        "ii": "033",
+        "country": "United States",
+        "issuer": "Mortorola Solutions Inc"
+    },
+    "01034": {
+        "ccc": "01",
+        "ii": "034",
+        "country": "United States",
+        "issuer": "IDT Telecom Inc"
+    },
+    "01036": {
+        "ccc": "01",
+        "ii": "036",
+        "country": "United States",
+        "issuer": "Long Distance Savers"
+    },
+    "01038": {
+        "ccc": "01",
+        "ii": "038",
+        "country": "United States",
+        "issuer": "Paygo Mobile Llc"
+    },
+    "01039": {
+        "ccc": "01",
+        "ii": "039",
+        "country": "United States",
+        "issuer": "Aspider Solutions"
+    },
+    "01041": {
+        "ccc": "01",
+        "ii": "041",
+        "country": "United States",
+        "issuer": "Gigsky Inc."
+    },
+    "01042": {
+        "ccc": "01",
+        "ii": "042",
+        "country": "United States",
+        "issuer": "NetGenuity"
+    },
+    "01043": {
+        "ccc": "01",
+        "ii": "043",
+        "country": "United States",
+        "issuer": "Gila Electronics of Arizona LLC"
+    },
+    "01044": {
+        "ccc": "01",
+        "ii": "044",
+        "country": "United States",
+        "issuer": "Gigsky Mobile LLC"
+    },
+    "01045": {
+        "ccc": "01",
+        "ii": "045",
+        "country": "United States",
+        "issuer": "Codetel, LLC"
+    },
+    "01046": {
+        "ccc": "01",
+        "ii": "046",
+        "country": "United States",
+        "issuer": "Hewlett-Packard Communications Services, LLC"
+    },
+    "01047": {
+        "ccc": "01",
+        "ii": "047",
+        "country": "United States",
+        "issuer": "Qualcomm"
+    },
+    "01049": {
+        "ccc": "01",
+        "ii": "049",
+        "country": "United States",
+        "issuer": "OptimERA Inc."
+    },
+    "01051": {
+        "ccc": "01",
+        "ii": "051",
+        "country": "United States",
+        "issuer": "Dish Network"
+    },
+    "01052": {
+        "ccc": "01",
+        "ii": "052",
+        "country": "United States",
+        "issuer": "Celona Inc."
+    },
+    "01053": {
+        "ccc": "01",
+        "ii": "053",
+        "country": "United States",
+        "issuer": "Shuttle Wireless Solutions, Inc."
+    },
+    "01054": {
+        "ccc": "01",
+        "ii": "054",
+        "country": "United States",
+        "issuer": "Workz Technologies Inc"
+    },
+    "01055": {
+        "ccc": "01",
+        "ii": "055",
+        "country": "United States",
+        "issuer": "Puloli, Inc."
+    },
+    "01056": {
+        "ccc": "01",
+        "ii": "056",
+        "country": "United States",
+        "issuer": "JCI US INC"
+    },
+    "01057": {
+        "ccc": "01",
+        "ii": "057",
+        "country": "United States",
+        "issuer": "Expeto Wireless Inc."
+    },
+    "01059": {
+        "ccc": "01",
+        "ii": "059",
+        "country": "United States",
+        "issuer": "Comcast Corporation"
+    },
+    "01060": {
+        "ccc": "01",
+        "ii": "060",
+        "country": "United States",
+        "issuer": "TRACFONE WIRELESS, INC"
+    },
+    "01061": {
+        "ccc": "01",
+        "ii": "061",
+        "country": "United States",
+        "issuer": "Cradlepoint, Inc."
+    },
+    "01062": {
+        "ccc": "01",
+        "ii": "062",
+        "country": "United States",
+        "issuer": "Council Rock Enterprises Inc"
+    },
+    "01063": {
+        "ccc": "01",
+        "ii": "063",
+        "country": "United States",
+        "issuer": "World Mobile Networks, LLC"
+    },
+    "01064": {
+        "ccc": "01",
+        "ii": "064",
+        "country": "United States",
+        "issuer": "Pilot Thomas Logistics"
+    },
+    "01065": {
+        "ccc": "01",
+        "ii": "065",
+        "country": "United States",
+        "issuer": "OXIO CORP INC."
+    },
+    "01066": {
+        "ccc": "01",
+        "ii": "066",
+        "country": "United States",
+        "issuer": "Lower Colorado River Authority"
+    },
+    "01067": {
+        "ccc": "01",
+        "ii": "067",
+        "country": "United States",
+        "issuer": "TextNow Inc."
+    },
+    "01080": {
+        "ccc": "01",
+        "ii": "080",
+        "country": "United States",
+        "issuer": "Corr Wireless Communications"
+    },
+    "01090": {
+        "ccc": "01",
+        "ii": "090",
+        "country": "United States",
+        "issuer": "Siouxland PCS, Inc."
+    },
+    "01091": {
+        "ccc": "01",
+        "ii": "091",
+        "country": "United States",
+        "issuer": "Allied Wireless Communications Corporation"
+    },
+    "01111": {
+        "ccc": "01",
+        "ii": "111",
+        "country": "United States",
+        "issuer": "Citizen Utilities Company"
+    },
+    "01123": {
+        "ccc": "01",
+        "ii": "123",
+        "country": "United States",
+        "issuer": "ATC"
+    },
+    "01149": {
+        "ccc": "01",
+        "ii": "149",
+        "country": "United States",
+        "issuer": "OptimERA Inc."
+    },
+    "01160": {
+        "ccc": "01",
+        "ii": "160",
+        "country": "United States",
+        "issuer": "T-Mobile USA"
+    },
+    "01170": {
+        "ccc": "01",
+        "ii": "170",
+        "country": "United States",
+        "issuer": "Tampnet INC"
+    },
+    "01200": {
+        "ccc": "01",
+        "ii": "200",
+        "country": "United States",
+        "issuer": "BellSouth Services"
+    },
+    "01210": {
+        "ccc": "01",
+        "ii": "210",
+        "country": "United States",
+        "issuer": "T-Mobile USA"
+    },
+    "01211": {
+        "ccc": "01",
+        "ii": "211",
+        "country": "United States",
+        "issuer": "RCI Corporation"
+    },
+    "01220": {
+        "ccc": "01",
+        "ii": "220",
+        "country": "United States",
+        "issuer": "Chesapeake & Potomac telephone Company of Washington"
+    },
+    "01221": {
+        "ccc": "01",
+        "ii": "221",
+        "country": "United States",
+        "issuer": "Chesapeake & Potomac Telephone Company of Maryland"
+    },
+    "01222": {
+        "ccc": "01",
+        "ii": "222",
+        "country": "United States",
+        "issuer": "MCI WorldCom"
+    },
+    "01224": {
+        "ccc": "01",
+        "ii": "224",
+        "country": "United States",
+        "issuer": "Chesapeake & Potomac Telephone Company of West Virginia"
+    },
+    "01226": {
+        "ccc": "01",
+        "ii": "226",
+        "country": "United States",
+        "issuer": "Diamond State Telephone Company"
+    },
+    "01227": {
+        "ccc": "01",
+        "ii": "227",
+        "country": "United States",
+        "issuer": "Bell of Pennsylvania"
+    },
+    "01229": {
+        "ccc": "01",
+        "ii": "229",
+        "country": "United States",
+        "issuer": "New Jersey Bell Telephone Company"
+    },
+    "01230": {
+        "ccc": "01",
+        "ii": "230",
+        "country": "United States",
+        "issuer": "T-Mobile USA"
+    },
+    "01234": {
+        "ccc": "01",
+        "ii": "234",
+        "country": "United States",
+        "issuer": "Southern New England Telephone"
+    },
+    "01235": {
+        "ccc": "01",
+        "ii": "235",
+        "country": "United States",
+        "issuer": "Chesapeake & Potomac Telephone Company of Virginia"
+    },
+    "01240": {
+        "ccc": "01",
+        "ii": "240",
+        "country": "United States",
+        "issuer": "T-Mobile USA"
+    },
+    "01246": {
+        "ccc": "01",
+        "ii": "246",
+        "country": "United States",
+        "issuer": "China Telephone Company"
+    },
+    "01253": {
+        "ccc": "01",
+        "ii": "253",
+        "country": "United States",
+        "issuer": "AT&T"
+    },
+    "01260": {
+        "ccc": "01",
+        "ii": "260",
+        "country": "United States",
+        "issuer": "T-Mobile USA"
+    },
+    "01266": {
+        "ccc": "01",
+        "ii": "266",
+        "country": "United States",
+        "issuer": "Com Systems"
+    },
+    "01270": {
+        "ccc": "01",
+        "ii": "270",
+        "country": "United States",
+        "issuer": "T-Mobile USA"
+    },
+    "01272": {
+        "ccc": "01",
+        "ii": "272",
+        "country": "United States",
+        "issuer": "Bell of Pennsylvania"
+    },
+    "01273": {
+        "ccc": "01",
+        "ii": "273",
+        "country": "United States",
+        "issuer": "Chesapeake & Potomac telephone Company of Washington"
+    },
+    "01276": {
+        "ccc": "01",
+        "ii": "276",
+        "country": "United States",
+        "issuer": "Chesapeake & Potomac Telephone Company of Maryland"
+    },
+    "01278": {
+        "ccc": "01",
+        "ii": "278",
+        "country": "United States",
+        "issuer": "Chesapeake & Potomac Telephone Company of Virginia"
+    },
+    "01279": {
+        "ccc": "01",
+        "ii": "279",
+        "country": "United States",
+        "issuer": "Chesapeake & Potomac Telephone Company of West Virginia"
+    },
+    "01288": {
+        "ccc": "01",
+        "ii": "288",
+        "country": "United States",
+        "issuer": "AT&T"
+    },
+    "01300": {
+        "ccc": "01",
+        "ii": "300",
+        "country": "United States",
+        "issuer": "BellSouth Services"
+    },
+    "01310": {
+        "ccc": "01",
+        "ii": "310",
+        "country": "United States",
+        "issuer": "T-Mobile USA"
+    },
+    "01311": {
+        "ccc": "01",
+        "ii": "311",
+        "country": "United States",
+        "issuer": "Farmers Cellular Telephone Inc."
+    },
+    "01318": {
+        "ccc": "01",
+        "ii": "318",
+        "country": "United States",
+        "issuer": "Long Distance Savers"
+    },
+    "01321": {
+        "ccc": "01",
+        "ii": "321",
+        "country": "United States",
+        "issuer": "US Intelco Networks Inc."
+    },
+    "01333": {
+        "ccc": "01",
+        "ii": "333",
+        "country": "United States",
+        "issuer": "Sprint Corporation"
+    },
+    "01340": {
+        "ccc": "01",
+        "ii": "340",
+        "country": "United States",
+        "issuer": "Westlink Communications LLC"
+    },
+    "01345": {
+        "ccc": "01",
+        "ii": "345",
+        "country": "United States",
+        "issuer": "Spectrum Wireless Holdings, LLC"
+    },
+    "01350": {
+        "ccc": "01",
+        "ii": "350",
+        "country": "United States",
+        "issuer": "Com Systems"
+    },
+    "01357": {
+        "ccc": "01",
+        "ii": "357",
+        "country": "United States",
+        "issuer": "Eastern Telecommunication Services Company"
+    },
+    "01362": {
+        "ccc": "01",
+        "ii": "362",
+        "country": "United States",
+        "issuer": "Dobson Telephone Company Inc."
+    },
+    "01366": {
+        "ccc": "01",
+        "ii": "366",
+        "country": "United States",
+        "issuer": "Telecom USA"
+    },
+    "01371": {
+        "ccc": "01",
+        "ii": "371",
+        "country": "United States",
+        "issuer": "Commnet Wireless LLC"
+    },
+    "01378": {
+        "ccc": "01",
+        "ii": "378",
+        "country": "United States",
+        "issuer": "Diamond State Telephone Company"
+    },
+    "01382": {
+        "ccc": "01",
+        "ii": "382",
+        "country": "United States",
+        "issuer": "Dobson Telephone Company Inc."
+    },
+    "01400": {
+        "ccc": "01",
+        "ii": "400",
+        "country": "United States",
+        "issuer": "Telus Communications Inc."
+    },
+    "01432": {
+        "ccc": "01",
+        "ii": "432",
+        "country": "United States",
+        "issuer": "LiTel Telecommunications Corporation"
+    },
+    "01433": {
+        "ccc": "01",
+        "ii": "433",
+        "country": "United States",
+        "issuer": "Verizon Communications Corporation"
+    },
+    "01444": {
+        "ccc": "01",
+        "ii": "444",
+        "country": "United States",
+        "issuer": "Verizon Communications Corporation"
+    },
+    "01450": {
+        "ccc": "01",
+        "ii": "450",
+        "country": "United States",
+        "issuer": "North East Colorado Cellular Inc."
+    },
+    "01460": {
+        "ccc": "01",
+        "ii": "460",
+        "country": "United States",
+        "issuer": "Wireless Communications Ventures dba NewCore Wireless"
+    },
+    "01464": {
+        "ccc": "01",
+        "ii": "464",
+        "country": "United States",
+        "issuer": "Vyvx Telecom Inc."
+    },
+    "01470": {
+        "ccc": "01",
+        "ii": "470",
+        "country": "United States",
+        "issuer": "Ntelos, Inc."
+    },
+    "01474": {
+        "ccc": "01",
+        "ii": "474",
+        "country": "United States",
+        "issuer": "Pine Tree Tel & Tel Company"
+    },
+    "01480": {
+        "ccc": "01",
+        "ii": "480",
+        "country": "United States",
+        "issuer": "Verizon Wireless"
+    },
+    "01483": {
+        "ccc": "01",
+        "ii": "483",
+        "country": "United States",
+        "issuer": "Verizon Communications Corporation"
+    },
+    "01486": {
+        "ccc": "01",
+        "ii": "486",
+        "country": "United States",
+        "issuer": "Verizon Communications Corporation"
+    },
+    "01487": {
+        "ccc": "01",
+        "ii": "487",
+        "country": "United States",
+        "issuer": "Verizon Communications Corporation"
+    },
+    "01488": {
+        "ccc": "01",
+        "ii": "488",
+        "country": "United States",
+        "issuer": "ITT-US Transmission Systems Inc."
+    },
+    "01489": {
+        "ccc": "01",
+        "ii": "489",
+        "country": "United States",
+        "issuer": "Verizon Communications Corporation"
+    },
+    "01503": {
+        "ccc": "01",
+        "ii": "503",
+        "country": "United States",
+        "issuer": "Fone America Incoporated"
+    },
+    "01505": {
+        "ccc": "01",
+        "ii": "505",
+        "country": "United States",
+        "issuer": "San Marcos Long Distance"
+    },
+    "01530": {
+        "ccc": "01",
+        "ii": "530",
+        "country": "United States",
+        "issuer": "Wireless Communications Ventures dba NewCore Wireless"
+    },
+    "01551": {
+        "ccc": "01",
+        "ii": "551",
+        "country": "United States",
+        "issuer": "IMSI.AI LLC"
+    },
+    "01555": {
+        "ccc": "01",
+        "ii": "555",
+        "country": "United States",
+        "issuer": "Creative Communications"
+    },
+    "01580": {
+        "ccc": "01",
+        "ii": "580",
+        "country": "United States",
+        "issuer": "T-Mobile USA"
+    },
+    "01610": {
+        "ccc": "01",
+        "ii": "610",
+        "country": "United States",
+        "issuer": "Ntelos, Inc."
+    },
+    "01625": {
+        "ccc": "01",
+        "ii": "625",
+        "country": "United States",
+        "issuer": "Operator Assistance Network"
+    },
+    "01626": {
+        "ccc": "01",
+        "ii": "626",
+        "country": "United States",
+        "issuer": "Operator Assistance Network"
+    },
+    "01638": {
+        "ccc": "01",
+        "ii": "638",
+        "country": "United States",
+        "issuer": "New England Telephone & Telegraph Company"
+    },
+    "01652": {
+        "ccc": "01",
+        "ii": "652",
+        "country": "United States",
+        "issuer": "New Jersey Bell Telephone Company"
+    },
+    "01663": {
+        "ccc": "01",
+        "ii": "663",
+        "country": "United States",
+        "issuer": "McLoud Telephone Company Inc."
+    },
+    "01666": {
+        "ccc": "01",
+        "ii": "666",
+        "country": "United States",
+        "issuer": "McLoud Telephone Company Inc."
+    },
+    "01669": {
+        "ccc": "01",
+        "ii": "669",
+        "country": "United States",
+        "issuer": "Steelville Telephone Exchange Inc."
+    },
+    "01678": {
+        "ccc": "01",
+        "ii": "678",
+        "country": "United States",
+        "issuer": "African Communications Group, Inc."
+    },
+    "01680": {
+        "ccc": "01",
+        "ii": "680",
+        "country": "United States",
+        "issuer": "GreenFly LLC"
+    },
+    "01692": {
+        "ccc": "01",
+        "ii": "692",
+        "country": "United States",
+        "issuer": "NorthWestern Bell Telephone Company"
+    },
+    "01696": {
+        "ccc": "01",
+        "ii": "696",
+        "country": "United States",
+        "issuer": "Nynex Corporation"
+    },
+    "01698": {
+        "ccc": "01",
+        "ii": "698",
+        "country": "United States",
+        "issuer": "New York Telephone Company"
+    },
+    "01710": {
+        "ccc": "01",
+        "ii": "710",
+        "country": "United States",
+        "issuer": "Missouri Telephone Company"
+    },
+    "01724": {
+        "ccc": "01",
+        "ii": "724",
+        "country": "United States",
+        "issuer": "RCI Corporation"
+    },
+    "01763": {
+        "ccc": "01",
+        "ii": "763",
+        "country": "United States",
+        "issuer": "Southern New England Telephone"
+    },
+    "01777": {
+        "ccc": "01",
+        "ii": "777",
+        "country": "United States",
+        "issuer": "XEL Communications Inc."
+    },
+    "01781": {
+        "ccc": "01",
+        "ii": "781",
+        "country": "United States",
+        "issuer": "Pacific Bell"
+    },
+    "01782": {
+        "ccc": "01",
+        "ii": "782",
+        "country": "United States",
+        "issuer": "Rochester Telephone Corporation"
+    },
+    "01784": {
+        "ccc": "01",
+        "ii": "784",
+        "country": "United States",
+        "issuer": "Pacific Bell"
+    },
+    "01786": {
+        "ccc": "01",
+        "ii": "786",
+        "country": "United States",
+        "issuer": "Standish Telephone Company"
+    },
+    "01792": {
+        "ccc": "01",
+        "ii": "792",
+        "country": "United States",
+        "issuer": "SouthWestern Bell Telephone Company"
+    },
+    "01798": {
+        "ccc": "01",
+        "ii": "798",
+        "country": "United States",
+        "issuer": "SouthWestern Bell Telephone Company"
+    },
+    "01800": {
+        "ccc": "01",
+        "ii": "800",
+        "country": "United States",
+        "issuer": "XEL Communications Inc."
+    },
+    "01808": {
+        "ccc": "01",
+        "ii": "808",
+        "country": "United States",
+        "issuer": "Verizon Communications Corporation"
+    },
+    "01822": {
+        "ccc": "01",
+        "ii": "822",
+        "country": "United States",
+        "issuer": "NorthWestern Bell Telephone Company"
+    },
+    "01824": {
+        "ccc": "01",
+        "ii": "824",
+        "country": "United States",
+        "issuer": "Teleport Communications"
+    },
+    "01852": {
+        "ccc": "01",
+        "ii": "852",
+        "country": "United States",
+        "issuer": "Telecom USA"
+    },
+    "01866": {
+        "ccc": "01",
+        "ii": "866",
+        "country": "United States",
+        "issuer": "Alascom Inc."
+    },
+    "01867": {
+        "ccc": "01",
+        "ii": "867",
+        "country": "United States",
+        "issuer": "Transaction Network Services Inc."
+    },
+    "01868": {
+        "ccc": "01",
+        "ii": "868",
+        "country": "United States",
+        "issuer": "Eastern New Mexico Telephone Cooperative"
+    },
+    "01872": {
+        "ccc": "01",
+        "ii": "872",
+        "country": "United States",
+        "issuer": "Pacific Northwest Bell Telephone Company"
+    },
+    "01877": {
+        "ccc": "01",
+        "ii": "877",
+        "country": "United States",
+        "issuer": "Sprint Corporation"
+    },
+    "01878": {
+        "ccc": "01",
+        "ii": "878",
+        "country": "United States",
+        "issuer": "TRT International Inc."
+    },
+    "01884": {
+        "ccc": "01",
+        "ii": "884",
+        "country": "United States",
+        "issuer": "Teleport Communications"
+    },
+    "01888": {
+        "ccc": "01",
+        "ii": "888",
+        "country": "United States",
+        "issuer": "ITT-US Transmission Systems Inc."
+    },
+    "01891": {
+        "ccc": "01",
+        "ii": "891",
+        "country": "United States",
+        "issuer": "Rochester Telephone Corporation"
+    },
+    "01918": {
+        "ccc": "01",
+        "ii": "918",
+        "country": "United States",
+        "issuer": "Atlas Telephone Company, Inc."
+    },
+    "01937": {
+        "ccc": "01",
+        "ii": "937",
+        "country": "United States",
+        "issuer": "Panhandle Telephone Cooperative Inc."
+    },
+    "01948": {
+        "ccc": "01",
+        "ii": "948",
+        "country": "United States",
+        "issuer": "XIT Rural Telephone Cooperative Inc."
+    },
+    "01950": {
+        "ccc": "01",
+        "ii": "950",
+        "country": "United States",
+        "issuer": "MCI WorldCom"
+    },
+    "01988": {
+        "ccc": "01",
+        "ii": "988",
+        "country": "United States",
+        "issuer": "XIT Telecommunications & Technology Inc."
+    },
+    "01999": {
+        "ccc": "01",
+        "ii": "999",
+        "country": "United States",
+        "issuer": "Creative Communications"
+    },
+    "01284": {
+        "ccc": "01",
+        "ii": "284",
+        "country": "United States Virgin Islands",
+        "issuer": "AT&T of the Virgin Islands"
+    }
+}
