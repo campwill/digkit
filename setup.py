@@ -3,8 +3,9 @@ from setuptools import setup, find_packages
 setup(
     name="digkit",
     version="1.0.0",
-    py_modules=["digkit"],
     packages=find_packages(),
+    include_package_data=True,
+    package_data={"digkit": ["data/*.json"]},
     install_requires=[
         "pandas",
         "requests",
@@ -13,7 +14,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "digkit=digkit:main",
+            "digkit=digkit.cli:main",
         ],
     },
     python_requires=">=3.8",

@@ -1,4 +1,6 @@
 import json
+from digkit.utils import load_json
+
 
 # referenced and validated using information from:
 # http://phone.fyicenter.com/1155_ICCID_SIM_Card_Number_Checker_Decoder.html
@@ -6,14 +8,12 @@ import json
 
 # information sourced from:
 # https://github.com/bifravst/e118-iin-list
-with open('data//cccii.json', 'r') as f:
-    cciii_data = json.load(f)
+cciii_data = load_json("cccii.json")
 
 # information sourced from :
 # https://github.com/pbakondy/mcc-mnc-list/
 # https://mcc-mnc.com/
-with open('data//mccmnc.json', 'r') as f:
-    mccmnc_data = json.load(f)
+mccmnc_data = load_json("mccmnc.json")
 
 def luhn_checksum(number):
     num_str = str(number)

@@ -1,5 +1,5 @@
 import argparse
-from scripts import bundleid_lookup, apple_warrant, sqlite_queries, hash_algorithms, domain_lookup, iccid_lookup
+from digkit.scripts import bundleid_lookup, apple_warrant, sqlite_queries, hash_algorithms, domain_lookup, iccid_lookup
 
 def main():
     # parser
