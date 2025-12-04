@@ -99,7 +99,7 @@ MD5 (file.txt): 3e924496fd0105e8bbbb872030465995
 ## Notes
 
 I plan to add the following features:
-* ICCID and IMEI lookup
+* IMEI lookup
 * Cache.sqlite and knowledgeC.db parsers
 * Apple warrant return parser
 * comparitive hashing features
