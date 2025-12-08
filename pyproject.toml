@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=61.0", "wheel"]
+requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -15,7 +15,8 @@ dependencies = [
     "pandas",
     "requests",
     "beautifulsoup4",
-    "python-gnupg"
+    "python-gnupg",
+    "dnspython"
 ]
 
 [project.urls]
@@ -30,7 +31,7 @@ digkit = "digkit.cli:main"
 include-package-data = true
 
 [tool.setuptools.packages.find]
-include = ["digkit"]
+include = ["digkit*"]
 
 [tool.setuptools.package-data]
 digkit = ["data/*.json"]
